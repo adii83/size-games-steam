@@ -1,34 +1,20 @@
 {
-  "3319980": {
-    "appid": 3319980,
-    "title": "The Legend of Heroes: Kai no Kiseki -Farewell, O Zemuria-",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319980/header.jpg?t=1739507056",
-    "price_display": "Rp 921.000",
-    "size_disk_gb": null,
-    "last_retry": "2026-02-20 03:05:28"
+  "3615080": {
+    "appid": 3615080,
+    "title": "Ass Sniffing Simulator",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615080/c8d4ed638c3d13abf649f1cd447099c5b0791d9c/header.jpg?t=1744808532",
+    "price_display": "Rp 1.500.000"
   },
-  "1562940": {
-    "appid": 1562940,
-    "title": "THE LEGEND OF HEROES: HAJIMARI NO KISEKI",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1562940/header.jpg?t=1738804539",
-    "price_display": "Rp 911.900",
-    "size_disk_gb": null,
-    "last_retry": "2026-02-20 03:05:47"
+  "255163": {
+    "appid": 255163,
+    "title": "Call of Duty®: Ghosts - Digital Hardened Edition",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255163/header.jpg?t=1447358804",
+    "price_display": "Rp 1.485.000"
   },
-  "292730": {
-    "appid": 292730,
-    "title": "Call of Duty®: Infinite Warfare",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292730/header.jpg?t=1755558170",
-    "price_display": "Rp 891.000",
-    "size_disk_gb": null,
-    "last_retry": "2026-02-20 03:06:07"
-  },
-  "476600": {
-    "appid": 476600,
-    "title": "Call of Duty®: WWII",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1751302904",
-    "price_display": "Rp 891.000",
-    "size_disk_gb": null,
-    "last_retry": "2026-02-20 03:06:26"
+  "1295660": {
+    "appid": 1295660,
+    "title": "Sid Meier's Civilization VII",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/5b2859906c25a7fe45b0f45b1db6389f6267f9c6/header_alt_assets_2.jpg?t=1762277940",
+    "price_display": "Rp 1.090.000"
   }
 }

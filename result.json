@@ -33,5 +33,19 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1760464343",
     "price_display": "Rp 1.045.000",
     "size_disk_gb": "16.16 GB"
+  },
+  "2933620": {
+    "appid": 2933620,
+    "title": "Call of Duty®: Black Ops 6",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1764712436",
+    "price_display": "Rp 1.040.000",
+    "size_disk_gb": "12.52 GB"
+  },
+  "1680880": {
+    "appid": 1680880,
+    "title": "Forspoken",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1680880/header.jpg?t=1749705225",
+    "price_display": "Rp 1.029.000",
+    "size_disk_gb": "24.07 GB"
   }
 }

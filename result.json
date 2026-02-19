@@ -1,1 +1,34 @@
-{}
+{
+  "3615080": {
+    "appid": 3615080,
+    "title": "Ass Sniffing Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615080/c8d4ed638c3d13abf649f1cd447099c5b0791d9c/header.jpg?t=1744808532",
+    "price_display": "Rp 1.500.000",
+    "size_disk_gb": "1.0 GB"
+  },
+  "255163": {
+    "appid": 255163,
+    "title": "Call of Duty®: Ghosts - Digital Hardened Edition",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255163/header.jpg?t=1447358804",
+    "price_display": "Rp 1.485.000",
+    "size_disk_gb": "40.0 GB"
+  },
+  "2457220": {
+    "appid": 2457220,
+    "title": "Avowed",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1760464343",
+    "price_display": "Rp 1.045.000",
+    "size_disk_gb": "75.0 GB"
+  },
+  "1680880": {
+    "appid": 1680880,
+    "title": "Forspoken",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1680880/header.jpg?t=1749705225",
+    "price_display": "Rp 1.029.000",
+    "size_disk_gb": "150.0 GB"
+  }
+}

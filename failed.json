@@ -1,50 +1,9 @@
 {
-  "3615080": {
-    "appid": 3615080,
-    "title": "Ass Sniffing Simulator",
-    "genre": "Simulation",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615080/c8d4ed638c3d13abf649f1cd447099c5b0791d9c/header.jpg?t=1744808532",
-    "price_display": "Rp 1.500.000",
-    "last_retry": "2026-02-20 03:38:45"
-  },
-  "255163": {
-    "appid": 255163,
-    "title": "Call of Duty®: Ghosts - Digital Hardened Edition",
-    "genre": "Action",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255163/header.jpg?t=1447358804",
-    "price_display": "Rp 1.485.000",
-    "last_retry": "2026-02-20 03:38:48"
-  },
-  "2457220": {
-    "appid": 2457220,
-    "title": "Avowed",
-    "genre": "RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1760464343",
-    "price_display": "Rp 1.045.000",
-    "last_retry": "2026-02-20 03:38:50"
-  },
   "2933620": {
     "appid": 2933620,
     "title": "Call of Duty®: Black Ops 6",
     "genre": "Action",
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933620/header.jpg?t=1764712436",
-    "price_display": "Rp 1.040.000",
-    "last_retry": "2026-02-20 03:38:53"
-  },
-  "1680880": {
-    "appid": 1680880,
-    "title": "Forspoken",
-    "genre": "Action, Adventure, RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1680880/header.jpg?t=1749705225",
-    "price_display": "Rp 1.029.000",
-    "last_retry": "2026-02-20 03:38:56"
-  },
-  "2947440": {
-    "appid": 2947440,
-    "title": "SILENT HILL f",
-    "genre": "Action, Adventure",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947440/7e5d923ac622bd1775ebc9b5d4b5b0a24bf5ed40/header.jpg?t=1763007193",
-    "price_display": "Rp 1.004.000",
-    "last_retry": "2026-02-20 03:39:00"
+    "price_display": "Rp 1.040.000"
   }
 }

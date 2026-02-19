@@ -383,5 +383,61 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888930/header.jpg?t=1750959031",
     "price_display": "Rp 879.000",
     "size_disk_gb": "16.38 GB"
+  },
+  "1895880": {
+    "appid": 1895880,
+    "title": "Ratchet & Clank: Rift Apart",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1895880/header.jpg?t=1750956328",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.64 GB"
+  },
+  "2172010": {
+    "appid": 2172010,
+    "title": "Until Dawn™",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172010/header.jpg?t=1750959555",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.96 GB"
+  },
+  "2215430": {
+    "appid": 2215430,
+    "title": "Ghost of Tsushima DIRECTOR'S CUT",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.79 GB"
+  },
+  "2322010": {
+    "appid": 2322010,
+    "title": "God of War Ragnarök",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1750909504",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.52 GB"
+  },
+  "2420110": {
+    "appid": 2420110,
+    "title": "Horizon Forbidden West™ Complete Edition",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2420110/header.jpg?t=1763576690",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.99 GB"
+  },
+  "2490990": {
+    "appid": 2490990,
+    "title": "Visions of Mana",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2490990/header.jpg?t=1740474763",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.2 GB"
+  },
+  "2499860": {
+    "appid": 2499860,
+    "title": "DRAGON QUEST VII Reimagined",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1761100086",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.71 GB"
+  },
+  "2651280": {
+    "appid": 2651280,
+    "title": "Marvel's Spider-Man 2",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
+    "price_display": "Rp 879.000",
+    "size_disk_gb": "16.54 GB"
   }
 }

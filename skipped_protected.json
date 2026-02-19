@@ -406,5 +406,653 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738530/header.jpg?t=1691057875",
     "price_display": "Rp 550.000",
     "reason": "protected_not_in_fx"
+  },
+  "364360": {
+    "appid": 364360,
+    "title": "Total War: WARHAMMER",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/364360/header.jpg?t=1763646608",
+    "price_display": "Rp 540.999",
+    "reason": "protected_not_in_fx"
+  },
+  "779340": {
+    "appid": 779340,
+    "title": "Total War: THREE KINGDOMS",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/779340/header.jpg?t=1763646247",
+    "price_display": "Rp 540.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1451190": {
+    "appid": 1451190,
+    "title": "Undisputed",
+    "genre": "Action, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1451190/header.jpg?t=1761667556",
+    "price_display": "Rp 534.000",
+    "reason": "protected_not_in_fx"
+  },
+  "637100": {
+    "appid": 637100,
+    "title": "Sonic Forces",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/637100/header.jpg?t=1762752729",
+    "price_display": "Rp 532.000",
+    "reason": "protected_not_in_fx"
+  },
+  "785260": {
+    "appid": 785260,
+    "title": "Team Sonic Racing™",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/785260/header.jpg?t=1762752407",
+    "price_display": "Rp 532.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2022670": {
+    "appid": 2022670,
+    "title": "SONIC SUPERSTARS",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2022670/header.jpg?t=1741795573",
+    "price_display": "Rp 530.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2513280": {
+    "appid": 2513280,
+    "title": "SONIC X SHADOW GENERATIONS",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2513280/header.jpg?t=1762761352",
+    "price_display": "Rp 530.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2055290": {
+    "appid": 2055290,
+    "title": "Sonic Colors: Ultimate",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2055290/header.jpg?t=1762761448",
+    "price_display": "Rp 529.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1761390": {
+    "appid": 1761390,
+    "title": "Hatsune Miku: Project DIVA Mega Mix+",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761390/header.jpg?t=1763684613",
+    "price_display": "Rp 526.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2495100": {
+    "appid": 2495100,
+    "title": "Hello Kitty Island Adventure",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2495100/33b3efa148506359eb8d6e973f59a38cb95cc794/header.jpg?t=1758643923",
+    "price_display": "Rp 525.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1277400": {
+    "appid": 1277400,
+    "title": "Monster Hunter Stories 2: Wings of Ruin",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1277400/header.jpg?t=1764119977",
+    "price_display": "Rp 519.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1446780": {
+    "appid": 1446780,
+    "title": "MONSTER HUNTER RISE",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1446780/header.jpg?t=1734977993",
+    "price_display": "Rp 519.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1798010": {
+    "appid": 1798010,
+    "title": "Mega Man Battle Network Legacy Collection Vol. 1",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1798010/header.jpg?t=1727741837",
+    "price_display": "Rp 519.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1798020": {
+    "appid": 1798020,
+    "title": "Mega Man Battle Network Legacy Collection Vol. 2",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1798020/header.jpg?t=1727741849",
+    "price_display": "Rp 519.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2401970": {
+    "appid": 2401970,
+    "title": "Ace Attorney Investigations Collection",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2401970/header.jpg?t=1747359314",
+    "price_display": "Rp 519.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2424110": {
+    "appid": 2424110,
+    "title": "Demon Slayer -Kimetsu no Yaiba- Sweep the Board!",
+    "genre": "Action, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2424110/header.jpg?t=1762753626",
+    "price_display": "Rp 518.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2288350": {
+    "appid": 2288350,
+    "title": "RAIDOU Remastered: The Mystery of the Soulless Army",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2288350/header.jpg?t=1762275663",
+    "price_display": "Rp 509.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1926980": {
+    "appid": 1926980,
+    "title": "King of Meat",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926980/e30304ff8ef5fef92be7737c91a76843f139fd43/header.jpg?t=1763748604",
+    "price_display": "Rp 499.900",
+    "reason": "protected_not_in_fx"
+  },
+  "1364780": {
+    "appid": 1364780,
+    "title": "Street Fighter™ 6",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1761116384",
+    "price_display": "Rp 490.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2400430": {
+    "appid": 2400430,
+    "title": "Capcom Fighting Collection 2",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400430/header.jpg?t=1757478014",
+    "price_display": "Rp 490.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2688950": {
+    "appid": 2688950,
+    "title": "Planet Coaster 2",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2688950/header.jpg?t=1764599284",
+    "price_display": "Rp 488.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2878600": {
+    "appid": 2878600,
+    "title": "Harry Potter: Quidditch Champions",
+    "genre": "Action, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878600/header.jpg?t=1733419991",
+    "price_display": "Rp 484.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1238000": {
+    "appid": 1238000,
+    "title": "Mass Effect™: Andromeda Deluxe Edition",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238000/8c7ff2de01854469c5202e522d8f8c00ab6ad052/header.jpg?t=1756158782",
+    "price_display": "Rp 479.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1426210": {
+    "appid": 1426210,
+    "title": "It Takes Two",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1763484491",
+    "price_display": "Rp 479.000",
+    "reason": "protected_not_in_fx"
+  },
+  "429660": {
+    "appid": 429660,
+    "title": "Tales of Berseria™",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/429660/header.jpg?t=1763571708",
+    "price_display": "Rp 460.000",
+    "reason": "protected_not_in_fx"
+  },
+  "438490": {
+    "appid": 438490,
+    "title": "GOD EATER 2 Rage Burst",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/438490/header.jpg?t=1703657122",
+    "price_display": "Rp 460.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2290180": {
+    "appid": 2290180,
+    "title": "Riders Republic",
+    "genre": "Massively Multiplayer, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2290180/2eb6256ba124d79e77b005e29293671acb77e504/header.jpg?t=1760115205",
+    "price_display": "Rp 459.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2750080": {
+    "appid": 2750080,
+    "title": "The Settlers: New Allies",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2750080/header.jpg?t=1747657424",
+    "price_display": "Rp 459.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1844380": {
+    "appid": 1844380,
+    "title": "Warhammer Age of Sigmar: Realms of Ruin",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1844380/header.jpg?t=1728992684",
+    "price_display": "Rp 449.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1172620": {
+    "appid": 1172620,
+    "title": "Sea of Thieves: 2025 Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/header.jpg?t=1755260861",
+    "price_display": "Rp 449.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2373990": {
+    "appid": 2373990,
+    "title": "Solo Leveling: ARISE OVERDRIVE",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2373990/018068a74847b3953278efacca07cfbe537a46c7/header.jpg?t=1764021513",
+    "price_display": "Rp 449.000",
+    "reason": "protected_not_in_fx"
+  },
+  "809890": {
+    "appid": 809890,
+    "title": "Shining Resonance Refrain",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/809890/header.jpg?t=1721827529",
+    "price_display": "Rp 444.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2591280": {
+    "appid": 2591280,
+    "title": "F1® Manager 2024",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591280/header.jpg?t=1744131889",
+    "price_display": "Rp 434.999",
+    "reason": "protected_not_in_fx"
+  },
+  "321960": {
+    "appid": 321960,
+    "title": "Might & Magic® Heroes® VII",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/321960/header.jpg?t=1692823130",
+    "price_display": "Rp 409.000",
+    "reason": "protected_not_in_fx"
+  },
+  "375900": {
+    "appid": 375900,
+    "title": "Trackmania® Turbo",
+    "genre": "Massively Multiplayer, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375900/header.jpg?t=1680016593",
+    "price_display": "Rp 409.000",
+    "reason": "protected_not_in_fx"
+  },
+  "375910": {
+    "appid": 375910,
+    "title": "Anno 2205™",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375910/header.jpg?t=1692034365",
+    "price_display": "Rp 409.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1830630": {
+    "appid": 1830630,
+    "title": "Overpass 2",
+    "genre": "Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1830630/header.jpg?t=1725351831",
+    "price_display": "Rp 399.999",
+    "reason": "protected_not_in_fx"
+  },
+  "633230": {
+    "appid": 633230,
+    "title": "NARUTO TO BORUTO: SHINOBI STRIKER",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633230/header.jpg?t=1763679636",
+    "price_display": "Rp 399.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2622380": {
+    "appid": 2622380,
+    "title": "ELDEN RING NIGHTREIGN",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1763058693",
+    "price_display": "Rp 399.000",
+    "reason": "protected_not_in_fx"
+  },
+  "546050": {
+    "appid": 546050,
+    "title": "Puyo Puyo™Tetris®",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/546050/header.jpg?t=1763674571",
+    "price_display": "Rp 398.000",
+    "reason": "protected_not_in_fx"
+  },
+  "722230": {
+    "appid": 722230,
+    "title": "L.A. Noire: The VR Case Files",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/722230/header.jpg?t=1733938478",
+    "price_display": "Rp 395.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1794960": {
+    "appid": 1794960,
+    "title": "Sonic Origins",
+    "genre": "Action, Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1794960/header.jpg?t=1762752035",
+    "price_display": "Rp 394.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1810820": {
+    "appid": 1810820,
+    "title": "Etrian Odyssey III HD",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1810820/header.jpg?t=1763531464",
+    "price_display": "Rp 390.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1868170": {
+    "appid": 1868170,
+    "title": "Etrian Odyssey II HD",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868170/header.jpg?t=1763531945",
+    "price_display": "Rp 390.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1868180": {
+    "appid": 1868180,
+    "title": "Etrian Odyssey HD",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1868180/header.jpg?t=1763531289",
+    "price_display": "Rp 390.000",
+    "reason": "protected_not_in_fx"
+  },
+  "586200": {
+    "appid": 586200,
+    "title": "Street Fighter 30th Anniversary Collection",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/586200/header.jpg?t=1720492165",
+    "price_display": "Rp 389.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1967430": {
+    "appid": 1967430,
+    "title": "Ghost Trick: Phantom Detective",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1967430/header.jpg?t=1761525968",
+    "price_display": "Rp 389.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2356560": {
+    "appid": 2356560,
+    "title": "Monster Hunter Stories",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2356560/header.jpg?t=1732755730",
+    "price_display": "Rp 389.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1237970": {
+    "appid": 1237970,
+    "title": "Titanfall® 2",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237970/header.jpg?t=1726160226",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1238020": {
+    "appid": 1238020,
+    "title": "Mass Effect™ 3 N7 Digital Deluxe Edition (2012)",
+    "genre": "Action, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238020/header.jpg?t=1683275829",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1262240": {
+    "appid": 1262240,
+    "title": "Plants vs. Zombies: Battle for Neighborville™",
+    "genre": "Action, Casual, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262240/header.jpg?t=1747167474",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1262540": {
+    "appid": 1262540,
+    "title": "Need for Speed™",
+    "genre": "Action, Adventure, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262540/header.jpg?t=1716834386",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1462570": {
+    "appid": 1462570,
+    "title": "Lost in Random™",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462570/header.jpg?t=1662047426",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1922560": {
+    "appid": 1922560,
+    "title": "Plants vs. Zombies™ Garden Warfare 2: Deluxe Edition",
+    "genre": "Action, Casual, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1922560/header.jpg?t=1747234782",
+    "price_display": "Rp 379.000",
+    "reason": "protected_not_in_fx"
+  },
+  "694280": {
+    "appid": 694280,
+    "title": "Zombie Army 4: Dead War",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694280/header.jpg?t=1734452546",
+    "price_display": "Rp 375.999",
+    "reason": "protected_not_in_fx"
+  },
+  "801800": {
+    "appid": 801800,
+    "title": "Atomfall",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/801800/header.jpg?t=1762346241",
+    "price_display": "Rp 375.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2051010": {
+    "appid": 2051010,
+    "title": "Professional Baseball Spirits 2024-2025",
+    "genre": "Action, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2051010/03a3c57892f965d871a12cf6d3a8c9e67546333d/header.jpg?t=1745216612",
+    "price_display": "Rp 375.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2169200": {
+    "appid": 2169200,
+    "title": "Sniper Elite: Resistance",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2169200/header.jpg?t=1753950781",
+    "price_display": "Rp 375.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2185060": {
+    "appid": 2185060,
+    "title": "Two Point Museum",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2185060/f518d1aa2754296e280ba3fe0d2bd4392fa6e3eb/header.jpg?t=1763646611",
+    "price_display": "Rp 360.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1649080": {
+    "appid": 1649080,
+    "title": "Two Point Campus",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1649080/header.jpg?t=1763646611",
+    "price_display": "Rp 359.999",
+    "reason": "protected_not_in_fx"
+  },
+  "712100": {
+    "appid": 712100,
+    "title": "A Total War Saga: THRONES OF BRITANNIA",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/712100/header.jpg?t=1764166677",
+    "price_display": "Rp 359.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1099410": {
+    "appid": 1099410,
+    "title": "A Total War Saga: TROY",
+    "genre": "Action, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1099410/header.jpg?t=1763642600",
+    "price_display": "Rp 359.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1937780": {
+    "appid": 1937780,
+    "title": "Total War: PHARAOH",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1937780/header.jpg?t=1763646681",
+    "price_display": "Rp 359.000",
+    "reason": "protected_not_in_fx"
+  },
+  "285190": {
+    "appid": 285190,
+    "title": "Warhammer 40,000: Dawn of War III",
+    "genre": "Action, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/285190/header.jpg?t=1750948681",
+    "price_display": "Rp 354.999",
+    "reason": "protected_not_in_fx"
+  },
+  "304390": {
+    "appid": 304390,
+    "title": "FOR HONOR™",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/304390/2c22776de84112b1c4f39da2597567bb450386a0/header.jpg?t=1763759907",
+    "price_display": "Rp 349.000",
+    "reason": "protected_not_in_fx"
+  },
+  "950050": {
+    "appid": 950050,
+    "title": "Starlink: Battle for Atlas",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/950050/header.jpg?t=1679998318",
+    "price_display": "Rp 349.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2751000": {
+    "appid": 2751000,
+    "title": "Prince of Persia The Lost Crown",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2751000/header.jpg?t=1736259456",
+    "price_display": "Rp 349.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2840770": {
+    "appid": 2840770,
+    "title": "Avatar: Frontiers of Pandora™",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840770/27aa6d8f9c3f11dc93a557164d30a9ba08a7c46a/header.jpg?t=1764095852",
+    "price_display": "Rp 349.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2929170": {
+    "appid": 2929170,
+    "title": "NEW MONOPOLY®",
+    "genre": "Casual, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929170/98ccc61e7e8aa63fb2eacd6f3181cd1f6d2d734c/header.jpg?t=1763686109",
+    "price_display": "Rp 349.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1602010": {
+    "appid": 1602010,
+    "title": "Persona 4 Arena Ultimax",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1602010/header.jpg?t=1763530579",
+    "price_display": "Rp 348.000",
+    "reason": "protected_not_in_fx"
+  },
+  "626690": {
+    "appid": 626690,
+    "title": "Sword Art Online: Fatal Bullet",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/626690/header.jpg?t=1750782367",
+    "price_display": "Rp 340.000",
+    "reason": "protected_not_in_fx"
+  },
+  "650510": {
+    "appid": 650510,
+    "title": "ZONE OF THE ENDERS THE 2nd RUNNER : M∀RS / アヌビス ゾーン・オブ・エンダーズ : マーズ",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650510/header.jpg?t=1737487666",
+    "price_display": "Rp 340.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1817230": {
+    "appid": 1817230,
+    "title": "Hi-Fi RUSH",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817230/header.jpg?t=1763078898",
+    "price_display": "Rp 329.990",
+    "reason": "protected_not_in_fx"
+  },
+  "1374490": {
+    "appid": 1374490,
+    "title": "RuneScape: Dragonwilds",
+    "genre": "Action, Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/474cbd686060aef1fe80f30941475a8df776a048/header.jpg?t=1759143364",
+    "price_display": "Rp 319.999",
+    "reason": "protected_not_in_fx"
+  },
+  "238750": {
+    "appid": 238750,
+    "title": "Might & Magic X - Legacy",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238750/header.jpg?t=1747657195",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "365590": {
+    "appid": 365590,
+    "title": "Tom Clancy’s The Division™",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365590/header.jpg?t=1758819844",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "374520": {
+    "appid": 374520,
+    "title": "Champions of Anteria™",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374520/header.jpg?t=1694554297",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "445310": {
+    "appid": 445310,
+    "title": "Might and Magic: Heroes VII – Trial by Fire",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445310/header.jpg?t=1692823199",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "460920": {
+    "appid": 460920,
+    "title": "Steep™",
+    "genre": "Action, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460920/0e27cc9c517c046f3ce08e34253eca5d402b3177/header.jpg?t=1751544831",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1392700": {
+    "appid": 1392700,
+    "title": "AGOS - A Game Of Space",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392700/header.jpg?t=1679594848",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2383760": {
+    "appid": 2383760,
+    "title": "Monopoly Madness",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2383760/header.jpg?t=1688656939",
+    "price_display": "Rp 309.000",
+    "reason": "protected_not_in_fx"
   }
 }

@@ -22,45 +22,5 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2291060/header.jpg?t=1750929491",
     "price_display": "Rp 921.000",
     "reason": "protected_not_in_fx"
-  },
-  "2852190": {
-    "appid": 2852190,
-    "title": "Monster Hunter Stories 3: Twisted Reflection",
-    "genre": "Adventure, RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2852190/de3717096a093d7bf9ab504563621bc17e37ccf4/header.jpg?t=1762993500",
-    "price_display": "Rp 910.000",
-    "reason": "protected_not_in_fx"
-  },
-  "315210": {
-    "appid": 315210,
-    "title": "Suicide Squad: Kill the Justice League",
-    "genre": "Action",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/315210/header.jpg?t=1739898445",
-    "price_display": "Rp 899.000",
-    "reason": "protected_not_in_fx"
-  },
-  "2499860": {
-    "appid": 2499860,
-    "title": "DRAGON QUEST VII Reimagined",
-    "genre": "Adventure, RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2499860/ea0c655407c078a8994b7e91256c79d90169133a/header.jpg?t=1761100086",
-    "price_display": "Rp 879.000",
-    "reason": "protected_not_in_fx"
-  },
-  "2893570": {
-    "appid": 2893570,
-    "title": "DRAGON QUEST I & II HD-2D Remake",
-    "genre": "RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893570/035bf8ec4e6bd65ebea782063b1157e526533740/header.jpg?t=1761839944",
-    "price_display": "Rp 879.000",
-    "reason": "protected_not_in_fx"
-  },
-  "2246340": {
-    "appid": 2246340,
-    "title": "Monster Hunter Wilds",
-    "genre": "Action, Adventure, RPG",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1761091530",
-    "price_display": "Rp 869.000",
-    "reason": "protected_not_in_fx"
   }
 }

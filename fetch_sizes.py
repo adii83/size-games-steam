@@ -4,6 +4,7 @@ import time
 import re
 import os
 import random
+import subprocess
 import requests
 from tqdm import tqdm
 
@@ -12,9 +13,10 @@ INPUT_GZ = "steam_data.json.gz"
 OUTPUT_JSON = "result.json"
 FAILED_JSON = "failed.json"
 
-SAVE_EVERY = 10        # simpan tiap 10 item (lebih aman)
-DELAY_SEC = 1.0        # delay dasar (lebih stabil)
-MAX_RETRIES = 5        # retry lebih sabar
+SAVE_EVERY = 10        # autosave file
+PUSH_EVERY = 1000      # auto git push tiap 1000 item diproses
+DELAY_SEC = 1.0        # delay dasar
+MAX_RETRIES = 5
 # ============================================
 
 USER_AGENTS = [
@@ -25,7 +27,6 @@ USER_AGENTS = [
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
 ]
 
-# Globals supaya bisa di-save saat Ctrl+C
 out = {}
 failed = {}
 
@@ -58,8 +59,7 @@ def beautify_size_gb(value, seed=None):
         random.seed(seed)
 
     decimal = random.randint(1, 99) / 100.0
-    pretty = round(num + decimal, 2)
-    return f"{pretty} GB"
+    return f"{round(num + decimal, 2)} GB"
 
 def load_json_gz(path):
     with gzip.open(path, "rt", encoding="utf-8") as f:
@@ -135,6 +135,15 @@ def try_fetch_size(appid):
         return size
     return get_size_from_store(appid)
 
+def git_push(message):
+    try:
+        subprocess.run(["git", "add", OUTPUT_JSON, FAILED_JSON], check=True)
+        subprocess.run(["git", "commit", "-m", message], check=True)
+        subprocess.run(["git", "push"], check=True)
+        print("🚀 Auto-pushed to GitHub")
+    except subprocess.CalledProcessError as e:
+        print("⚠️ Git push failed:", e)
+
 def main():
     global out, failed
 
@@ -152,15 +161,8 @@ def main():
             continue
 
         appid = g.get("appid")
-        size = None
 
-        try:
-            size = try_fetch_size(appid)
-        except Exception as e:
-            failed[key]["error"] = str(e)
-            time.sleep(DELAY_SEC)
-            continue
-
+        size = try_fetch_size(appid)
         if size:
             g["size_disk_gb"] = size
             out[key] = g
@@ -172,19 +174,22 @@ def main():
         save_json(FAILED_JSON, failed)
         time.sleep(DELAY_SEC)
 
-    # 2) Proses data baru
+    # 2) Filter pending items (biar progress nggak balik ke 0)
     items = list(src.values())
     items.sort(key=lambda x: x.get("price_normalized") or 0, reverse=True)
 
-    print("Processing new items...")
-    processed = 0
+    pending_items = []
+    for g in items:
+        key = str(g.get("appid"))
+        if key not in out and key not in failed:
+            pending_items.append(g)
 
-    for g in tqdm(items, desc="Fetching new"):
+    print(f"Processing new items (pending: {len(pending_items)})...")
+
+    processed = 0
+    for g in tqdm(pending_items, desc="Fetching new"):
         appid = g.get("appid")
         key = str(appid)
-
-        if key in out or key in failed:
-            continue
 
         if is_free_or_invalid(g.get("price_normalized"), g.get("price_display")):
             continue
@@ -197,15 +202,11 @@ def main():
             "size_disk_gb": None
         }
 
-        try:
-            size = try_fetch_size(appid)
-            if size:
-                result_item["size_disk_gb"] = size
-                out[key] = result_item
-            else:
-                failed[key] = result_item
-        except Exception as e:
-            result_item["error"] = str(e)
+        size = try_fetch_size(appid)
+        if size:
+            result_item["size_disk_gb"] = size
+            out[key] = result_item
+        else:
             failed[key] = result_item
 
         processed += 1
@@ -214,10 +215,15 @@ def main():
             save_json(OUTPUT_JSON, out)
             save_json(FAILED_JSON, failed)
 
+        if processed % PUSH_EVERY == 0:
+            git_push(f"Auto update sizes: +{processed}")
+
         time.sleep(DELAY_SEC)
 
     save_json(OUTPUT_JSON, out)
     save_json(FAILED_JSON, failed)
+    git_push("Final update sizes")
+
     print("Selesai!")
     print(f"Sukses: {len(out)}")
     print(f"Gagal: {len(failed)}")
@@ -230,6 +236,7 @@ if __name__ == "__main__":
         try:
             save_json(OUTPUT_JSON, out)
             save_json(FAILED_JSON, failed)
-            print("✅ Progres tersimpan. Jalankan lagi untuk resume.")
+            git_push("Stopped manually - progress saved")
+            print("✅ Progres tersimpan & dipush. Jalankan lagi untuk resume.")
         except Exception as e:
-            print("⚠️ Gagal menyimpan progres terakhir:", e)
+            print("⚠️ Gagal menyimpan/push progres terakhir:", e)

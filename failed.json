@@ -2,19 +2,22 @@
   "3615080": {
     "appid": 3615080,
     "title": "Ass Sniffing Simulator",
+    "genre": "Simulation",
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3615080/c8d4ed638c3d13abf649f1cd447099c5b0791d9c/header.jpg?t=1744808532",
     "price_display": "Rp 1.500.000"
   },
   "255163": {
     "appid": 255163,
     "title": "Call of Duty®: Ghosts - Digital Hardened Edition",
+    "genre": "Action",
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/255163/header.jpg?t=1447358804",
     "price_display": "Rp 1.485.000"
   },
-  "1295660": {
-    "appid": 1295660,
-    "title": "Sid Meier's Civilization VII",
-    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1295660/5b2859906c25a7fe45b0f45b1db6389f6267f9c6/header_alt_assets_2.jpg?t=1762277940",
-    "price_display": "Rp 1.090.000"
+  "2457220": {
+    "appid": 2457220,
+    "title": "Avowed",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2457220/header.jpg?t=1760464343",
+    "price_display": "Rp 1.045.000"
   }
 }

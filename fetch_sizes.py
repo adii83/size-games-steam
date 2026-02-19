@@ -1,21 +1,24 @@
 import gzip
 import json
 import time
-import re
 import os
 import random
 import subprocess
 import requests
+import re
 from tqdm import tqdm
 
 # ================== CONFIG ==================
 INPUT_GZ = "steam_data.json.gz"
+FX_GAMES_JSON = "fx_games.json"
 OUTPUT_JSON = "result.json"
 FAILED_JSON = "failed.json"
+SKIPPED_JSON = "skipped_protected.json"
+COOKIES_FILE = ".env.json"
 
-SAVE_EVERY = 10        # autosave file
-PUSH_EVERY = 1000      # auto git push tiap 1000 item diproses
-DELAY_SEC = 1.0        # delay dasar
+SAVE_EVERY = 10
+PUSH_EVERY = 1000
+DELAY_SEC = 1.5
 MAX_RETRIES = 5
 # ============================================
 
@@ -29,37 +32,24 @@ USER_AGENTS = [
 
 out = {}
 failed = {}
+skipped = {}
+COOKIES = {}
+
+# ================== HELPERS ==================
+
+def load_cookies(path):
+    if os.path.exists(path):
+        with open(path, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return {}
 
 def make_headers():
     return {
         "User-Agent": random.choice(USER_AGENTS),
-        "Accept": "application/json,text/html;q=0.9,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.9"
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": "https://store.steampowered.com/"
     }
-
-def bytes_to_gb(b):
-    return round(b / 1024 / 1024 / 1024, 2)
-
-def beautify_size_gb(value, seed=None):
-    if value is None:
-        return None
-
-    if isinstance(value, str):
-        m = re.search(r"(\d+(?:\.\d+)?)\s*(GB|MB)", value, re.I)
-        if not m:
-            return None
-        num = float(m.group(1))
-        unit = m.group(2).upper()
-        if unit == "MB":
-            num = num / 1024.0
-    else:
-        num = float(value)
-
-    if seed is not None:
-        random.seed(seed)
-
-    decimal = random.randint(1, 99) / 100.0
-    return f"{round(num + decimal, 2)} GB"
 
 def load_json_gz(path):
     with gzip.open(path, "rt", encoding="utf-8") as f:
@@ -75,6 +65,13 @@ def save_json(path, data):
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
+def load_fx_games_appids(path):
+    if not os.path.exists(path):
+        return set()
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+    return set(str(g.get("appid")) for g in data.get("games", []) if g.get("appid"))
+
 def is_free_or_invalid(price_norm, price_disp):
     if price_norm is None or price_norm == 0:
         return True
@@ -82,129 +79,139 @@ def is_free_or_invalid(price_norm, price_disp):
         return True
     return False
 
+def randomize_decimal_only(size_str, seed=None):
+    try:
+        num = float(size_str.replace("GB", "").strip())
+    except:
+        return size_str
+
+    base = int(num)
+    if seed:
+        random.seed(seed)
+    decimal = random.randint(1, 99) / 100.0
+    return f"{round(base + decimal, 2)} GB"
+
+# ================== FETCH ==================
+
 def fetch_with_retry(url):
     for attempt in range(1, MAX_RETRIES + 1):
         try:
-            r = requests.get(url, headers=make_headers(), timeout=25)
+            r = requests.get(url, headers=make_headers(), cookies=COOKIES if COOKIES else None, timeout=30)
+
             if r.status_code == 200:
                 return r
             elif r.status_code == 429:
-                time.sleep(DELAY_SEC * (2 ** attempt))
+                wait = DELAY_SEC * (2 ** attempt)
+                print(f"⏳ [429] Rate limit. Sleep {round(wait,1)}s")
+                time.sleep(wait)
+            elif r.status_code in (401, 403):
+                print("🔐 [AUTH] Cookie invalid/expired. Update .env.json")
+                return None
             else:
+                print(f"⚠️ HTTP {r.status_code} - retry {attempt}/{MAX_RETRIES}")
                 time.sleep(DELAY_SEC * attempt)
-        except requests.RequestException:
+        except requests.RequestException as e:
+            print("❌ Request error:", e)
             time.sleep(DELAY_SEC * (2 ** attempt))
     return None
 
-def get_size_from_steamdb(appid):
-    url = f"https://steamdb.info/api/GetAppDepotSizes/?appid={appid}"
+def get_size_from_store_recommended(appid):
+    url = f"https://store.steampowered.com/app/{appid}/"
     r = fetch_with_retry(url)
     if not r:
         return None
-    j = r.json()
-    win = j.get("depot_sizes", {}).get("windows")
-    if not win:
-        return None
-    disk = win.get("disk")
-    if not disk:
-        return None
-    return beautify_size_gb(bytes_to_gb(disk), seed=appid)
 
-def get_size_from_store(appid):
-    url = f"https://store.steampowered.com/api/appdetails?appids={appid}"
-    r = fetch_with_retry(url)
-    if not r:
+    html = r.text
+    rec_block = re.search(r"<strong>Recommended:</strong>.*?</ul>\s*</ul>", html, re.I | re.S)
+    if not rec_block:
         return None
-    j = r.json()
-    data = j.get(str(appid), {}).get("data")
-    if not data:
-        return None
-    req = data.get("pc_requirements", {}).get("recommended") or \
-          data.get("pc_requirements", {}).get("minimum")
-    if not req:
-        return None
-    text = req if isinstance(req, str) else req.get("minimum", "")
-    m = re.search(r"(\d+(?:\.\d+)?)\s*(GB|MB)", text, re.I)
+
+    block = rec_block.group(0)
+    m = re.search(r"<strong>Storage:</strong>\s*(\d+(?:\.\d+)?)\s*(GB|MB)", block, re.I)
     if not m:
         return None
-    return beautify_size_gb(m.group(0), seed=appid)
 
-def try_fetch_size(appid):
-    size = get_size_from_steamdb(appid)
-    if size:
-        return size
-    return get_size_from_store(appid)
+    size = float(m.group(1))
+    if m.group(2).upper() == "MB":
+        size = size / 1024.0
+
+    return f"{round(size, 2)} GB"
 
 def git_push(message):
     try:
-        subprocess.run(["git", "add", OUTPUT_JSON, FAILED_JSON], check=True)
+        subprocess.run(["git", "add", OUTPUT_JSON, FAILED_JSON, SKIPPED_JSON], check=True)
         subprocess.run(["git", "commit", "-m", message], check=True)
         subprocess.run(["git", "push"], check=True)
         print("🚀 Auto-pushed to GitHub")
     except subprocess.CalledProcessError as e:
         print("⚠️ Git push failed:", e)
 
+# ================== MAIN ==================
+
 def main():
-    global out, failed
+    global out, failed, skipped, COOKIES
 
     print("Loading data...")
     src = load_json_gz(INPUT_GZ)
+    fx_appids = load_fx_games_appids(FX_GAMES_JSON)
+    COOKIES = load_cookies(COOKIES_FILE)
+
     out = load_json(OUTPUT_JSON)
     failed = load_json(FAILED_JSON)
+    skipped = load_json(SKIPPED_JSON)
 
-    # 1) Retry failed dulu
-    failed_keys = list(failed.keys())
-    print(f"Retry failed first: {len(failed_keys)} items")
-    for key in tqdm(failed_keys, desc="Retrying failed"):
-        g = failed.get(key)
-        if not g:
-            continue
+    print(f"Progress global: {len(out)+len(failed)+len(skipped)}/{len(src)}")
 
-        appid = g.get("appid")
-
-        size = try_fetch_size(appid)
+    # Retry failed first
+    for key in tqdm(list(failed.keys()), desc="Retrying failed"):
+        g = failed[key]
+        size = get_size_from_store_recommended(g["appid"])
         if size:
-            g["size_disk_gb"] = size
+            g["size_disk_gb"] = randomize_decimal_only(size, seed=g["appid"])
             out[key] = g
             del failed[key]
         else:
             failed[key]["last_retry"] = time.strftime("%Y-%m-%d %H:%M:%S")
-
         save_json(OUTPUT_JSON, out)
         save_json(FAILED_JSON, failed)
         time.sleep(DELAY_SEC)
 
-    # 2) Filter pending items (biar progress nggak balik ke 0)
-    items = list(src.values())
-    items.sort(key=lambda x: x.get("price_normalized") or 0, reverse=True)
+    items = sorted(src.values(), key=lambda x: x.get("price_normalized") or 0, reverse=True)
 
-    pending_items = []
-    for g in items:
-        key = str(g.get("appid"))
-        if key not in out and key not in failed:
-            pending_items.append(g)
+    pending = [g for g in items if str(g["appid"]) not in out and str(g["appid"]) not in failed and str(g["appid"]) not in skipped]
 
-    print(f"Processing new items (pending: {len(pending_items)})...")
+    print(f"Processing new items (pending: {len(pending)})...")
 
     processed = 0
-    for g in tqdm(pending_items, desc="Fetching new"):
-        appid = g.get("appid")
+    for g in tqdm(pending, desc="Fetching new"):
+        appid = g["appid"]
         key = str(appid)
 
         if is_free_or_invalid(g.get("price_normalized"), g.get("price_display")):
             continue
 
+        if g.get("protection") is True and key not in fx_appids:
+            skipped[key] = {
+                "appid": appid,
+                "title": g.get("title"),
+                "genre": g.get("genre"),
+                "header": g.get("header"),
+                "price_display": g.get("price_display"),
+                "reason": "protected_not_in_fx"
+            }
+            continue
+
         result_item = {
             "appid": appid,
             "title": g.get("title"),
+            "genre": g.get("genre"),
             "header": g.get("header"),
             "price_display": g.get("price_display"),
-            "size_disk_gb": None
         }
 
-        size = try_fetch_size(appid)
+        size = get_size_from_store_recommended(appid)
         if size:
-            result_item["size_disk_gb"] = size
+            result_item["size_disk_gb"] = randomize_decimal_only(size, seed=appid)
             out[key] = result_item
         else:
             failed[key] = result_item
@@ -214,6 +221,7 @@ def main():
         if processed % SAVE_EVERY == 0:
             save_json(OUTPUT_JSON, out)
             save_json(FAILED_JSON, failed)
+            save_json(SKIPPED_JSON, skipped)
 
         if processed % PUSH_EVERY == 0:
             git_push(f"Auto update sizes: +{processed}")
@@ -222,21 +230,18 @@ def main():
 
     save_json(OUTPUT_JSON, out)
     save_json(FAILED_JSON, failed)
+    save_json(SKIPPED_JSON, skipped)
     git_push("Final update sizes")
 
     print("Selesai!")
-    print(f"Sukses: {len(out)}")
-    print(f"Gagal: {len(failed)}")
 
 if __name__ == "__main__":
     try:
         main()
     except KeyboardInterrupt:
         print("\n⛔ Dihentikan manual. Menyimpan progres terakhir...")
-        try:
-            save_json(OUTPUT_JSON, out)
-            save_json(FAILED_JSON, failed)
-            git_push("Stopped manually - progress saved")
-            print("✅ Progres tersimpan & dipush. Jalankan lagi untuk resume.")
-        except Exception as e:
-            print("⚠️ Gagal menyimpan/push progres terakhir:", e)
+        save_json(OUTPUT_JSON, out)
+        save_json(FAILED_JSON, failed)
+        save_json(SKIPPED_JSON, skipped)
+        git_push("Stopped manually - progress saved")
+        print("✅ Progres tersimpan & dipush. Jalankan lagi untuk resume.")

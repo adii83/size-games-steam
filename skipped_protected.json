@@ -1350,5 +1350,117 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488310/05f37c75657d70c8cda076c1e618b8b2b45e5af8/header.jpg?t=1758554573",
     "price_display": "Rp 206.999",
     "reason": "protected_not_in_fx"
+  },
+  "2744390": {
+    "appid": 2744390,
+    "title": "The Dawning Clocks of Time® Remake",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2744390/header.jpg?t=1745660156",
+    "price_display": "Rp 206.999",
+    "reason": "protected_not_in_fx"
+  },
+  "3654670": {
+    "appid": 3654670,
+    "title": "Palette Forge",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3654670/e80a83db0180b3eee3f7d17460cab7c6aae900b8/header.jpg?t=1749504415",
+    "price_display": "Rp 206.999",
+    "reason": "protected_not_in_fx"
+  },
+  "48240": {
+    "appid": 48240,
+    "title": "Anno 2070™",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48240/header.jpg?t=1692033142",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "242550": {
+    "appid": 242550,
+    "title": "Rayman® Legends",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242550/header.jpg?t=1744316870",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "245490": {
+    "appid": 245490,
+    "title": "Trials Fusion™",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245490/header.jpg?t=1747656869",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "339230": {
+    "appid": 339230,
+    "title": "ZOMBI",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/339230/header.jpg?t=1680018023",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "408250": {
+    "appid": 408250,
+    "title": "Eagle Flight",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/408250/header.jpg?t=1694554663",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "488950": {
+    "appid": 488950,
+    "title": "Werewolves Within™",
+    "genre": "Casual, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/488950/header.jpg?t=1680017956",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "641080": {
+    "appid": 641080,
+    "title": "Trials® Rising",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/641080/header.jpg?t=1680017258",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "775430": {
+    "appid": 775430,
+    "title": "Discovery Tour by Assassin’s Creed®: Ancient Egypt",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/775430/header.jpg?t=1694554509",
+    "price_display": "Rp 205.000",
+    "reason": "protected_not_in_fx"
+  },
+  "235210": {
+    "appid": 235210,
+    "title": "STRIDER™ / ストライダー飛竜®",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/235210/header.jpg?t=1712193426",
+    "price_display": "Rp 199.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2361770": {
+    "appid": 2361770,
+    "title": "SHINOBI: Art of Vengeance",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2361770/782c310729ea0fad430124f806e76cff1c5c015e/header.jpg?t=1763988116",
+    "price_display": "Rp 178.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2517220": {
+    "appid": 2517220,
+    "title": "ENTITY: THE BLACK DAY",
+    "genre": "Action, Adventure, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2517220/66003fecac202b9f31f5879fe30c6bfa46d2ade3/header.jpg?t=1764429532",
+    "price_display": "Rp 175.999",
+    "reason": "protected_not_in_fx"
+  },
+  "517720": {
+    "appid": 517720,
+    "title": "Epic Tavern",
+    "genre": "Adventure, Indie, RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/517720/34eb07da080b4678c30ef9a219bea858ca34db52/header.jpg?t=1761173680",
+    "price_display": "Rp 169.999",
+    "reason": "protected_not_in_fx"
   }
 }

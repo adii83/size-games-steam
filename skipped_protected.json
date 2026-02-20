@@ -1718,5 +1718,69 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1570010/header.jpg?t=1755781645",
     "price_display": "Rp 127.999",
     "reason": "protected_not_in_fx"
+  },
+  "621830": {
+    "appid": 621830,
+    "title": "WRC 7 FIA World Rally Championship",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/621830/header.jpg?t=1725354050",
+    "price_display": "Rp 119.999",
+    "reason": "protected_not_in_fx"
+  },
+  "738550": {
+    "appid": 738550,
+    "title": "Spike Volleyball",
+    "genre": "Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/738550/header.jpg?t=1725291174",
+    "price_display": "Rp 119.999",
+    "reason": "protected_not_in_fx"
+  },
+  "789890": {
+    "appid": 789890,
+    "title": "City Patrol: Police",
+    "genre": "Action, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/789890/header.jpg?t=1728937002",
+    "price_display": "Rp 119.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1808700": {
+    "appid": 1808700,
+    "title": "Dead Man´s Diary",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808700/header.jpg?t=1649329892",
+    "price_display": "Rp 119.999",
+    "reason": "protected_not_in_fx"
+  },
+  "48220": {
+    "appid": 48220,
+    "title": "Might & Magic: Heroes VI",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48220/header.jpg?t=1698436685",
+    "price_display": "Rp 119.000",
+    "reason": "protected_not_in_fx"
+  },
+  "221680": {
+    "appid": 221680,
+    "title": "Rocksmith® 2014 Edition REMASTERED LEARN & PLAY",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221680/header.jpg?t=1738085431",
+    "price_display": "Rp 119.000",
+    "reason": "protected_not_in_fx"
+  },
+  "965300": {
+    "appid": 965300,
+    "title": "The Settlers® : Heritage of Kings - History Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965300/header.jpg?t=1680007416",
+    "price_display": "Rp 119.000",
+    "reason": "protected_not_in_fx"
+  },
+  "965310": {
+    "appid": 965310,
+    "title": "The Settlers® : Rise of an Empire - History Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965310/header.jpg?t=1680007478",
+    "price_display": "Rp 119.000",
+    "reason": "protected_not_in_fx"
   }
 }

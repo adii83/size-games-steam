@@ -1870,5 +1870,29 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2052970/8499cb8ac4d6d8ac92bf8829127ef0af03ecef8c/header.jpg?t=1763972212",
     "price_display": "Rp 108.000",
     "reason": "protected_not_in_fx"
+  },
+  "515060": {
+    "appid": 515060,
+    "title": "Third Eye",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/515060/header.jpg?t=1591045643",
+    "price_display": "Rp 99.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1883600": {
+    "appid": 1883600,
+    "title": "Find a way out: Abode of darkness.",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1883600/header.jpg?t=1657881159",
+    "price_display": "Rp 99.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2435010": {
+    "appid": 2435010,
+    "title": "XR22-SEAGUARD",
+    "genre": "Action, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2435010/header.jpg?t=1743328390",
+    "price_display": "Rp 99.999",
+    "reason": "protected_not_in_fx"
   }
 }

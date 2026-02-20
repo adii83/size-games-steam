@@ -1110,5 +1110,85 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1785650/header.jpg?t=1739858016",
     "price_display": "Rp 293.000",
     "reason": "protected_not_in_fx"
+  },
+  "1404210": {
+    "appid": 1404210,
+    "title": "Red Dead Online",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1404210/header.jpg?t=1759502979",
+    "price_display": "Rp 279.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1809700": {
+    "appid": 1809700,
+    "title": "Persona 3 Portable",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809700/header.jpg?t=1763530922",
+    "price_display": "Rp 260.000",
+    "reason": "protected_not_in_fx"
+  },
+  "527100": {
+    "appid": 527100,
+    "title": "Star Trek™: Bridge Crew",
+    "genre": "Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/527100/header.jpg?t=1680013769",
+    "price_display": "Rp 259.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1038250": {
+    "appid": 1038250,
+    "title": "DIRT 5",
+    "genre": "Action, Adventure, Casual, Racing, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1038250/header.jpg?t=1663755334",
+    "price_display": "Rp 249.999",
+    "reason": "protected_not_in_fx"
+  },
+  "386280": {
+    "appid": 386280,
+    "title": "Vendetta - Curse of Raven's Cry",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/386280/header.jpg?t=1577627001",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
+  },
+  "752480": {
+    "appid": 752480,
+    "title": "Sniper Elite VR",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/752480/header.jpg?t=1643711030",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1151670": {
+    "appid": 1151670,
+    "title": "EEP  16 Expert Eisenbahn Aufbau- und Steuerungssimulation",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151670/header.jpg?t=1616073008",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2058030": {
+    "appid": 2058030,
+    "title": "Zombie Army VR",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058030/header.jpg?t=1756888870",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2064810": {
+    "appid": 2064810,
+    "title": "CityDriver",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2064810/header.jpg?t=1751378765",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2363620": {
+    "appid": 2363620,
+    "title": "RoboSquad Revolution (Beta)",
+    "genre": "Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363620/header.jpg?t=1724163980",
+    "price_display": "Rp 245.999",
+    "reason": "protected_not_in_fx"
   }
 }

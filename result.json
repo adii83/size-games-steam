@@ -10510,5 +10510,4941 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553910/header.jpg?t=1724911336",
     "price_display": "Rp 284.999",
     "size_disk_gb": "6.3 GB"
+  },
+  "2789320": {
+    "appid": 2789320,
+    "title": "Gallop Champion",
+    "genre": "Adventure, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789320/header.jpg?t=1733993584",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "15.82 GB"
+  },
+  "2816870": {
+    "appid": 2816870,
+    "title": "Mighty Morphin Power Rangers: Rita's Rewind",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2816870/header.jpg?t=1733852000",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "1.58 GB"
+  },
+  "2891280": {
+    "appid": 2891280,
+    "title": "Riviera: The Promised Land",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2891280/header.jpg?t=1750210518",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "1.67 GB"
+  },
+  "2932170": {
+    "appid": 2932170,
+    "title": "ヘライア祭",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932170/header.jpg?t=1721199713",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "0.95 GB"
+  },
+  "3009470": {
+    "appid": 3009470,
+    "title": "More Panda - Slot Creator",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3009470/header.jpg?t=1720509299",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "0.22 GB"
+  },
+  "3253630": {
+    "appid": 3253630,
+    "title": "Gal Guardians: Servants of the Dark",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3253630/header.jpg?t=1763452104",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "5.78 GB"
+  },
+  "3328480": {
+    "appid": 3328480,
+    "title": "TETRIS® THE GRAND MASTER 4 -ABSOLUTE EYE-",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328480/header.jpg?t=1744014389",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "1.85 GB"
+  },
+  "3558840": {
+    "appid": 3558840,
+    "title": "The Bear Frontline",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3558840/header.jpg?t=1745004983",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "2.14 GB"
+  },
+  "3561230": {
+    "appid": 3561230,
+    "title": "Dreams of Another",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3561230/35a8b0d17d401be8111883813b329c11327be00a/header.jpg?t=1764575770",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "8.33 GB"
+  },
+  "3575400": {
+    "appid": 3575400,
+    "title": "Friendly Duel",
+    "genre": "Casual, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3575400/f01b4b83c519ea7db3b9928cf466b84cc9fb2f08/header.jpg?t=1745005437",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "1.58 GB"
+  },
+  "3773010": {
+    "appid": 3773010,
+    "title": "The Chronicles of Lancelot COMBO",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3773010/3c9754ced28fe2729df5b60732ded9c68e5bec65/header.jpg?t=1761066229",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "25.99 GB"
+  },
+  "3785690": {
+    "appid": 3785690,
+    "title": "Sophie the best titty fuck expert",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3785690/85ec4998595340c36efa4079deada7a44e963699/header.jpg?t=1753376247",
+    "price_display": "Rp 284.999",
+    "size_disk_gb": "4.43 GB"
+  },
+  "3168720": {
+    "appid": 3168720,
+    "title": "Yamizome Liberator",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3168720/header.jpg?t=1737470332",
+    "price_display": "Rp 284.673",
+    "size_disk_gb": "4.87 GB"
+  },
+  "1660840": {
+    "appid": 1660840,
+    "title": "Wild Bastards",
+    "genre": "Action, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1660840/header.jpg?t=1728587422",
+    "price_display": "Rp 282.807",
+    "size_disk_gb": "10.59 GB"
+  },
+  "1906830": {
+    "appid": 1906830,
+    "title": "While the Iron's Hot",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1906830/header.jpg?t=1741445994",
+    "price_display": "Rp 280.000",
+    "size_disk_gb": "10.54 GB"
+  },
+  "466560": {
+    "appid": 466560,
+    "title": "Northgard",
+    "genre": "Adventure, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466560/9d88661a296628bc843f9097208d521ab2404bce/header_alt_assets_4.jpg?t=1761840416",
+    "price_display": "Rp 279.999",
+    "size_disk_gb": "1.98 GB"
+  },
+  "875210": {
+    "appid": 875210,
+    "title": "Kingdom Heroes 8",
+    "genre": "Action, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/875210/header.jpg?t=1754643933",
+    "price_display": "Rp 279.999",
+    "size_disk_gb": "10.26 GB"
+  },
+  "909660": {
+    "appid": 909660,
+    "title": "Vagrus - The Riven Realms",
+    "genre": "Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/909660/b465204d77c5b9e31ab42f850038308f87c7812e/header.jpg?t=1762605181",
+    "price_display": "Rp 279.999",
+    "size_disk_gb": "10.69 GB"
+  },
+  "1610520": {
+    "appid": 1610520,
+    "title": "Serum: Toxic Survival",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1610520/018fa82e1ff6a166331864b4bae3a260829dd9d2/header.jpg?t=1746119588",
+    "price_display": "Rp 279.999",
+    "size_disk_gb": "15.95 GB"
+  },
+  "558260": {
+    "appid": 558260,
+    "title": "Gravel",
+    "genre": "Racing, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/558260/header.jpg?t=1728478622",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "15.13 GB"
+  },
+  "561600": {
+    "appid": 561600,
+    "title": "MXGP3 - The Official Motocross Videogame",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/561600/header.jpg?t=1728479061",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "15.24 GB"
+  },
+  "680420": {
+    "appid": 680420,
+    "title": "OUTRIDERS",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/680420/header.jpg?t=1728485147",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "100.43 GB"
+  },
+  "711750": {
+    "appid": 711750,
+    "title": "Monster Energy Supercross - The Official Videogame",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/711750/header.jpg?t=1728478691",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "15.58 GB"
+  },
+  "798290": {
+    "appid": 798290,
+    "title": "MXGP PRO",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798290/header.jpg?t=1728478979",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "15.04 GB"
+  },
+  "882020": {
+    "appid": 882020,
+    "title": "Monster Energy Supercross - The Official Videogame 2",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/882020/header.jpg?t=1728478491",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "10.28 GB"
+  },
+  "984780": {
+    "appid": 984780,
+    "title": "MotoGP™19",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/984780/header.jpg?t=1728476923",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "16.26 GB"
+  },
+  "1161490": {
+    "appid": 1161490,
+    "title": "MotoGP™20",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161490/header.jpg?t=1728470677",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "22.44 GB"
+  },
+  "1184480": {
+    "appid": 1184480,
+    "title": "Inertial Drift",
+    "genre": "Indie, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1184480/header.jpg?t=1737474820",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "4.45 GB"
+  },
+  "1367590": {
+    "appid": 1367590,
+    "title": "Tormented Souls",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1367590/header.jpg?t=1751362774",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "4.07 GB"
+  },
+  "1552550": {
+    "appid": 1552550,
+    "title": "Castlevania Advance Collection",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552550/header.jpg?t=1734547063",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "0.96 GB"
+  },
+  "1563130": {
+    "appid": 1563130,
+    "title": "SuperPower 3",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1563130/header.jpg?t=1725014617",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "25.72 GB"
+  },
+  "1642620": {
+    "appid": 1642620,
+    "title": "COLLECTION of SaGa FINAL FANTASY LEGEND",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1642620/header.jpg?t=1696936869",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "0.13 GB"
+  },
+  "2106840": {
+    "appid": 2106840,
+    "title": "PARANORMASIGHT: The Seven Mysteries of Honjo",
+    "genre": "Adventure, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106840/header.jpg?t=1751339920",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "2.76 GB"
+  },
+  "2274620": {
+    "appid": 2274620,
+    "title": "Discounty",
+    "genre": "Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2274620/3d9db2e0d82e171901fd0242273193de8708967c/header.jpg?t=1760352963",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "0.53 GB"
+  },
+  "2394650": {
+    "appid": 2394650,
+    "title": "Crypt Custodian",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2394650/header.jpg?t=1754577309",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "1.56 GB"
+  },
+  "2400640": {
+    "appid": 2400640,
+    "title": "NanoApostle",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2400640/header.jpg?t=1754994954",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "2.49 GB"
+  },
+  "2994010": {
+    "appid": 2994010,
+    "title": "Chains of Freedom",
+    "genre": "Action, Adventure, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2994010/header.jpg?t=1752049859",
+    "price_display": "Rp 279.000",
+    "size_disk_gb": "5.79 GB"
+  },
+  "3112260": {
+    "appid": 3112260,
+    "title": " Virtua Fighter 5 R.E.V.O. World Stage",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3112260/9501a2ea86226e8620f07dd889e1c365e2d32e66/header.jpg?t=1764731674",
+    "price_display": "Rp 278.000",
+    "size_disk_gb": "22.82 GB"
+  },
+  "623670": {
+    "appid": 623670,
+    "title": "Moe Mekuri SP",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/623670/header.jpg?t=1744350645",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "0.73 GB"
+  },
+  "1164660": {
+    "appid": 1164660,
+    "title": "SHOOTING CHICKEN BRUTAL SUCKERS",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1164660/header.jpg?t=1727355119",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "2.74 GB"
+  },
+  "1863460": {
+    "appid": 1863460,
+    "title": "Pixel Art School - 今から始めるドット絵入門 -",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1863460/header.jpg?t=1759108538",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.28 GB"
+  },
+  "3462110": {
+    "appid": 3462110,
+    "title": "Poopy's WONDERLAND",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3462110/header.jpg?t=1759108580",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "2.89 GB"
+  },
+  "3592460": {
+    "appid": 3592460,
+    "title": "Rapid Fire Girls - Armpit -",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3592460/0402d174f6595ffd1b9169539c11151dfbd0912c/header.jpg?t=1759108394",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.1 GB"
+  },
+  "3878550": {
+    "appid": 3878550,
+    "title": "Rapid Fire Girls - Sisters -",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3878550/49d97252cf9e6818bc6663b0dc0dbbe08562c18a/header.jpg?t=1759108486",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.38 GB"
+  },
+  "3961760": {
+    "appid": 3961760,
+    "title": "Moe Mekuri Oppai Party",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3961760/d1162a848d2662632534fc1867d75248e50958db/header.jpg?t=1760618794",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.96 GB"
+  },
+  "4031410": {
+    "appid": 4031410,
+    "title": "Moe Mekuri Oshiri Party",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4031410/71a9716258876c6f732688c628b44893702cd550/header.jpg?t=1760618761",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.94 GB"
+  },
+  "4162740": {
+    "appid": 4162740,
+    "title": "Moe Mekuri Lewd Twilight",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4162740/92a6cd22f786814b7ac8f383f696363ce6c696f2/header.jpg?t=1764610530",
+    "price_display": "Rp 277.447",
+    "size_disk_gb": "1.22 GB"
+  },
+  "2343630": {
+    "appid": 2343630,
+    "title": "華触の典",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343630/header.jpg?t=1725321681",
+    "price_display": "Rp 276.862",
+    "size_disk_gb": "0.25 GB"
+  },
+  "387290": {
+    "appid": 387290,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/387290/header.jpg?t=1701967651",
+    "price_display": "Rp 275.000",
+    "size_disk_gb": "11.73 GB"
+  },
+  "1292950": {
+    "appid": 1292950,
+    "title": "シルヴァリオ ラグナロク",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1292950/header.jpg?t=1590631743",
+    "price_display": "Rp 274.999",
+    "size_disk_gb": "4.31 GB"
+  },
+  "1347580": {
+    "appid": 1347580,
+    "title": "シルヴァリオ トリニティ-Beyond the Horizon-",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347580/header.jpg?t=1599144732",
+    "price_display": "Rp 274.999",
+    "size_disk_gb": "8.71 GB"
+  },
+  "1347590": {
+    "appid": 1347590,
+    "title": "シルヴァリオ ヴェンデッタ-Verse of Orpheus-",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1347590/header.jpg?t=1599144693",
+    "price_display": "Rp 274.999",
+    "size_disk_gb": "8.37 GB"
+  },
+  "1935800": {
+    "appid": 1935800,
+    "title": "Absolute Tennis Manager",
+    "genre": "Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1935800/header.jpg?t=1657040815",
+    "price_display": "Rp 274.000",
+    "size_disk_gb": "0.07 GB"
+  },
+  "1741900": {
+    "appid": 1741900,
+    "title": "You VS Drugs",
+    "genre": "Action, Adventure, Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1741900/header.jpg?t=1762533171",
+    "price_display": "Rp 273.000",
+    "size_disk_gb": "4.63 GB"
+  },
+  "911220": {
+    "appid": 911220,
+    "title": "Dusk Diver 酉閃町",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/911220/header.jpg?t=1678261001",
+    "price_display": "Rp 272.999",
+    "size_disk_gb": "5.54 GB"
+  },
+  "1420290": {
+    "appid": 1420290,
+    "title": "No More Heroes",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420290/header.jpg?t=1738970229",
+    "price_display": "Rp 272.000",
+    "size_disk_gb": "4.49 GB"
+  },
+  "1420300": {
+    "appid": 1420300,
+    "title": "No More Heroes 2: Desperate Struggle",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1420300/header.jpg?t=1744049449",
+    "price_display": "Rp 272.000",
+    "size_disk_gb": "4.53 GB"
+  },
+  "2965220": {
+    "appid": 2965220,
+    "title": "Strings of Fate XI: Magic dream",
+    "genre": "Adventure, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2965220/header.jpg?t=1752772790",
+    "price_display": "Rp 272.000",
+    "size_disk_gb": "40.31 GB"
+  },
+  "560130": {
+    "appid": 560130,
+    "title": "Pillars of Eternity II: Deadfire",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/560130/header.jpg?t=1763749201",
+    "price_display": "Rp 271.985",
+    "size_disk_gb": "45.53 GB"
+  },
+  "1783560": {
+    "appid": 1783560,
+    "title": "The Last Caretaker",
+    "genre": "Action, Adventure, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1783560/21c5b743b880ac0744db264d33b152173c90e50c/header.jpg?t=1762453949",
+    "price_display": "Rp 270.999",
+    "size_disk_gb": "30.7 GB"
+  },
+  "216260": {
+    "appid": 216260,
+    "title": "Don Bradman Cricket 14",
+    "genre": "Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/216260/header.jpg?t=1447356227",
+    "price_display": "Rp 270.000",
+    "size_disk_gb": "2.63 GB"
+  },
+  "1276800": {
+    "appid": 1276800,
+    "title": "CONVERGENCE: A League of Legends Story™",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276800/header.jpg?t=1707178625",
+    "price_display": "Rp 270.000",
+    "size_disk_gb": "5.1 GB"
+  },
+  "1333200": {
+    "appid": 1333200,
+    "title": "Song of Nunu: A League of Legends Story",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1333200/header.jpg?t=1702617989",
+    "price_display": "Rp 270.000",
+    "size_disk_gb": "24.66 GB"
+  },
+  "1457080": {
+    "appid": 1457080,
+    "title": "The Mageseeker: A League of Legends Story™",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1457080/header.jpg?t=1720737340",
+    "price_display": "Rp 270.000",
+    "size_disk_gb": "4.05 GB"
+  },
+  "1812370": {
+    "appid": 1812370,
+    "title": "Little Goody Two Shoes",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812370/header.jpg?t=1764349256",
+    "price_display": "Rp 270.000",
+    "size_disk_gb": "16.54 GB"
+  },
+  "210970": {
+    "appid": 210970,
+    "title": "The Witness",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210970/header.jpg?t=1720810823",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "5.28 GB"
+  },
+  "291650": {
+    "appid": 291650,
+    "title": "Pillars of Eternity",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/291650/header.jpg?t=1762365704",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "14.35 GB"
+  },
+  "335310": {
+    "appid": 335310,
+    "title": "Eisenbahn X",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335310/header.jpg?t=1447365457",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "4.72 GB"
+  },
+  "373420": {
+    "appid": 373420,
+    "title": "Divinity: Original Sin - Enhanced Edition",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/373420/header.jpg?t=1725654082",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "9.1 GB"
+  },
+  "392110": {
+    "appid": 392110,
+    "title": "ENDLESS™ Space 2",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/392110/header.jpg?t=1762449129",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "8.24 GB"
+  },
+  "403970": {
+    "appid": 403970,
+    "title": "The Dwarves",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403970/header.jpg?t=1727857917",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "25.59 GB"
+  },
+  "436320": {
+    "appid": 436320,
+    "title": "Raw Data",
+    "genre": "Action, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436320/header.jpg?t=1688151692",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "10.53 GB"
+  },
+  "446390": {
+    "appid": 446390,
+    "title": "Onechanbara Z2: Chaos",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/446390/header.jpg?t=1728663743",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "12.51 GB"
+  },
+  "474960": {
+    "appid": 474960,
+    "title": "Quantum Break",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/474960/header.jpg?t=1682524073",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "68.41 GB"
+  },
+  "520940": {
+    "appid": 520940,
+    "title": "MX vs ATV All Out",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/520940/header.jpg?t=1725011474",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "26.74 GB"
+  },
+  "538680": {
+    "appid": 538680,
+    "title": "The Legend of Heroes: Trails of Cold Steel",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/538680/header.jpg?t=1751395887",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "17.79 GB"
+  },
+  "541210": {
+    "appid": 541210,
+    "title": "Cold Waters",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541210/header.jpg?t=1731022734",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "4.34 GB"
+  },
+  "748490": {
+    "appid": 748490,
+    "title": "The Legend of Heroes: Trails of Cold Steel II",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/748490/header.jpg?t=1751395962",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "19.65 GB"
+  },
+  "780290": {
+    "appid": 780290,
+    "title": "Gloomhaven",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780290/header.jpg?t=1759152894",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "14.73 GB"
+  },
+  "1612770": {
+    "appid": 1612770,
+    "title": "Sweet Transit",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1612770/header.jpg?t=1762785929",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "3.66 GB"
+  },
+  "2757400": {
+    "appid": 2757400,
+    "title": "Iron Trails: Outlaw Pursuit",
+    "genre": "Action, Adventure, Casual, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2757400/header.jpg?t=1733914183",
+    "price_display": "Rp 269.999",
+    "size_disk_gb": "4.29 GB"
+  },
+  "411300": {
+    "appid": 411300,
+    "title": "ELEX",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/411300/header.jpg?t=1744710669",
+    "price_display": "Rp 269.000",
+    "size_disk_gb": "35.49 GB"
+  },
+  "898890": {
+    "appid": 898890,
+    "title": "Endling - Extinction is Forever",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/898890/header.jpg?t=1762935203",
+    "price_display": "Rp 269.000",
+    "size_disk_gb": "6.3 GB"
+  },
+  "1356670": {
+    "appid": 1356670,
+    "title": "Sakuna: Of Rice and Ruin",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1356670/header.jpg?t=1751321976",
+    "price_display": "Rp 269.000",
+    "size_disk_gb": "7.93 GB"
+  },
+  "1521160": {
+    "appid": 1521160,
+    "title": "Are You Smarter Than A 5th Grader",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1521160/header.jpg?t=1729172811",
+    "price_display": "Rp 269.000",
+    "size_disk_gb": "3.19 GB"
+  },
+  "1817800": {
+    "appid": 1817800,
+    "title": "Oddsparks: An Automation Adventure",
+    "genre": "Adventure, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817800/9ba1eb6ce6608d6b778004c723d9c764532e06b1/header.jpg?t=1762936317",
+    "price_display": "Rp 269.000",
+    "size_disk_gb": "6.74 GB"
+  },
+  "1153640": {
+    "appid": 1153640,
+    "title": "Chorus",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1153640/header.jpg?t=1730478689",
+    "price_display": "Rp 267.000",
+    "size_disk_gb": "40.37 GB"
+  },
+  "1167140": {
+    "appid": 1167140,
+    "title": "Siege Survival: Gloria Victis",
+    "genre": "Adventure, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1167140/header.jpg?t=1726631358",
+    "price_display": "Rp 267.000",
+    "size_disk_gb": "10.61 GB"
+  },
+  "1939970": {
+    "appid": 1939970,
+    "title": "Nobody Wants to Die",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1939970/header.jpg?t=1749822103",
+    "price_display": "Rp 267.000",
+    "size_disk_gb": "30.47 GB"
+  },
+  "268050": {
+    "appid": 268050,
+    "title": "The Evil Within",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268050/header.jpg?t=1750783780",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "50.1 GB"
+  },
+  "306130": {
+    "appid": 306130,
+    "title": "The Elder Scrolls® Online",
+    "genre": "Action, Adventure, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306130/0d72f13b2d3f75385a0c83e2551ba97e1059c6fe/header.jpg?t=1758307361",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "150.64 GB"
+  },
+  "377160": {
+    "appid": 377160,
+    "title": "Fallout 4",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377160/header.jpg?t=1762960878",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "30.52 GB"
+  },
+  "379720": {
+    "appid": 379720,
+    "title": "DOOM",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/379720/header.jpg?t=1750784856",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "55.37 GB"
+  },
+  "1056960": {
+    "appid": 1056960,
+    "title": "Wolfenstein: Youngblood",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056960/header.jpg?t=1761681484",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "40.06 GB"
+  },
+  "1056970": {
+    "appid": 1056970,
+    "title": "Wolfenstein: Cyberpilot",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1056970/header.jpg?t=1570031365",
+    "price_display": "Rp 266.000",
+    "size_disk_gb": "30.82 GB"
+  },
+  "2067300": {
+    "appid": 2067300,
+    "title": "Crossfar",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2067300/header.jpg?t=1684087457",
+    "price_display": "Rp 265.761",
+    "size_disk_gb": "8.34 GB"
+  },
+  "587620": {
+    "appid": 587620,
+    "title": "Okami HD",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587620/header.jpg?t=1733787035",
+    "price_display": "Rp 265.000",
+    "size_disk_gb": "34.27 GB"
+  },
+  "881320": {
+    "appid": 881320,
+    "title": "The LEGO Movie 2 Videogame",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881320/header.jpg?t=1758528940",
+    "price_display": "Rp 265.000",
+    "size_disk_gb": "16.08 GB"
+  },
+  "952860": {
+    "appid": 952860,
+    "title": "河洛群俠傳 (Ho Tu Lo Shu ： The Books of Dragon)",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/952860/header.jpg?t=1750390586",
+    "price_display": "Rp 265.000",
+    "size_disk_gb": "20.89 GB"
+  },
+  "1017900": {
+    "appid": 1017900,
+    "title": "Age of Empires: Definitive Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1017900/header.jpg?t=1763053714",
+    "price_display": "Rp 265.000",
+    "size_disk_gb": "20.78 GB"
+  },
+  "1782480": {
+    "appid": 1782480,
+    "title": "Tormentis",
+    "genre": "Action, Indie, Massively Multiplayer, RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1782480/header.jpg?t=1755461976",
+    "price_display": "Rp 265.000",
+    "size_disk_gb": "1.44 GB"
+  },
+  "968790": {
+    "appid": 968790,
+    "title": "DYNASTY WARRIORS 7: Xtreme Legends Definitive Edition",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/968790/header.jpg?t=1760594395",
+    "price_display": "Rp 264.000",
+    "size_disk_gb": "25.12 GB"
+  },
+  "2360250": {
+    "appid": 2360250,
+    "title": "Asterix & Obelix Slap Them All! 2",
+    "genre": "Action, Adventure, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2360250/header.jpg?t=1745855161",
+    "price_display": "Rp 263.000",
+    "size_disk_gb": "2.99 GB"
+  },
+  "1605640": {
+    "appid": 1605640,
+    "title": "Empower",
+    "genre": "Action, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1605640/header.jpg?t=1637515666",
+    "price_display": "Rp 262.500",
+    "size_disk_gb": "0.21 GB"
+  },
+  "350080": {
+    "appid": 350080,
+    "title": "Wolfenstein: The Old Blood",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/350080/header.jpg?t=1750784023",
+    "price_display": "Rp 261.649",
+    "size_disk_gb": "38.86 GB"
+  },
+  "3359900": {
+    "appid": 3359900,
+    "title": "REAL BOUT FATAL FURY 2: THE NEWCOMERS",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359900/61f123e0ca3678771a35cbf279b968643a6bb1a4/header.jpg?t=1759129506",
+    "price_display": "Rp 261.500",
+    "size_disk_gb": "0.9 GB"
+  },
+  "3359910": {
+    "appid": 3359910,
+    "title": "KIZUNA ENCOUNTER: SUPER TAG BATTLE",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3359910/e547c04aedb4857b2c04873de8b308c279fa3a10/header.jpg?t=1763517152",
+    "price_display": "Rp 261.500",
+    "size_disk_gb": "0.36 GB"
+  },
+  "1926590": {
+    "appid": 1926590,
+    "title": "Nancy Drew®: Mystery of the Seven Keys™",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1926590/header.jpg?t=1757364619",
+    "price_display": "Rp 260.645",
+    "size_disk_gb": "20.76 GB"
+  },
+  "410850": {
+    "appid": 410850,
+    "title": "DRAGON QUEST HEROES™ Slime Edition",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/410850/header.jpg?t=1596103807",
+    "price_display": "Rp 260.000",
+    "size_disk_gb": "20.87 GB"
+  },
+  "1113000": {
+    "appid": 1113000,
+    "title": "Persona 4 Golden",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1113000/header.jpg?t=1763530422",
+    "price_display": "Rp 260.000",
+    "size_disk_gb": "14.64 GB"
+  },
+  "756800": {
+    "appid": 756800,
+    "title": "Contraband Police",
+    "genre": "Action, Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/756800/18d980a530540d58324982aa4538edfabc182b59/header.jpg?t=1764175197",
+    "price_display": "Rp 259.999",
+    "size_disk_gb": "12.34 GB"
+  },
+  "807120": {
+    "appid": 807120,
+    "title": "Iratus: Lord of the Dead",
+    "genre": "Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/807120/header.jpg?t=1762362459",
+    "price_display": "Rp 259.999",
+    "size_disk_gb": "3.88 GB"
+  },
+  "1750960": {
+    "appid": 1750960,
+    "title": "Re: Summon",
+    "genre": "Action, Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1750960/header.jpg?t=1647727848",
+    "price_display": "Rp 259.999",
+    "size_disk_gb": "3.99 GB"
+  },
+  "2350790": {
+    "appid": 2350790,
+    "title": "Moonlighter 2: The Endless Vault",
+    "genre": "Action, Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2350790/header.jpg?t=1764592608",
+    "price_display": "Rp 259.999",
+    "size_disk_gb": "5.75 GB"
+  },
+  "2450820": {
+    "appid": 2450820,
+    "title": "Radiant Silvergun",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2450820/header.jpg?t=1705276203",
+    "price_display": "Rp 259.999",
+    "size_disk_gb": "2.22 GB"
+  },
+  "254700": {
+    "appid": 254700,
+    "title": "Resident Evil 4 (2005)",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254700/header.jpg?t=1700452857",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "15.34 GB"
+  },
+  "287290": {
+    "appid": 287290,
+    "title": "Resident Evil Revelations 2",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287290/header.jpg?t=1700453056",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "23.73 GB"
+  },
+  "390340": {
+    "appid": 390340,
+    "title": "Umbrella Corps",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/390340/header.jpg?t=1728439260",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "13.38 GB"
+  },
+  "418370": {
+    "appid": 418370,
+    "title": "Resident Evil 7 Biohazard",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418370/header.jpg?t=1728436752",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "24.28 GB"
+  },
+  "495050": {
+    "appid": 495050,
+    "title": "Mega Man Legacy Collection 2",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495050/header.jpg?t=1701220261",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "6.96 GB"
+  },
+  "525040": {
+    "appid": 525040,
+    "title": "The Disney Afternoon Collection",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/525040/header.jpg?t=1746583576",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "0.22 GB"
+  },
+  "581320": {
+    "appid": 581320,
+    "title": "Insurgency: Sandstorm",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/581320/header_alt_assets_3.jpg?t=1761760432",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "40.28 GB"
+  },
+  "644830": {
+    "appid": 644830,
+    "title": "The Surge 2",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/644830/header.jpg?t=1727794351",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "20.43 GB"
+  },
+  "647570": {
+    "appid": 647570,
+    "title": "Transference™",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/647570/header.jpg?t=1680016684",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "8.97 GB"
+  },
+  "666140": {
+    "appid": 666140,
+    "title": "My Time at Portia",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666140/header.jpg?t=1744872501",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "10.28 GB"
+  },
+  "699130": {
+    "appid": 699130,
+    "title": "World War Z",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699130/b35277055fbb7e07c26c5e31e4398684c6461d53/header.jpg?t=1758801611",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "50.55 GB"
+  },
+  "743890": {
+    "appid": 743890,
+    "title": "Mega Man X Legacy Collection",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743890/header.jpg?t=1669873820",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "7.72 GB"
+  },
+  "743900": {
+    "appid": 743900,
+    "title": "Mega Man X Legacy Collection 2",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/743900/header.jpg?t=1669873839",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "7.87 GB"
+  },
+  "798490": {
+    "appid": 798490,
+    "title": "Othercide",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/798490/header.jpg?t=1748892649",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "6.01 GB"
+  },
+  "885150": {
+    "appid": 885150,
+    "title": "Capcom Beat 'Em Up Bundle",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/885150/header.jpg?t=1702006611",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "2.38 GB"
+  },
+  "1465360": {
+    "appid": 1465360,
+    "title": "SnowRunner",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465360/header.jpg?t=1762513042",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "50.22 GB"
+  },
+  "1471650": {
+    "appid": 1471650,
+    "title": "The Knightling",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1471650/78c08e2500f01b619b076ade9487aa29ca6ffc95/header.jpg?t=1760025589",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "13.49 GB"
+  },
+  "1532690": {
+    "appid": 1532690,
+    "title": "BLACKTAIL",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1532690/header.jpg?t=1761836902",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "20.46 GB"
+  },
+  "1839940": {
+    "appid": 1839940,
+    "title": "Dakar Desert Rally",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1839940/header.jpg?t=1705324133",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "50.89 GB"
+  },
+  "2233120": {
+    "appid": 2233120,
+    "title": "A Quiet Place: The Road Ahead",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2233120/header.jpg?t=1736876506",
+    "price_display": "Rp 259.000",
+    "size_disk_gb": "50.85 GB"
+  },
+  "3249650": {
+    "appid": 3249650,
+    "title": "Little Fighter 2 Remastered",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3249650/header.jpg?t=1753761665",
+    "price_display": "Rp 258.000",
+    "size_disk_gb": "2.75 GB"
+  },
+  "761030": {
+    "appid": 761030,
+    "title": "EARTHLOCK",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/761030/header.jpg?t=1733492497",
+    "price_display": "Rp 256.892",
+    "size_disk_gb": "4.27 GB"
+  },
+  "523660": {
+    "appid": 523660,
+    "title": "HYPERCHARGE: Unboxed",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/523660/0810230650f94d3d2beea69bf253502b5bcb5629/header.jpg?t=1760031947",
+    "price_display": "Rp 256.250",
+    "size_disk_gb": "15.79 GB"
+  },
+  "760060": {
+    "appid": 760060,
+    "title": "Mutant Year Zero: Road to Eden",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/760060/header.jpg?t=1728925140",
+    "price_display": "Rp 255.999",
+    "size_disk_gb": "8.19 GB"
+  },
+  "1144200": {
+    "appid": 1144200,
+    "title": "Ready or Not",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/header.jpg?t=1753984272",
+    "price_display": "Rp 255.999",
+    "size_disk_gb": "60.36 GB"
+  },
+  "1796720": {
+    "appid": 1796720,
+    "title": "Industrial Annihilation",
+    "genre": "Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1796720/header.jpg?t=1733851725",
+    "price_display": "Rp 255.999",
+    "size_disk_gb": "20.04 GB"
+  },
+  "594650": {
+    "appid": 594650,
+    "title": "Hunt: Showdown 1896",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/594650/b816a0a1a2afaadc224e6cfe150c1b273f1d0457/header_alt_assets_21.jpg?t=1761838250",
+    "price_display": "Rp 255.000",
+    "size_disk_gb": "75.13 GB"
+  },
+  "2374190": {
+    "appid": 2374190,
+    "title": "Nikoderiko: The Magical World — Director’s Cut",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2374190/b17aa0ddef658f3f8e8c7ad06223542a2a5eabbd/header.jpg?t=1764608177",
+    "price_display": "Rp 254.999",
+    "size_disk_gb": "20.53 GB"
+  },
+  "436780": {
+    "appid": 436780,
+    "title": "Tavern Keeper 🍻",
+    "genre": "Indie, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436780/622d3c33fd94631d86894a8e2dd15071c02779d0/header.jpg?t=1762343337",
+    "price_display": "Rp 253.500",
+    "size_disk_gb": "20.69 GB"
+  },
+  "2223840": {
+    "appid": 2223840,
+    "title": "The Casting of Frank Stone™",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223840/header.jpg?t=1764180906",
+    "price_display": "Rp 253.500",
+    "size_disk_gb": "70.69 GB"
+  },
+  "2996040": {
+    "appid": 2996040,
+    "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+    "genre": "Action, Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2996040/14ea7c0e73f682ddddbb3baeb5cfb22b54d78afc/header.jpg?t=1764108981",
+    "price_display": "Rp 253.500",
+    "size_disk_gb": "5.3 GB"
+  },
+  "228380": {
+    "appid": 228380,
+    "title": "Wreckfest",
+    "genre": "Action, Indie, Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/228380/header.jpg?t=1742490584",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "32.28 GB"
+  },
+  "254370": {
+    "appid": 254370,
+    "title": "Aquanox Deep Descent",
+    "genre": "Action, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254370/header.jpg?t=1727936221",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "30.26 GB"
+  },
+  "803330": {
+    "appid": 803330,
+    "title": "Destroy All Humans!",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803330/header.jpg?t=1696424223",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "19.95 GB"
+  },
+  "967390": {
+    "appid": 967390,
+    "title": "Chronos: Before the Ashes",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/967390/header.jpg?t=1696428864",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "8.02 GB"
+  },
+  "969990": {
+    "appid": 969990,
+    "title": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "genre": "Action, Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969990/header.jpg?t=1754079607",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "8.83 GB"
+  },
+  "1205480": {
+    "appid": 1205480,
+    "title": "Monster Jam Steel Titans 2",
+    "genre": "Racing, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1205480/header.jpg?t=1725001897",
+    "price_display": "Rp 253.389",
+    "size_disk_gb": "20.3 GB"
+  },
+  "989580": {
+    "appid": 989580,
+    "title": "Kamimachi Site - Dating story",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/989580/header.jpg?t=1693964796",
+    "price_display": "Rp 252.500",
+    "size_disk_gb": "0.01 GB"
+  },
+  "1194590": {
+    "appid": 1194590,
+    "title": "Star Dynasties",
+    "genre": "RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1194590/header.jpg?t=1728477847",
+    "price_display": "Rp 252.418",
+    "size_disk_gb": "1.38 GB"
+  },
+  "736220": {
+    "appid": 736220,
+    "title": "Squad 44",
+    "genre": "Action, Indie, Massively Multiplayer, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/736220/header.jpg?t=1754580093",
+    "price_display": "Rp 252.053",
+    "size_disk_gb": "100.7 GB"
+  },
+  "1198810": {
+    "appid": 1198810,
+    "title": "Wolf and Pigs",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1198810/header.jpg?t=1618386087",
+    "price_display": "Rp 250.999",
+    "size_disk_gb": "2.22 GB"
+  },
+  "270830": {
+    "appid": 270830,
+    "title": "Global ATC Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270830/header.jpg?t=1667920620",
+    "price_display": "Rp 250.255",
+    "size_disk_gb": "0.12 GB"
+  },
+  "3774720": {
+    "appid": 3774720,
+    "title": "Alchemy Passage",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774720/8a4b8f5d3d3442290ca8ff214bbc3d1b8a70ae5c/header.jpg?t=1753916485",
+    "price_display": "Rp 250.059",
+    "size_disk_gb": "2.62 GB"
+  },
+  "1133500": {
+    "appid": 1133500,
+    "title": "Overthrown",
+    "genre": "Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133500/e18946ecfca84807e0b782b2cd9219782d9e3b4d/header.jpg?t=1760120138",
+    "price_display": "Rp 250.000",
+    "size_disk_gb": "4.78 GB"
+  },
+  "1496590": {
+    "appid": 1496590,
+    "title": "Tchia",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1496590/header.jpg?t=1727258805",
+    "price_display": "Rp 250.000",
+    "size_disk_gb": "15.72 GB"
+  },
+  "2428980": {
+    "appid": 2428980,
+    "title": "Bye Sweet Carole",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2428980/0ef8fa7d496ea1cc67bab8f32e9f2d1d3e9eac8c/header.jpg?t=1762273886",
+    "price_display": "Rp 250.000",
+    "size_disk_gb": "15.14 GB"
+  },
+  "3735230": {
+    "appid": 3735230,
+    "title": "Samurai Academy: Paws of Fury",
+    "genre": "Action, Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3735230/d924f8762ca3c92ba4d98464744f31e209b8d42e/header.jpg?t=1763738073",
+    "price_display": "Rp 250.000",
+    "size_disk_gb": "6.98 GB"
+  },
+  "265300": {
+    "appid": 265300,
+    "title": "Lords Of The Fallen™ 2014",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265300/header.jpg?t=1728377554",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "25.51 GB"
+  },
+  "440900": {
+    "appid": 440900,
+    "title": "Conan Exiles",
+    "genre": "Action, Adventure, Massively Multiplayer, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440900/header.jpg?t=1761596064",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "115.66 GB"
+  },
+  "553520": {
+    "appid": 553520,
+    "title": "Trainz Railroad Simulator 2019",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553520/header.jpg?t=1723682065",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "50.15 GB"
+  },
+  "602960": {
+    "appid": 602960,
+    "title": "Barotrauma",
+    "genre": "Action, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/602960/header.jpg?t=1764084746",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "2.06 GB"
+  },
+  "607080": {
+    "appid": 607080,
+    "title": "Psychonauts 2",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/607080/header.jpg?t=1745521663",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "30.29 GB"
+  },
+  "861650": {
+    "appid": 861650,
+    "title": "Session: Skate Sim",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/861650/4076026c5d7f4456b477f89d8d567aef236de713/header.jpg?t=1763733570",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "15.56 GB"
+  },
+  "915710": {
+    "appid": 915710,
+    "title": "Little Dragons Café",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/915710/header.jpg?t=1542268885",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "0.7 GB"
+  },
+  "917720": {
+    "appid": 917720,
+    "title": "Gamedec - Definitive Edition",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/917720/46737b91f0fdbe4201e0582be9826690019755c2/header.jpg?t=1763562273",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "17.55 GB"
+  },
+  "969340": {
+    "appid": 969340,
+    "title": "The Dungeon Paradox",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/969340/header.jpg?t=1738786819",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "10.68 GB"
+  },
+  "1007040": {
+    "appid": 1007040,
+    "title": "EARTH DEFENSE FORCE 5",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1007040/header.jpg?t=1747126351",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "30.91 GB"
+  },
+  "1024950": {
+    "appid": 1024950,
+    "title": "Starship Horizons: Bridge Simulator",
+    "genre": "Action, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1024950/header.jpg?t=1743889703",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "2.31 GB"
+  },
+  "1039890": {
+    "appid": 1039890,
+    "title": "EARTH DEFENSE FORCE: IRON RAIN",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1039890/header.jpg?t=1668586409",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "24.65 GB"
+  },
+  "1072500": {
+    "appid": 1072500,
+    "title": "AO Tennis 2",
+    "genre": "Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1072500/header.jpg?t=1725351525",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "15.2 GB"
+  },
+  "1079620": {
+    "appid": 1079620,
+    "title": "Infinity: Battlescape",
+    "genre": "Action, Indie, Massively Multiplayer, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079620/header.jpg?t=1688045407",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "15.64 GB"
+  },
+  "1097350": {
+    "appid": 1097350,
+    "title": "Weird West: Definitive Edition",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097350/header.jpg?t=1728947905",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "16.44 GB"
+  },
+  "1129580": {
+    "appid": 1129580,
+    "title": "Medieval Dynasty",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1129580/header.jpg?t=1763375266",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "20.84 GB"
+  },
+  "1151450": {
+    "appid": 1151450,
+    "title": "Utawarerumono: Prelude to the Fallen",
+    "genre": "Adventure, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151450/header.jpg?t=1732445188",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "5.32 GB"
+  },
+  "1272010": {
+    "appid": 1272010,
+    "title": "Destroyer: The U-Boat Hunter",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272010/header.jpg?t=1751623756",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "12.99 GB"
+  },
+  "1276790": {
+    "appid": 1276790,
+    "title": "Ruined King: A League of Legends Story™",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1276790/header.jpg?t=1709574331",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "15.07 GB"
+  },
+  "1279590": {
+    "appid": 1279590,
+    "title": "Fritz Chess 17 Steam Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1279590/header.jpg?t=1596006734",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "4.72 GB"
+  },
+  "1324340": {
+    "appid": 1324340,
+    "title": "Made in Abyss: Binary Star Falling into Darkness",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1324340/header.jpg?t=1715700940",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "20.65 GB"
+  },
+  "1466860": {
+    "appid": 1466860,
+    "title": "Age of Empires IV: Anniversary Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1762295217",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "50.01 GB"
+  },
+  "1475850": {
+    "appid": 1475850,
+    "title": "Rugby 22",
+    "genre": "Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1475850/header.jpg?t=1725350314",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "26.14 GB"
+  },
+  "1495580": {
+    "appid": 1495580,
+    "title": "Aquarelle",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495580/header.jpg?t=1657648849",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "8.44 GB"
+  },
+  "1570510": {
+    "appid": 1570510,
+    "title": "Undernauts: Labyrinth of Yomi",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1570510/header.jpg?t=1641341260",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "2.48 GB"
+  },
+  "1583230": {
+    "appid": 1583230,
+    "title": "High On Life",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1583230/header.jpg?t=1752869049",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "59.09 GB"
+  },
+  "1767560": {
+    "appid": 1767560,
+    "title": "Pro Cycling Manager 2022",
+    "genre": "Casual, Racing, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1767560/header.jpg?t=1764149286",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "16.48 GB"
+  },
+  "1767570": {
+    "appid": 1767570,
+    "title": "Tour de France 2022",
+    "genre": "Racing, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1767570/header.jpg?t=1764149285",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "30.97 GB"
+  },
+  "1845040": {
+    "appid": 1845040,
+    "title": "Panzers on the Steppe",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1845040/header.jpg?t=1662056927",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "0.23 GB"
+  },
+  "1953520": {
+    "appid": 1953520,
+    "title": "WRC Generations – The FIA WRC Official Game",
+    "genre": "Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1953520/header.jpg?t=1764149287",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "47.01 GB"
+  },
+  "1962430": {
+    "appid": 1962430,
+    "title": "Monochrome Mobius: Rights and Wrongs Forgotten",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1962430/header.jpg?t=1732445114",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "35.49 GB"
+  },
+  "2126190": {
+    "appid": 2126190,
+    "title": "Rue Valley",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2126190/a0828482b2cb0958cf2b82178a5e332b9dd43fc2/header.jpg?t=1763115136",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "20.3 GB"
+  },
+  "2176130": {
+    "appid": 2176130,
+    "title": "Tower! Simulator 3",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2176130/header.jpg?t=1764094341",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "20.32 GB"
+  },
+  "2202120": {
+    "appid": 2202120,
+    "title": "63 Days",
+    "genre": "Action, Adventure, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2202120/header.jpg?t=1744227057",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "16.57 GB"
+  },
+  "2561310": {
+    "appid": 2561310,
+    "title": "K2: Digital Edition",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2561310/header.jpg?t=1763553739",
+    "price_display": "Rp 249.999",
+    "size_disk_gb": "0.61 GB"
+  },
+  "895580": {
+    "appid": 895580,
+    "title": "Yoga Lesson VR",
+    "genre": "Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/895580/header.jpg?t=1533571128",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "12.61 GB"
+  },
+  "939850": {
+    "appid": 939850,
+    "title": "The Dark Pictures Anthology: Man of Medan",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939850/header.jpg?t=1728913265",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "80.34 GB"
+  },
+  "1194630": {
+    "appid": 1194630,
+    "title": "The Dark Pictures Anthology: Little Hope",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1194630/header.jpg?t=1731918218",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "80.85 GB"
+  },
+  "1249070": {
+    "appid": 1249070,
+    "title": "AeternoBlade II: Infinity",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1249070/header.jpg?t=1707569593",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "9.48 GB"
+  },
+  "1329880": {
+    "appid": 1329880,
+    "title": "Wild West Dynasty",
+    "genre": "Adventure, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1329880/header.jpg?t=1761206806",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "15.7 GB"
+  },
+  "1549970": {
+    "appid": 1549970,
+    "title": "Aliens: Fireteam Elite",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1549970/header.jpg?t=1727102951",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "30.2 GB"
+  },
+  "1859470": {
+    "appid": 1859470,
+    "title": "PAC-MAN WORLD Re-PAC",
+    "genre": "Action, Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1859470/header.jpg?t=1708327445",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "10.91 GB"
+  },
+  "2223270": {
+    "appid": 2223270,
+    "title": "Big Butt Bobby",
+    "genre": "Action, Adventure, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2223270/header.jpg?t=1744109571",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "5.1 GB"
+  },
+  "2318070": {
+    "appid": 2318070,
+    "title": "Little Big Adventure – Twinsen’s Quest",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2318070/header.jpg?t=1743151840",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "5.91 GB"
+  },
+  "2695490": {
+    "appid": 2695490,
+    "title": "Age of Water",
+    "genre": "Action, Adventure, Massively Multiplayer",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695490/374f1e7323bab9e33ea209795e8a8477369fc16f/header.jpg?t=1751622232",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "15.4 GB"
+  },
+  "2793950": {
+    "appid": 2793950,
+    "title": "Totally Spies! - Cyber Mission",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2793950/header.jpg?t=1736504030",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "7.82 GB"
+  },
+  "2922980": {
+    "appid": 2922980,
+    "title": "Arsene Lupin - Once a Thief",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922980/header.jpg?t=1736504084",
+    "price_display": "Rp 249.000",
+    "size_disk_gb": "10.65 GB"
+  },
+  "460790": {
+    "appid": 460790,
+    "title": "Bayonetta",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460790/header.jpg?t=1763677459",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "20.91 GB"
+  },
+  "460810": {
+    "appid": 460810,
+    "title": "Vanquish",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460810/header.jpg?t=1763675489",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "20.85 GB"
+  },
+  "1088710": {
+    "appid": 1088710,
+    "title": "Yakuza 3 Remastered",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1088710/header.jpg?t=1763648860",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "26.69 GB"
+  },
+  "1105500": {
+    "appid": 1105500,
+    "title": "Yakuza 4 Remastered",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105500/header.jpg?t=1763649116",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "35.48 GB"
+  },
+  "1105510": {
+    "appid": 1105510,
+    "title": "Yakuza 5 Remastered",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1105510/header.jpg?t=1763648749",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "32.56 GB"
+  },
+  "1388590": {
+    "appid": 1388590,
+    "title": "Yakuza 6: The Song of Life",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388590/header.jpg?t=1763648657",
+    "price_display": "Rp 248.000",
+    "size_disk_gb": "40.78 GB"
+  },
+  "2870": {
+    "appid": 2870,
+    "title": "X Rebirth",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2870/header.jpg?t=1762271301",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.54 GB"
+  },
+  "233130": {
+    "appid": 233130,
+    "title": "Shadow Warrior",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233130/header.jpg?t=1710246206",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.33 GB"
+  },
+  "251110": {
+    "appid": 251110,
+    "title": "INFRA",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251110/header.jpg?t=1693680015",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "18.23 GB"
+  },
+  "253230": {
+    "appid": 253230,
+    "title": "A Hat in Time",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253230/header.jpg?t=1737595291",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.37 GB"
+  },
+  "257510": {
+    "appid": 257510,
+    "title": "The Talos Principle",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257510/header.jpg?t=1744327639",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.58 GB"
+  },
+  "261470": {
+    "appid": 261470,
+    "title": "Distant Worlds: Universe",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/261470/header.jpg?t=1726821290",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.63 GB"
+  },
+  "262300": {
+    "appid": 262300,
+    "title": "Tsukumogami",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262300/header.jpg?t=1727797079",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.56 GB"
+  },
+  "268400": {
+    "appid": 268400,
+    "title": "Panzer Corps Gold",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268400/header.jpg?t=1726821731",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.81 GB"
+  },
+  "282140": {
+    "appid": 282140,
+    "title": "SOMA",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/282140/header.jpg?t=1752056335",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.17 GB"
+  },
+  "287580": {
+    "appid": 287580,
+    "title": "Pandora: First Contact",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287580/header.jpg?t=1726821783",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.12 GB"
+  },
+  "292000": {
+    "appid": 292000,
+    "title": "No More Room in Hell 2",
+    "genre": "Action, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292000/ba33a8aef67d6a1e3b17b0f1689731334c1ec541/header.jpg?t=1761666380",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.38 GB"
+  },
+  "293760": {
+    "appid": 293760,
+    "title": "Automation - The Car Company Tycoon Game",
+    "genre": "Indie, Racing, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293760/header.jpg?t=1738203029",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.37 GB"
+  },
+  "306760": {
+    "appid": 306760,
+    "title": "Obduction",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/306760/header.jpg?t=1747419107",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.3 GB"
+  },
+  "307070": {
+    "appid": 307070,
+    "title": "Memories of a Vagabond",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/307070/header.jpg?t=1613074136",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.35 GB"
+  },
+  "316370": {
+    "appid": 316370,
+    "title": "Wave of Darkness",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/316370/header.jpg?t=1447362897",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.67 GB"
+  },
+  "323190": {
+    "appid": 323190,
+    "title": "Frostpunk",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/323190/abcd2bf3c275092d637d7dd98e0061dbdd2fd2da/header.jpg?t=1763638198",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.86 GB"
+  },
+  "324800": {
+    "appid": 324800,
+    "title": "Shadow Warrior 2",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/324800/header.jpg?t=1728689727",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "14.32 GB"
+  },
+  "357310": {
+    "appid": 357310,
+    "title": "Oriental Empires",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/357310/header.jpg?t=1728468084",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.05 GB"
+  },
+  "361420": {
+    "appid": 361420,
+    "title": "ASTRONEER",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361420/8628d596214dba144ac79cf621ed56a218a09272/header_alt_assets_15.jpg?t=1763660960",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.87 GB"
+  },
+  "365960": {
+    "appid": 365960,
+    "title": "rFactor 2",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365960/header.jpg?t=1727871590",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.8 GB"
+  },
+  "366760": {
+    "appid": 366760,
+    "title": "Adorables",
+    "genre": "Casual, Indie, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/366760/header.jpg?t=1651952894",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.95 GB"
+  },
+  "382310": {
+    "appid": 382310,
+    "title": "Eco",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/382310/02ce549e6b1ea14a5bba2742f6fb9f2da30edf69/header_alt_assets_1.jpg?t=1762409229",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.38 GB"
+  },
+  "383980": {
+    "appid": 383980,
+    "title": "Rivals of Aether",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/383980/header.jpg?t=1721063075",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.42 GB"
+  },
+  "402130": {
+    "appid": 402130,
+    "title": "FlatOut 4: Total Insanity",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402130/header.jpg?t=1750135049",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.33 GB"
+  },
+  "403200": {
+    "appid": 403200,
+    "title": "Legends of Dawn Reborn",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/403200/header.jpg?t=1447378065",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.01 GB"
+  },
+  "423620": {
+    "appid": 423620,
+    "title": "HERO DEFENSE",
+    "genre": "Action, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/423620/header.jpg?t=1722258666",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.77 GB"
+  },
+  "427570": {
+    "appid": 427570,
+    "title": "Dawn of Andromeda",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427570/header.jpg?t=1599049257",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.65 GB"
+  },
+  "427940": {
+    "appid": 427940,
+    "title": "Industries of Titan",
+    "genre": "Action, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427940/header.jpg?t=1738282281",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.85 GB"
+  },
+  "431180": {
+    "appid": 431180,
+    "title": "WolfQuest: Classic",
+    "genre": "Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431180/header.jpg?t=1753293189",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.3 GB"
+  },
+  "449680": {
+    "appid": 449680,
+    "title": "SAMOLIOTIK",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/449680/header.jpg?t=1661467483",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.71 GB"
+  },
+  "453090": {
+    "appid": 453090,
+    "title": "Parkitect",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453090/header.jpg?t=1758132484",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.98 GB"
+  },
+  "465240": {
+    "appid": 465240,
+    "title": "Serious Sam VR: The Last Hope",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/465240/header.jpg?t=1728689200",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.73 GB"
+  },
+  "466130": {
+    "appid": 466130,
+    "title": "White Day: A Labyrinth Named School",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/466130/header.jpg?t=1741786299",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.31 GB"
+  },
+  "467950": {
+    "appid": 467950,
+    "title": "Survive in Space",
+    "genre": "Action, Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467950/header.jpg?t=1696796899",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.69 GB"
+  },
+  "468490": {
+    "appid": 468490,
+    "title": "Neon Space",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/468490/header.jpg?t=1696797376",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.56 GB"
+  },
+  "470450": {
+    "appid": 470450,
+    "title": "Where's My Helmet?",
+    "genre": "Action, Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470450/header.jpg?t=1661093210",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.2 GB"
+  },
+  "471010": {
+    "appid": 471010,
+    "title": "Seven: Enhanced Edition",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/471010/header.jpg?t=1589292453",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.01 GB"
+  },
+  "473690": {
+    "appid": 473690,
+    "title": "Absolver",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/473690/header.jpg?t=1728689155",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "11.31 GB"
+  },
+  "490110": {
+    "appid": 490110,
+    "title": "The Precinct",
+    "genre": "Action, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490110/header.jpg?t=1763571586",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.83 GB"
+  },
+  "494430": {
+    "appid": 494430,
+    "title": "Praey for the Gods",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494430/header.jpg?t=1701288588",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.41 GB"
+  },
+  "494730": {
+    "appid": 494730,
+    "title": "Galacticare",
+    "genre": "Casual, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494730/header.jpg?t=1756368478",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.68 GB"
+  },
+  "494840": {
+    "appid": 494840,
+    "title": "UBOAT",
+    "genre": "Action, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/494840/header.jpg?t=1750843285",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "71.29 GB"
+  },
+  "502520": {
+    "appid": 502520,
+    "title": "Ultimate General: Civil War",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/502520/header.jpg?t=1714903654",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.06 GB"
+  },
+  "505210": {
+    "appid": 505210,
+    "title": "Neon Space 2",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/505210/header.jpg?t=1696796913",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.73 GB"
+  },
+  "511740": {
+    "appid": 511740,
+    "title": "Gal*Gun: Double Peace",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/511740/header.jpg?t=1741786217",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.2 GB"
+  },
+  "521890": {
+    "appid": 521890,
+    "title": "Hello Neighbor",
+    "genre": "Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/521890/header.jpg?t=1763986397",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.57 GB"
+  },
+  "541640": {
+    "appid": 541640,
+    "title": "Disney Infinity 1.0: Gold Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541640/header.jpg?t=1571776415",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.35 GB"
+  },
+  "541660": {
+    "appid": 541660,
+    "title": "Disney Infinity 2.0: Gold Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541660/header.jpg?t=1571776448",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.28 GB"
+  },
+  "541670": {
+    "appid": 541670,
+    "title": "Disney Infinity 3.0: Gold Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/541670/header.jpg?t=1571776454",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.22 GB"
+  },
+  "552440": {
+    "appid": 552440,
+    "title": "The Talos Principle VR",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552440/header.jpg?t=1710246995",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.98 GB"
+  },
+  "552500": {
+    "appid": 552500,
+    "title": "Warhammer: Vermintide 2",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/552500/75e8930fb500a2be96d5ca82509fdfe2dbfddc82/header_alt_assets_25.jpg?t=1764008361",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.62 GB"
+  },
+  "553420": {
+    "appid": 553420,
+    "title": "TUNIC",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553420/header.jpg?t=1755875877",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.63 GB"
+  },
+  "555050": {
+    "appid": 555050,
+    "title": "Racket Fury: Table Tennis VR",
+    "genre": "Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/555050/header.jpg?t=1685174237",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.93 GB"
+  },
+  "556280": {
+    "appid": 556280,
+    "title": "Neon Prism",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556280/header.jpg?t=1696797065",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.7 GB"
+  },
+  "567580": {
+    "appid": 567580,
+    "title": "Duke of Alpha Centauri",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/567580/header.jpg?t=1696796788",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.63 GB"
+  },
+  "570050": {
+    "appid": 570050,
+    "title": "Raiden V: Director's Cut | 雷電 V Director's Cut | 雷電V:導演剪輯版",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570050/header.jpg?t=1747722629",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.77 GB"
+  },
+  "593150": {
+    "appid": 593150,
+    "title": "Ooblets",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593150/header.jpg?t=1696517972",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.57 GB"
+  },
+  "599080": {
+    "appid": 599080,
+    "title": "The Blackout Club",
+    "genre": "Action, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/599080/header.jpg?t=1667347026",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.83 GB"
+  },
+  "620980": {
+    "appid": 620980,
+    "title": "Beat Saber",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620980/header.jpg?t=1749135147",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.04 GB"
+  },
+  "629760": {
+    "appid": 629760,
+    "title": "MORDHAU",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/629760/header.jpg?t=1760646918",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.13 GB"
+  },
+  "632300": {
+    "appid": 632300,
+    "title": "Hobo: Tough Life",
+    "genre": "Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632300/header.jpg?t=1683874995",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.32 GB"
+  },
+  "658620": {
+    "appid": 658620,
+    "title": "Wonderful Everyday Down the Rabbit-Hole",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/658620/header.jpg?t=1755063701",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.28 GB"
+  },
+  "660160": {
+    "appid": 660160,
+    "title": "Field of Glory II",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/660160/header.jpg?t=1728379262",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.24 GB"
+  },
+  "663130": {
+    "appid": 663130,
+    "title": "Game Tengoku CruisinMix Special",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/663130/header.jpg?t=1697063945",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.1 GB"
+  },
+  "668430": {
+    "appid": 668430,
+    "title": "V-Racer Hoverbike",
+    "genre": "Action, Indie, Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/668430/d7c010975172b4943c4a041a6f6e1a2aaaf5217a/header.jpg?t=1762447646",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.94 GB"
+  },
+  "671440": {
+    "appid": 671440,
+    "title": "Rise of Industry",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/671440/header.jpg?t=1762525699",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.47 GB"
+  },
+  "673450": {
+    "appid": 673450,
+    "title": "Time Lock VR 1",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673450/eafde2b706d03e423be255419540f09fd321d9cd/header.jpg?t=1759325967",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.57 GB"
+  },
+  "673880": {
+    "appid": 673880,
+    "title": "Warhammer 40,000: Mechanicus",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673880/header.jpg?t=1747933345",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "11.21 GB"
+  },
+  "699170": {
+    "appid": 699170,
+    "title": "Fell Seal: Arbiter's Mark",
+    "genre": "Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/699170/header.jpg?t=1760104179",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.31 GB"
+  },
+  "727130": {
+    "appid": 727130,
+    "title": "Between the Stars",
+    "genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/727130/header.jpg?t=1762955708",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.7 GB"
+  },
+  "745970": {
+    "appid": 745970,
+    "title": "Terminal Conflict",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/745970/header.jpg?t=1761229793",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.7 GB"
+  },
+  "757300": {
+    "appid": 757300,
+    "title": "Truberbrook / Trüberbrook",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/757300/header.jpg?t=1717681834",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.18 GB"
+  },
+  "763000": {
+    "appid": 763000,
+    "title": "Super Army of Tentacles 3: The Search for Army of Tentacles 2: Black GOAT of the Woods Edition",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/763000/header.jpg?t=1750621567",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.21 GB"
+  },
+  "774461": {
+    "appid": 774461,
+    "title": "The Jackbox Party Pack 5",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/774461/header.jpg?t=1728584545",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.6 GB"
+  },
+  "780310": {
+    "appid": 780310,
+    "title": "The Riftbreaker",
+    "genre": "Action, Adventure, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/780310/3f5251539a56b6a2ceb79d96657ce5bc2e09e8c5/header_alt_assets_6.jpg?t=1764008301",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.64 GB"
+  },
+  "783210": {
+    "appid": 783210,
+    "title": "Aggressors: Ancient Rome",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/783210/header.jpg?t=1726262611",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.82 GB"
+  },
+  "803050": {
+    "appid": 803050,
+    "title": "Per Aspera",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/803050/header.jpg?t=1733496904",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.81 GB"
+  },
+  "809230": {
+    "appid": 809230,
+    "title": "Unity of Command II",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/809230/header.jpg?t=1764141144",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.99 GB"
+  },
+  "817020": {
+    "appid": 817020,
+    "title": "Unholy",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/817020/header.jpg?t=1751278820",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.11 GB"
+  },
+  "819190": {
+    "appid": 819190,
+    "title": "Undead Citadel",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/819190/header.jpg?t=1758797510",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.84 GB"
+  },
+  "821370": {
+    "appid": 821370,
+    "title": "MLB Home Run Derby VR",
+    "genre": "Action, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/821370/header.jpg?t=1755113313",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.82 GB"
+  },
+  "823500": {
+    "appid": 823500,
+    "title": "BONEWORKS",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/823500/header.jpg?t=1581381377",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.38 GB"
+  },
+  "835960": {
+    "appid": 835960,
+    "title": "The Talos Principle 2",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/835960/header.jpg?t=1758794528",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "75.46 GB"
+  },
+  "839450": {
+    "appid": 839450,
+    "title": "7'scarlet",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/839450/header.jpg?t=1693958088",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.24 GB"
+  },
+  "843390": {
+    "appid": 843390,
+    "title": "Vertigo 2",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/843390/header.jpg?t=1732293919",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.62 GB"
+  },
+  "850190": {
+    "appid": 850190,
+    "title": "Goat Simulator 3",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/850190/9c10bb6a9cbcc010cfe86b8ef1f60359a1d9bc59/header_alt_assets_5.jpg?t=1764152768",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.93 GB"
+  },
+  "851890": {
+    "appid": 851890,
+    "title": "Gal*Gun 2",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/851890/header.jpg?t=1744800138",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.75 GB"
+  },
+  "858030": {
+    "appid": 858030,
+    "title": "Paranoia: Happiness is Mandatory",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/858030/header.jpg?t=1764149580",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.26 GB"
+  },
+  "864060": {
+    "appid": 864060,
+    "title": "Marble It Up! Ultra",
+    "genre": "Action, Casual, Indie, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/864060/header.jpg?t=1721510733",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.49 GB"
+  },
+  "865820": {
+    "appid": 865820,
+    "title": "Psychedelica of the Black Butterfly",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865820/header.jpg?t=1693958159",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.06 GB"
+  },
+  "865830": {
+    "appid": 865830,
+    "title": "Psychedelica of the Ashen Hawk",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/865830/header.jpg?t=1693958127",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.74 GB"
+  },
+  "866570": {
+    "appid": 866570,
+    "title": "System Shock 2: 25th Anniversary Remaster",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/866570/header.jpg?t=1760115592",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.36 GB"
+  },
+  "878670": {
+    "appid": 878670,
+    "title": "Shenmue III",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/878670/header.jpg?t=1738856054",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "100.82 GB"
+  },
+  "880750": {
+    "appid": 880750,
+    "title": "Astra Exodus",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/880750/header.jpg?t=1756115994",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.57 GB"
+  },
+  "887800": {
+    "appid": 887800,
+    "title": "Snooker 19",
+    "genre": "Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/887800/header.jpg?t=1762877005",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.16 GB"
+  },
+  "916350": {
+    "appid": 916350,
+    "title": "Saturnalia",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/916350/header.jpg?t=1745920917",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.36 GB"
+  },
+  "926990": {
+    "appid": 926990,
+    "title": "WolfQuest: Anniversary Edition",
+    "genre": "Action, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/926990/header.jpg?t=1761225828",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.5 GB"
+  },
+  "936720": {
+    "appid": 936720,
+    "title": "Wrench",
+    "genre": "Indie, Racing, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/936720/header.jpg?t=1750871915",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.5 GB"
+  },
+  "945770": {
+    "appid": 945770,
+    "title": "Dark Envoy",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945770/108eb549382750b09a6e0cb4d62ae3b05f258e1e/header.jpg?t=1761326366",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.91 GB"
+  },
+  "960420": {
+    "appid": 960420,
+    "title": "Hello Neighbor: Hide and Seek",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/960420/header.jpg?t=1763987007",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.4 GB"
+  },
+  "975370": {
+    "appid": 975370,
+    "title": "Dwarf Fortress",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/975370/e1ee1baef2e1d5cf4ad7205e59ab984f066703a2/header_alt_assets_0.jpg?t=1762194297",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.55 GB"
+  },
+  "985420": {
+    "appid": 985420,
+    "title": "Esc: From Planet",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/985420/header.jpg?t=1707828183",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "50.19 GB"
+  },
+  "997010": {
+    "appid": 997010,
+    "title": "Police Simulator: Patrol Officers",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997010/b3478f83835b22fc91aae454f7e5118455e732a8/header_alt_assets_3.jpg?t=1763649966",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.63 GB"
+  },
+  "997060": {
+    "appid": 997060,
+    "title": "Kotodama: The 7 Mysteries of Fujisawa",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/997060/header.jpg?t=1760053984",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.48 GB"
+  },
+  "999220": {
+    "appid": 999220,
+    "title": "Amnesia: Rebirth",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/999220/header.jpg?t=1752056337",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.54 GB"
+  },
+  "1005300": {
+    "appid": 1005300,
+    "title": "The Jackbox Party Pack 6",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1005300/header.jpg?t=1728584590",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.31 GB"
+  },
+  "1016800": {
+    "appid": 1016800,
+    "title": "Chernobylite Complete Edition",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016800/header.jpg?t=1741257112",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.52 GB"
+  },
+  "1016950": {
+    "appid": 1016950,
+    "title": "Blood Bowl 3",
+    "genre": "Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1016950/dc9dbb444e247796f85c47edb2158772564c23e6/header.jpg?t=1760603077",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.52 GB"
+  },
+  "1021210": {
+    "appid": 1021210,
+    "title": "Cyber Knights: Flashpoint",
+    "genre": "Action, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1021210/0dd5a4075eb492ad6c90dff80669a0fcdcad64b4/header.jpg?t=1763776755",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.6 GB"
+  },
+  "1037930": {
+    "appid": 1037930,
+    "title": "Era of Miracles",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1037930/header.jpg?t=1708440406",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.33 GB"
+  },
+  "1062810": {
+    "appid": 1062810,
+    "title": "Inkbound",
+    "genre": "Action, Indie, Massively Multiplayer, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1062810/header.jpg?t=1761240163",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.25 GB"
+  },
+  "1067320": {
+    "appid": 1067320,
+    "title": "Pathogenesis: Overcome",
+    "genre": "Action, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1067320/header.jpg?t=1747675413",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.13 GB"
+  },
+  "1069640": {
+    "appid": 1069640,
+    "title": "This Land Is My Land",
+    "genre": "Action, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069640/header.jpg?t=1714903399",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.35 GB"
+  },
+  "1069650": {
+    "appid": 1069650,
+    "title": "Ultimate Admiral: Age of Sail",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1069650/header.jpg?t=1714903540",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "11.08 GB"
+  },
+  "1079800": {
+    "appid": 1079800,
+    "title": "Pistol Whip",
+    "genre": "Action, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1079800/header.jpg?t=1729189081",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.63 GB"
+  },
+  "1096530": {
+    "appid": 1096530,
+    "title": "Solasta: Crown of the Magister",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1096530/header.jpg?t=1746538410",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.35 GB"
+  },
+  "1097480": {
+    "appid": 1097480,
+    "title": "Iragon 18+",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1097480/header.jpg?t=1708351969",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.07 GB"
+  },
+  "1101190": {
+    "appid": 1101190,
+    "title": "Dungeon Defenders: Awakened",
+    "genre": "Action, Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1101190/header.jpg?t=1730826043",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.22 GB"
+  },
+  "1121640": {
+    "appid": 1121640,
+    "title": "The Wandering Village",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1121640/header.jpg?t=1763045503",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.97 GB"
+  },
+  "1122340": {
+    "appid": 1122340,
+    "title": "Chef Life: A Restaurant Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1122340/header.jpg?t=1764149285",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.01 GB"
+  },
+  "1133870": {
+    "appid": 1133870,
+    "title": "Space Engineers 2",
+    "genre": "Action, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1133870/5575bd05c4a7c0e75e414339133729f8aa07d6f7/header.jpg?t=1761057268",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.52 GB"
+  },
+  "1145350": {
+    "appid": 1145350,
+    "title": "Hades II",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145350/91ac334a2c137d08968ccc0bc474a02579602100/header.jpg?t=1759973532",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.62 GB"
+  },
+  "1150990": {
+    "appid": 1150990,
+    "title": "Cemetery Warrior 4",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1150990/header.jpg?t=1732256552",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.2 GB"
+  },
+  "1152340": {
+    "appid": 1152340,
+    "title": "Book of Travels",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1152340/2c6f2c46b4011ec4fd23c18ffbf5b93c3c00f6e6/header.jpg?t=1748858472",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.87 GB"
+  },
+  "1158160": {
+    "appid": 1158160,
+    "title": "Coral Island",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1158160/header.jpg?t=1755197548",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.15 GB"
+  },
+  "1159420": {
+    "appid": 1159420,
+    "title": "Robin Hood - Sherwood Builders",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159420/header.jpg?t=1762260786",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "65.85 GB"
+  },
+  "1159690": {
+    "appid": 1159690,
+    "title": "Voidtrain",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1159690/13bcfb7578af2b16612626093df76768842b96ee/header_alt_assets_0.jpg?t=1762539790",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.61 GB"
+  },
+  "1161830": {
+    "appid": 1161830,
+    "title": "Age of Reforging: The Freelands",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1161830/7ff371c0cec09e11c106dd22f701f7217ba81afc/header.jpg?t=1764212249",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.44 GB"
+  },
+  "1165530": {
+    "appid": 1165530,
+    "title": "Offroad Truck Simulator: Heavy Duty Challenge®",
+    "genre": "Adventure, Indie, Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165530/header.jpg?t=1726491897",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.09 GB"
+  },
+  "1165870": {
+    "appid": 1165870,
+    "title": "Mahou Arms",
+    "genre": "Action, Adventure, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1165870/header.jpg?t=1763330438",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.7 GB"
+  },
+  "1166580": {
+    "appid": 1166580,
+    "title": "Best Plumber",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166580/header.jpg?t=1707532308",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.25 GB"
+  },
+  "1166940": {
+    "appid": 1166940,
+    "title": "Dead Static Drive",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1166940/9c3b860a4aea0c0b20c469e0abab2c6cc367d36f/header.jpg?t=1762310675",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.76 GB"
+  },
+  "1173220": {
+    "appid": 1173220,
+    "title": "Bleak Faith: Forsaken",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1173220/header.jpg?t=1722893835",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.76 GB"
+  },
+  "1176160": {
+    "appid": 1176160,
+    "title": "Space Wars",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1176160/header.jpg?t=1725599911",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.1 GB"
+  },
+  "1186640": {
+    "appid": 1186640,
+    "title": "Pumpkin Jack",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1186640/header.jpg?t=1760540939",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.42 GB"
+  },
+  "1202130": {
+    "appid": 1202130,
+    "title": "Starship Troopers: Terran Command",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1202130/b4ca580246e8fb56649578a349b941ac645eb7d5/header.jpg?t=1763475430",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.06 GB"
+  },
+  "1203190": {
+    "appid": 1203190,
+    "title": "Wreckfest 2",
+    "genre": "Racing, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203190/57a15abfe2be9b6de3e547f4cadc226fd487e75c/header_alt_assets_6.jpg?t=1762187857",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.87 GB"
+  },
+  "1206410": {
+    "appid": 1206410,
+    "title": "Kristala",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1206410/30376890c0660a4264d1dc27c8195c8fa37535d7/header.jpg?t=1763142789",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.88 GB"
+  },
+  "1211630": {
+    "appid": 1211630,
+    "title": "The Jackbox Party Pack 7",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1211630/header.jpg?t=1728584652",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.59 GB"
+  },
+  "1214650": {
+    "appid": 1214650,
+    "title": "SOUTH PARK: SNOW DAY!",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1214650/header.jpg?t=1733320616",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "45.92 GB"
+  },
+  "1220140": {
+    "appid": 1220140,
+    "title": "Cartel Tycoon",
+    "genre": "Action, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1220140/header.jpg?t=1752529981",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.45 GB"
+  },
+  "1221240": {
+    "appid": 1221240,
+    "title": "Tavern Cards",
+    "genre": "Action, Adventure, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1221240/header.jpg?t=1725947221",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.57 GB"
+  },
+  "1224250": {
+    "appid": 1224250,
+    "title": "STRTK1NG",
+    "genre": "Casual, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1224250/header.jpg?t=1707940356",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.84 GB"
+  },
+  "1227530": {
+    "appid": 1227530,
+    "title": "Partisans 1941",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1227530/header.jpg?t=1762364961",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.47 GB"
+  },
+  "1229890": {
+    "appid": 1229890,
+    "title": "Koumajou Remilia Ⅱ: Stranger's Requiem",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1229890/header.jpg?t=1702542537",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.67 GB"
+  },
+  "1233610": {
+    "appid": 1233610,
+    "title": "Tactical Warfare Simulator",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233610/header.jpg?t=1713053871",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.14 GB"
+  },
+  "1233800": {
+    "appid": 1233800,
+    "title": "Kandagawa Jet Girls",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1233800/header.jpg?t=1751392872",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "13.31 GB"
+  },
+  "1262060": {
+    "appid": 1262060,
+    "title": "Battle Ram",
+    "genre": "Action, Adventure, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1262060/header.jpg?t=1735317473",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.62 GB"
+  },
+  "1265800": {
+    "appid": 1265800,
+    "title": "Hubris",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1265800/header.jpg?t=1708101058",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.85 GB"
+  },
+  "1268750": {
+    "appid": 1268750,
+    "title": "Starship Troopers: Extermination",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1268750/header.jpg?t=1762975692",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.91 GB"
+  },
+  "1272320": {
+    "appid": 1272320,
+    "title": "Diplomacy is Not an Option",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1272320/1557ec227f1e920f12435c4abb698807e3ed46e5/header_alt_assets_3.jpg?t=1763486744",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.35 GB"
+  },
+  "1282410": {
+    "appid": 1282410,
+    "title": "Hard West 2",
+    "genre": "Action, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282410/header.jpg?t=1750073661",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.54 GB"
+  },
+  "1288320": {
+    "appid": 1288320,
+    "title": "Way of the Hunter",
+    "genre": "Adventure, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1288320/header.jpg?t=1761051481",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "19.63 GB"
+  },
+  "1293820": {
+    "appid": 1293820,
+    "title": "YOU and ME and HER: A Love Story",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1293820/header.jpg?t=1730126497",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.01 GB"
+  },
+  "1296880": {
+    "appid": 1296880,
+    "title": "Sausage Hunter",
+    "genre": "Adventure, Casual, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1296880/header.jpg?t=1719584417",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.89 GB"
+  },
+  "1306770": {
+    "appid": 1306770,
+    "title": "Revival: Recolonization",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1306770/header.jpg?t=1762432491",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.34 GB"
+  },
+  "1307660": {
+    "appid": 1307660,
+    "title": "Ravenbound",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1307660/header.jpg?t=1743067382",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.6 GB"
+  },
+  "1309710": {
+    "appid": 1309710,
+    "title": "The Stone of Madness",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1309710/header.jpg?t=1751040329",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "14.4 GB"
+  },
+  "1310330": {
+    "appid": 1310330,
+    "title": "Goodbye Volcano High",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1310330/header.jpg?t=1758723684",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.76 GB"
+  },
+  "1325900": {
+    "appid": 1325900,
+    "title": "Demon Turf: Queens Edition",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325900/header.jpg?t=1734281591",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.47 GB"
+  },
+  "1326470": {
+    "appid": 1326470,
+    "title": "Sons Of The Forest",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.77 GB"
+  },
+  "1327920": {
+    "appid": 1327920,
+    "title": "Maestro VR",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1327920/header.jpg?t=1734627732",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.33 GB"
+  },
+  "1328990": {
+    "appid": 1328990,
+    "title": "Godsworn",
+    "genre": "RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328990/header.jpg?t=1743284571",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.58 GB"
+  },
+  "1332430": {
+    "appid": 1332430,
+    "title": "Chip ‘n Clawz vs. The Brainioids",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1332430/header.jpg?t=1760381668",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.76 GB"
+  },
+  "1334000": {
+    "appid": 1334000,
+    "title": "Wordle",
+    "genre": "Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334000/header.jpg?t=1726133031",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.82 GB"
+  },
+  "1334010": {
+    "appid": 1334010,
+    "title": "Last Room",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1334010/header.jpg?t=1733986772",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.41 GB"
+  },
+  "1342500": {
+    "appid": 1342500,
+    "title": "Psyber",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1342500/header.jpg?t=1683227152",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.83 GB"
+  },
+  "1343070": {
+    "appid": 1343070,
+    "title": "Call to Arms: Panzer Elite",
+    "genre": "Action, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1343070/68f6354b2f35b5d95c44185453cf2cb4192c22f5/header.jpg?t=1758461269",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "50.87 GB"
+  },
+  "1351240": {
+    "appid": 1351240,
+    "title": "Taxi Life: A City Driving Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1351240/header.jpg?t=1761035062",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.67 GB"
+  },
+  "1355090": {
+    "appid": 1355090,
+    "title": "RAILGRADE",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1355090/header.jpg?t=1745914621",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.94 GB"
+  },
+  "1364210": {
+    "appid": 1364210,
+    "title": "City Bus Manager",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364210/7e708adfc9c22a774eb87bfe4502b11a7eb2945f/header.jpg?t=1759738664",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.21 GB"
+  },
+  "1368870": {
+    "appid": 1368870,
+    "title": "Field of Glory II: Medieval",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1368870/header.jpg?t=1745952784",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.13 GB"
+  },
+  "1369790": {
+    "appid": 1369790,
+    "title": "Marshmallow All the Way Home",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1369790/header.jpg?t=1752023071",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.58 GB"
+  },
+  "1371580": {
+    "appid": 1371580,
+    "title": "Myth of Empires",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1371580/header.jpg?t=1759771203",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "85.52 GB"
+  },
+  "1377380": {
+    "appid": 1377380,
+    "title": "Night of the Dead",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377380/header.jpg?t=1760364619",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.29 GB"
+  },
+  "1377700": {
+    "appid": 1377700,
+    "title": "Empyreal",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1377700/header.jpg?t=1761067261",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "32.28 GB"
+  },
+  "1383640": {
+    "appid": 1383640,
+    "title": "Attack at Dawn: North Africa",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1383640/header.jpg?t=1742736184",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.96 GB"
+  },
+  "1386730": {
+    "appid": 1386730,
+    "title": "Wordle 2",
+    "genre": "Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386730/header.jpg?t=1676735185",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.77 GB"
+  },
+  "1386780": {
+    "appid": 1386780,
+    "title": "City of Gangsters",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1386780/header.jpg?t=1733140127",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.91 GB"
+  },
+  "1392770": {
+    "appid": 1392770,
+    "title": "Practical Shooting Simulator",
+    "genre": "Simulation, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1392770/header.jpg?t=1626972997",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.48 GB"
+  },
+  "1406810": {
+    "appid": 1406810,
+    "title": "After Us",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1406810/header.jpg?t=1738037445",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.13 GB"
+  },
+  "1408610": {
+    "appid": 1408610,
+    "title": "Call of the Wild: The Angler™",
+    "genre": "Adventure, Casual, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1408610/header.jpg?t=1737626002",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.74 GB"
+  },
+  "1410710": {
+    "appid": 1410710,
+    "title": "Democracy 4",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1410710/header.jpg?t=1679835311",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.39 GB"
+  },
+  "1419850": {
+    "appid": 1419850,
+    "title": "Saleblazers",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1419850/header.jpg?t=1753893303",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.61 GB"
+  },
+  "1422940": {
+    "appid": 1422940,
+    "title": "Glider Sim – Soaring Simulator",
+    "genre": "Adventure, Casual, Massively Multiplayer, Simulation, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1422940/header.jpg?t=1758566830",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "22.78 GB"
+  },
+  "1425250": {
+    "appid": 1425250,
+    "title": "Gravity Field",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1425250/header.jpg?t=1684657706",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.83 GB"
+  },
+  "1428820": {
+    "appid": 1428820,
+    "title": "Wordle 3",
+    "genre": "Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428820/header.jpg?t=1676736046",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.47 GB"
+  },
+  "1429850": {
+    "appid": 1429850,
+    "title": "Sumerian Six",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1429850/header.jpg?t=1761064913",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.67 GB"
+  },
+  "1430680": {
+    "appid": 1430680,
+    "title": "Clash: Artifacts of Chaos",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1430680/header.jpg?t=1764149583",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.11 GB"
+  },
+  "1436700": {
+    "appid": 1436700,
+    "title": "Trine 5: A Clockwork Conspiracy",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1436700/header.jpg?t=1725010303",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.68 GB"
+  },
+  "1457320": {
+    "appid": 1457320,
+    "title": "Techtonica",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1457320/header.jpg?t=1734628470",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.13 GB"
+  },
+  "1458140": {
+    "appid": 1458140,
+    "title": "Pacific Drive",
+    "genre": "Action, Adventure, Indie, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1458140/d16d68461cdc5ea415e3e6a6f364659c19f35305/header_alt_assets_1.jpg?t=1763777212",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "18.14 GB"
+  },
+  "1465470": {
+    "appid": 1465470,
+    "title": "The Crust",
+    "genre": "Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1465470/header.jpg?t=1763635919",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.93 GB"
+  },
+  "1468250": {
+    "appid": 1468250,
+    "title": "Kukoos: Lost Pets",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1468250/header.jpg?t=1685998323",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.67 GB"
+  },
+  "1478030": {
+    "appid": 1478030,
+    "title": "Mambo Wave",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478030/header.jpg?t=1749547124",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.28 GB"
+  },
+  "1489630": {
+    "appid": 1489630,
+    "title": "Carrier Command 2",
+    "genre": "Action, Adventure, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1489630/header.jpg?t=1731388211",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.1 GB"
+  },
+  "1489970": {
+    "appid": 1489970,
+    "title": "Highrise City",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1489970/header.jpg?t=1759311838",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.17 GB"
+  },
+  "1495320": {
+    "appid": 1495320,
+    "title": "Carnal Instinct",
+    "genre": "RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1495320/header.jpg?t=1746828210",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.9 GB"
+  },
+  "1517970": {
+    "appid": 1517970,
+    "title": "Aeterna Noctis",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1517970/header.jpg?t=1728387872",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.15 GB"
+  },
+  "1519090": {
+    "appid": 1519090,
+    "title": "Welcome to ParadiZe",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1519090/header.jpg?t=1764149579",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.25 GB"
+  },
+  "1523650": {
+    "appid": 1523650,
+    "title": "Stargate: Timekeepers",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1523650/header.jpg?t=1729693400",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "45.91 GB"
+  },
+  "1530450": {
+    "appid": 1530450,
+    "title": "Scramble: Battle of Britain",
+    "genre": "Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530450/ff4c754e0633d6b9a4df22b2f7b41cf3f8bf327a/header_alt_assets_5.jpg?t=1763542549",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.33 GB"
+  },
+  "1530470": {
+    "appid": 1530470,
+    "title": "Daymare: 1994 Sandcastle",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1530470/header.jpg?t=1726479730",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "23.45 GB"
+  },
+  "1534300": {
+    "appid": 1534300,
+    "title": "Heart of Siam",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1534300/header.jpg?t=1613668052",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.2 GB"
+  },
+  "1548750": {
+    "appid": 1548750,
+    "title": "Dahlia View",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1548750/header.jpg?t=1754909495",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.96 GB"
+  },
+  "1552350": {
+    "appid": 1552350,
+    "title": "The Jackbox Party Pack 8",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1552350/header.jpg?t=1728584688",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.91 GB"
+  },
+  "1553000": {
+    "appid": 1553000,
+    "title": "War Hospital",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1553000/header.jpg?t=1764149578",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.28 GB"
+  },
+  "1558490": {
+    "appid": 1558490,
+    "title": "Firelight Fantasy: Resistance",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1558490/4781ad48182d4477dbc8a8beb80888ae6899a871/header.jpg?t=1747812591",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.87 GB"
+  },
+  "1569580": {
+    "appid": 1569580,
+    "title": "Blue Prince",
+    "genre": "Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1569580/header.jpg?t=1763977487",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.39 GB"
+  },
+  "1574260": {
+    "appid": 1574260,
+    "title": "My Friendly Neighborhood",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1574260/5d9c2790882f3faf242dd5c92b4b99851c94130f/header.jpg?t=1752598029",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.1 GB"
+  },
+  "1581480": {
+    "appid": 1581480,
+    "title": "HUMANITY",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1581480/c639af08b4048d9f866d937757708ac1166495a4/header.jpg?t=1763154837",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.52 GB"
+  },
+  "1581770": {
+    "appid": 1581770,
+    "title": "SpellForce: Conquest of Eo",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1581770/header.jpg?t=1747227579",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "9.51 GB"
+  },
+  "1595000": {
+    "appid": 1595000,
+    "title": "Firelight Fantasy: Phoenix Crew",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595000/99aa9902d718d3d751fba017953c5abee41d6e64/header.jpg?t=1747813774",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.09 GB"
+  },
+  "1595050": {
+    "appid": 1595050,
+    "title": "PBA Pro Bowling 2023",
+    "genre": "Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1595050/header.jpg?t=1662573342",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.3 GB"
+  },
+  "1603940": {
+    "appid": 1603940,
+    "title": "Nuclear War Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1603940/header.jpg?t=1756304627",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "11.15 GB"
+  },
+  "1604380": {
+    "appid": 1604380,
+    "title": "Hamidashi Creative",
+    "genre": "Adventure, Casual, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1604380/header.jpg?t=1743123417",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.26 GB"
+  },
+  "1608700": {
+    "appid": 1608700,
+    "title": "Soundfall",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1608700/header.jpg?t=1756143198",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.68 GB"
+  },
+  "1614270": {
+    "appid": 1614270,
+    "title": "Submerged: Hidden Depths",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1614270/header.jpg?t=1669095408",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.14 GB"
+  },
+  "1619330": {
+    "appid": 1619330,
+    "title": "Firelight Fantasy: Force Energy",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1619330/2a3848942051d16f318e410a7c6062e42ef936e0/header.jpg?t=1757179312",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.44 GB"
+  },
+  "1622630": {
+    "appid": 1622630,
+    "title": "Otherskin",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622630/1813df4d7c811ca263a09c8490453022610242a1/header.jpg?t=1756817903",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.24 GB"
+  },
+  "1622710": {
+    "appid": 1622710,
+    "title": "Oceanhorn 2: Knights of the Lost Realm",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1622710/header.jpg?t=1756648353",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.23 GB"
+  },
+  "1623730": {
+    "appid": 1623730,
+    "title": "Palworld",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/058bd87dc17a7179e07c446aa64d0574ca43ab9d/header.jpg?t=1764244959",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.88 GB"
+  },
+  "1623940": {
+    "appid": 1623940,
+    "title": "Bramble: The Mountain King",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623940/header.jpg?t=1759850350",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.94 GB"
+  },
+  "1627570": {
+    "appid": 1627570,
+    "title": "The Plucky Squire",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627570/header.jpg?t=1757545827",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "27.08 GB"
+  },
+  "1631850": {
+    "appid": 1631850,
+    "title": "PolyClassic: Wild",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631850/ed4c4e254cdfe40e7fa5a88b77b9f0c7455ba1f1/header.jpg?t=1747815082",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.72 GB"
+  },
+  "1639090": {
+    "appid": 1639090,
+    "title": "Survive Isolation",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1639090/header.jpg?t=1749548033",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.29 GB"
+  },
+  "1640160": {
+    "appid": 1640160,
+    "title": "G-Darius HD",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1640160/header.jpg?t=1738644003",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.57 GB"
+  },
+  "1641960": {
+    "appid": 1641960,
+    "title": "Forever Skies",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1641960/eb47b5aab26a22a37d534111f3d65b755e8b8a2f/header_alt_assets_5.jpg?t=1764001786",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "31.75 GB"
+  },
+  "1662210": {
+    "appid": 1662210,
+    "title": "Arms Trade Tycoon: Tanks",
+    "genre": "Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1662210/75040f92b295af6cf1ffd8a604e64fd3fd65e70b/header.jpg?t=1762918675",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.42 GB"
+  },
+  "1668080": {
+    "appid": 1668080,
+    "title": "Pinchcliffe Grand Prix",
+    "genre": "Action, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1668080/header.jpg?t=1747641320",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.99 GB"
+  },
+  "1668780": {
+    "appid": 1668780,
+    "title": "Firelight Fantasy: Vengeance",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1668780/header.jpg?t=1747812302",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.94 GB"
+  },
+  "1673630": {
+    "appid": 1673630,
+    "title": "Eternal Evil",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1673630/header.jpg?t=1720886080",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "31.35 GB"
+  },
+  "1677970": {
+    "appid": 1677970,
+    "title": "Railroad Corporation 2",
+    "genre": "Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677970/15996ec0ccc9c63eeed56af3f49f0c513577eafe/header.jpg?t=1762952860",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.21 GB"
+  },
+  "1681840": {
+    "appid": 1681840,
+    "title": "Abalon: Roguelike Tactics CCG",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1681840/header.jpg?t=1761689760",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.72 GB"
+  },
+  "1691190": {
+    "appid": 1691190,
+    "title": "Rogue Waters",
+    "genre": "Action, Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1691190/header.jpg?t=1748339686",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.85 GB"
+  },
+  "1693680": {
+    "appid": 1693680,
+    "title": "Sword Maker",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1693680/header.jpg?t=1741120614",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.4 GB"
+  },
+  "1696810": {
+    "appid": 1696810,
+    "title": "Railroads Online",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1696810/header.jpg?t=1754385377",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.58 GB"
+  },
+  "1698470": {
+    "appid": 1698470,
+    "title": "Roady Life",
+    "genre": "Adventure, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1698470/header.jpg?t=1667171403",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.91 GB"
+  },
+  "1702010": {
+    "appid": 1702010,
+    "title": "Sengoku Dynasty",
+    "genre": "Adventure, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702010/header.jpg?t=1761205484",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.35 GB"
+  },
+  "1702130": {
+    "appid": 1702130,
+    "title": "ACL Pro Cornhole",
+    "genre": "Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702130/header.jpg?t=1688068498",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.95 GB"
+  },
+  "1702390": {
+    "appid": 1702390,
+    "title": "Voor De Kroon",
+    "genre": "Action, Indie, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1702390/5f405a2f72a4cd6b85c8f0df359bedae6c58fc0a/header.jpg?t=1764207628",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "23.91 GB"
+  },
+  "1706360": {
+    "appid": 1706360,
+    "title": "Annihilate The Spance",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1706360/header.jpg?t=1737022010",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.33 GB"
+  },
+  "1717020": {
+    "appid": 1717020,
+    "title": "Ed-0: Zombie Uprising",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1717020/header.jpg?t=1704422585",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.76 GB"
+  },
+  "1724000": {
+    "appid": 1724000,
+    "title": "Time Lock VR 2",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1724000/header.jpg?t=1747065181",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.51 GB"
+  },
+  "1734390": {
+    "appid": 1734390,
+    "title": "The Pioneers: Surviving Desolation",
+    "genre": "RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734390/header.jpg?t=1715636885",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.08 GB"
+  },
+  "1734890": {
+    "appid": 1734890,
+    "title": "Visual Novel Sisters",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1734890/header.jpg?t=1747810464",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.05 GB"
+  },
+  "1761600": {
+    "appid": 1761600,
+    "title": "JETT: The Far Shore + Given Time",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1761600/header.jpg?t=1677186440",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "14.12 GB"
+  },
+  "1762930": {
+    "appid": 1762930,
+    "title": "Goat Simulator: Remastered",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1762930/header.jpg?t=1748853688",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.72 GB"
+  },
+  "1768880": {
+    "appid": 1768880,
+    "title": "KAMIMAHOU 神之国的魔法使",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1768880/header.jpg?t=1727280362",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.75 GB"
+  },
+  "1770490": {
+    "appid": 1770490,
+    "title": "PAW Patrol: Grand Prix",
+    "genre": "Action, Adventure, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1770490/header.jpg?t=1727089674",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.88 GB"
+  },
+  "1778840": {
+    "appid": 1778840,
+    "title": "Spirit of the North 2",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1778840/a3515bd02840fb12fce4a6baba6443822c5cb28d/header.jpg?t=1760471343",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.09 GB"
+  },
+  "1788650": {
+    "appid": 1788650,
+    "title": "Alchera",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1788650/header.jpg?t=1657992159",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.46 GB"
+  },
+  "1802520": {
+    "appid": 1802520,
+    "title": "Snow Scout",
+    "genre": "Action, Adventure, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1802520/header.jpg?t=1727206892",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.04 GB"
+  },
+  "1809540": {
+    "appid": 1809540,
+    "title": "Nine Sols",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1809540/header.jpg?t=1762838904",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.14 GB"
+  },
+  "1812450": {
+    "appid": 1812450,
+    "title": "Bellwright",
+    "genre": "Action, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1812450/header.jpg?t=1763075288",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "24.9 GB"
+  },
+  "1850960": {
+    "appid": 1850960,
+    "title": "The Jackbox Party Pack 9",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850960/header.jpg?t=1728584761",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.5 GB"
+  },
+  "1852830": {
+    "appid": 1852830,
+    "title": "SPACE ACCIDENT",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1852830/fa7bfe89264aa35ad8722ce500f47178ccbf93ff/header.jpg?t=1748875391",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.66 GB"
+  },
+  "1860510": {
+    "appid": 1860510,
+    "title": "Total Conflict: Resistance",
+    "genre": "Action, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1860510/header.jpg?t=1763453242",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "29.5 GB"
+  },
+  "1869290": {
+    "appid": 1869290,
+    "title": "Supraworld",
+    "genre": "Adventure, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1869290/header.jpg?t=1762269877",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.58 GB"
+  },
+  "1883000": {
+    "appid": 1883000,
+    "title": "HEART of CROWN Online",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1883000/header.jpg?t=1758021493",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.71 GB"
+  },
+  "1890100": {
+    "appid": 1890100,
+    "title": "Ship of Heroes",
+    "genre": "Adventure, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1890100/header.jpg?t=1763482330",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.47 GB"
+  },
+  "1893820": {
+    "appid": 1893820,
+    "title": "Jumplight Odyssey",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1893820/header.jpg?t=1719299730",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.22 GB"
+  },
+  "1910860": {
+    "appid": 1910860,
+    "title": "Grimlord",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1910860/17c278f26c948bf60bb2b3d8d78d2cc5c0ff98a0/header.jpg?t=1748340291",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.55 GB"
+  },
+  "1919040": {
+    "appid": 1919040,
+    "title": "Winter",
+    "genre": "Action, Adventure, Casual, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1919040/header.jpg?t=1731062316",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.11 GB"
+  },
+  "1920780": {
+    "appid": 1920780,
+    "title": "Stray Gods: The Roleplaying Musical",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1920780/header.jpg?t=1750993379",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.05 GB"
+  },
+  "1928090": {
+    "appid": 1928090,
+    "title": "Cook Serve Forever",
+    "genre": "Action, Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928090/header.jpg?t=1758497936",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.21 GB"
+  },
+  "1928980": {
+    "appid": 1928980,
+    "title": "Nightingale",
+    "genre": "Action, Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1928980/header.jpg?t=1761602783",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "70.32 GB"
+  },
+  "1932190": {
+    "appid": 1932190,
+    "title": "Outbreak: Shades of Horror",
+    "genre": "Action, Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1932190/51b0fd345ec1292406082dad9a4776f5ba3fa9df/header.jpg?t=1761431886",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "75.61 GB"
+  },
+  "1949100": {
+    "appid": 1949100,
+    "title": "My Fantastic Ranch: Unicorns & Dragons",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1949100/header.jpg?t=1764149494",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.63 GB"
+  },
+  "1963420": {
+    "appid": 1963420,
+    "title": "Hispania",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1963420/header.jpg?t=1739296077",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.67 GB"
+  },
+  "1981610": {
+    "appid": 1981610,
+    "title": "Wanted: Dead",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1981610/header.jpg?t=1712679422",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "50.8 GB"
+  },
+  "1994350": {
+    "appid": 1994350,
+    "title": "Stickman Synthwave Escape",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1994350/header.jpg?t=1658348334",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.56 GB"
+  },
+  "1995110": {
+    "appid": 1995110,
+    "title": "Slime Dungeon",
+    "genre": "Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1995110/header.jpg?t=1704208553",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.26 GB"
+  },
+  "1996770": {
+    "appid": 1996770,
+    "title": "Turok 3: Shadow of Oblivion Remastered",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1996770/header.jpg?t=1714070385",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.08 GB"
+  },
+  "2000890": {
+    "appid": 2000890,
+    "title": "MechWarrior 5: Clans",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2000890/header.jpg?t=1762447474",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "80.04 GB"
+  },
+  "2002850": {
+    "appid": 2002850,
+    "title": "Raiden IV x MIKADO remix",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002850/header.jpg?t=1747633091",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.28 GB"
+  },
+  "2002860": {
+    "appid": 2002860,
+    "title": "Raiden III x MIKADO MANIAX",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002860/header.jpg?t=1747632964",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.03 GB"
+  },
+  "2004360": {
+    "appid": 2004360,
+    "title": "Hell Division",
+    "genre": "Action, Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2004360/00a1d39419dec6e866820c25354c56495efec403/header.jpg?t=1755954582",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "6.33 GB"
+  },
+  "2005090": {
+    "appid": 2005090,
+    "title": "EVOTINCTION",
+    "genre": "Action, Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2005090/header.jpg?t=1746596423",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.69 GB"
+  },
+  "2012190": {
+    "appid": 2012190,
+    "title": "KAISERPUNK",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2012190/header.jpg?t=1760959524",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.02 GB"
+  },
+  "2015620": {
+    "appid": 2015620,
+    "title": "Valkyrie of Phantasm",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2015620/header.jpg?t=1754019893",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.23 GB"
+  },
+  "2054660": {
+    "appid": 2054660,
+    "title": "Disney Illusion Island Starring Mickey and Friends",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2054660/header.jpg?t=1749233588",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.71 GB"
+  },
+  "2057430": {
+    "appid": 2057430,
+    "title": "The Wraith of the Galaxy",
+    "genre": "Action, Adventure, Casual, Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2057430/header.jpg?t=1727877368",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.22 GB"
+  },
+  "2063310": {
+    "appid": 2063310,
+    "title": "Joe Wander and the Enigmatic Adventures",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2063310/header.jpg?t=1711114423",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.02 GB"
+  },
+  "2071280": {
+    "appid": 2071280,
+    "title": "Ravenswatch",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071280/header.jpg?t=1760445342",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.57 GB"
+  },
+  "2071500": {
+    "appid": 2071500,
+    "title": "Islands of Insight",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2071500/header.jpg?t=1730308751",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.54 GB"
+  },
+  "2080130": {
+    "appid": 2080130,
+    "title": "A Quest That Became Legend",
+    "genre": "Action, Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2080130/header.jpg?t=1717604764",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.57 GB"
+  },
+  "2088340": {
+    "appid": 2088340,
+    "title": "Bratz™: Flaunt your fashion",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2088340/header.jpg?t=1748616874",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.71 GB"
+  },
+  "2093410": {
+    "appid": 2093410,
+    "title": "Supreme Ruler 2030",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2093410/header.jpg?t=1744207902",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.58 GB"
+  },
+  "2105600": {
+    "appid": 2105600,
+    "title": "RPG Stories",
+    "genre": "Adventure, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2105600/327f9dd2a1d115e688c64650ae897a78e18b9468/header.jpg?t=1742569584",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.16 GB"
+  },
+  "2106390": {
+    "appid": 2106390,
+    "title": "PERCNOPS VIRTUAL RIG",
+    "genre": "Indie, Racing, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2106390/header.jpg?t=1673224546",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.58 GB"
+  },
+  "2115850": {
+    "appid": 2115850,
+    "title": "Last Holiday",
+    "genre": "Adventure, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2115850/header.jpg?t=1684425403",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.92 GB"
+  },
+  "2116930": {
+    "appid": 2116930,
+    "title": "Mozart Requiem",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2116930/header.jpg?t=1662629896",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.96 GB"
+  },
+  "2122090": {
+    "appid": 2122090,
+    "title": "Forgotten but Unbroken",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122090/header.jpg?t=1763454300",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "37.49 GB"
+  },
+  "2122830": {
+    "appid": 2122830,
+    "title": "Venus in Furs: Sensual Pleasure",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2122830/header.jpg?t=1737671794",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "14.11 GB"
+  },
+  "2138720": {
+    "appid": 2138720,
+    "title": "REMATCH",
+    "genre": "Action, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg?t=1761052542",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.01 GB"
+  },
+  "2142140": {
+    "appid": 2142140,
+    "title": "Fritz&Chesster  - Learn to Play Chess",
+    "genre": "Adventure, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2142140/header.jpg?t=1694078461",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.47 GB"
+  },
+  "2143680": {
+    "appid": 2143680,
+    "title": "Noctuary",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2143680/header.jpg?t=1760068085",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "9.25 GB"
+  },
+  "2145210": {
+    "appid": 2145210,
+    "title": "Dynasthir",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2145210/b8aee7744cafe47685a878c688a7a95990e783e5/header.jpg?t=1764530112",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "14.73 GB"
+  },
+  "2150300": {
+    "appid": 2150300,
+    "title": "SGS We The People",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2150300/header.jpg?t=1754924634",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.84 GB"
+  },
+  "2153780": {
+    "appid": 2153780,
+    "title": "Survival Nation",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2153780/58ae4c4869d0b635d09c36ec4dddc4045a9ae202/header.jpg?t=1760686333",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.84 GB"
+  },
+  "2162150": {
+    "appid": 2162150,
+    "title": "VR Run",
+    "genre": "Action, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162150/header.jpg?t=1739637153",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.78 GB"
+  },
+  "2162720": {
+    "appid": 2162720,
+    "title": "Shepherd's Crossing",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2162720/header.jpg?t=1682558086",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.49 GB"
+  },
+  "2178070": {
+    "appid": 2178070,
+    "title": "Towers of Aghasba",
+    "genre": "Action, Adventure, Casual, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2178070/3bf3bae70cfc34c8f964232f58a86ccc6a6fd902/header.jpg?t=1759773354",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.3 GB"
+  },
+  "2199420": {
+    "appid": 2199420,
+    "title": "Brickadia",
+    "genre": "Action, Casual, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2199420/e12d019290a111ebbb4f3a7c7b9ca788e3a9f583/header.jpg?t=1752293558",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.96 GB"
+  },
+  "2207060": {
+    "appid": 2207060,
+    "title": "Nanali in another world",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2207060/c6d33ee9f346a370958fec968e784c08d54045fa/header.jpg?t=1763383159",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.76 GB"
+  },
+  "2216830": {
+    "appid": 2216830,
+    "title": "The Jackbox Party Pack 10",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2216830/header.jpg?t=1728584851",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.54 GB"
+  },
+  "2217000": {
+    "appid": 2217000,
+    "title": "Rivals of Aether II",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217000/14df0fae1b5de9f416a0a0a39fc8f6cfa6dd9878/header.jpg?t=1762853737",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.21 GB"
+  },
+  "2217720": {
+    "appid": 2217720,
+    "title": "Oxide Room 208",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2217720/header.jpg?t=1757578540",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.84 GB"
+  },
+  "2230110": {
+    "appid": 2230110,
+    "title": "Fae Farm",
+    "genre": "Action, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230110/header.jpg?t=1759165385",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.41 GB"
+  },
+  "2230650": {
+    "appid": 2230650,
+    "title": "TEVI",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230650/header.jpg?t=1729749286",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.78 GB"
+  },
+  "2230980": {
+    "appid": 2230980,
+    "title": "Caribbean Legend",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2230980/2586da48bfd6ac63bd83b9067009508510c22d0f/header.jpg?t=1761930947",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "50.61 GB"
+  },
+  "2244830": {
+    "appid": 2244830,
+    "title": "Nautikin Adventures",
+    "genre": "Action, Adventure, Casual, Indie, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2244830/7c68cfb7a28d5390e6fa2a9e3b9df9fc8c6cc6cd/header.jpg?t=1753558301",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.45 GB"
+  },
+  "2250790": {
+    "appid": 2250790,
+    "title": "東方幻想魔録W ～ The Devil of Decline",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2250790/header.jpg?t=1719786622",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.88 GB"
+  },
+  "2254890": {
+    "appid": 2254890,
+    "title": "The Killing Antidote",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254890/header.jpg?t=1763459978",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.51 GB"
+  },
+  "2269950": {
+    "appid": 2269950,
+    "title": "The Karters 2: Turbo Charged",
+    "genre": "Action, Adventure, Casual, Indie, Racing, Simulation, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2269950/b4917cdbea0dd58fc84594a350fe7e80dcc0739b/header.jpg?t=1755251245",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.57 GB"
+  },
+  "2286600": {
+    "appid": 2286600,
+    "title": "HOTEL BARCELONA",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286600/header.jpg?t=1763470655",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.22 GB"
+  },
+  "2286680": {
+    "appid": 2286680,
+    "title": "PinBuilder",
+    "genre": "Action, Casual, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2286680/header.jpg?t=1747951045",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.77 GB"
+  },
+  "2299950": {
+    "appid": 2299950,
+    "title": "OVRDARK: a Do Not Open story",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2299950/header.jpg?t=1716448572",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.05 GB"
+  },
+  "2313930": {
+    "appid": 2313930,
+    "title": "NFL Pro Era II",
+    "genre": "Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2313930/header.jpg?t=1717133797",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.06 GB"
+  },
+  "2327780": {
+    "appid": 2327780,
+    "title": "HAELE 3D - Feet Poses Pro - Drawing References",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2327780/c1940b5022942a6ae7b3733cf96d32652b967af9/header.jpg?t=1750946257",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.92 GB"
+  },
+  "2334590": {
+    "appid": 2334590,
+    "title": "Zong",
+    "genre": "Action, Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2334590/header.jpg?t=1719988854",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.2 GB"
+  },
+  "2336100": {
+    "appid": 2336100,
+    "title": "Garden of Earthly Delights",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2336100/header.jpg?t=1756494901",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.42 GB"
+  },
+  "2340650": {
+    "appid": 2340650,
+    "title": "古龙风云录",
+    "genre": "Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2340650/header.jpg?t=1715163368",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.81 GB"
+  },
+  "2343900": {
+    "appid": 2343900,
+    "title": "Project Werewulf",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2343900/6a44d30d5f077c1bd0003712db76674e596f1f02/header.jpg?t=1764071018",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "13.11 GB"
+  },
+  "2375100": {
+    "appid": 2375100,
+    "title": "Run Penguin Run",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2375100/header.jpg?t=1683521180",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.98 GB"
+  },
+  "2375530": {
+    "appid": 2375530,
+    "title": "Descenders Next",
+    "genre": "Action, Massively Multiplayer, Racing, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2375530/header.jpg?t=1755248279",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "9.99 GB"
+  },
+  "2385090": {
+    "appid": 2385090,
+    "title": "アパシー学校であった怖い話1995特別編",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2385090/header.jpg?t=1682675133",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.57 GB"
+  },
+  "2392500": {
+    "appid": 2392500,
+    "title": "Ever 17 - The Out of Infinity",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2392500/header.jpg?t=1741248006",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.96 GB"
+  },
+  "2395530": {
+    "appid": 2395530,
+    "title": "Sexual Massage Shop - AKARI -",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2395530/header.jpg?t=1702011089",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.51 GB"
+  },
+  "2396980": {
+    "appid": 2396980,
+    "title": "Fate/stay night REMASTERED",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396980/header.jpg?t=1726036301",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.68 GB"
+  },
+  "2396990": {
+    "appid": 2396990,
+    "title": "Fate/hollow ataraxia REMASTERED",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2396990/3f9699f3c1b9ac8519f89f46c1ab6f7db9e48fe8/header.jpg?t=1754492410",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.82 GB"
+  },
+  "2398870": {
+    "appid": 2398870,
+    "title": "OURWORLD",
+    "genre": "Adventure, Casual, Massively Multiplayer, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2398870/header.jpg?t=1694921192",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.52 GB"
+  },
+  "2416550": {
+    "appid": 2416550,
+    "title": "Morrok",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2416550/header.jpg?t=1685661815",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.24 GB"
+  },
+  "2436340": {
+    "appid": 2436340,
+    "title": "Yuuna and the Haunted Hot Springs The Thrilling Steamy Maze Kiwami",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2436340/8ecb5acec8609346307617f63a0f2c675492b056/header.jpg?t=1762792961",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "16.94 GB"
+  },
+  "2438680": {
+    "appid": 2438680,
+    "title": "Airborne Empire",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2438680/header.jpg?t=1753431058",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.26 GB"
+  },
+  "2441700": {
+    "appid": 2441700,
+    "title": "UNDERDOGS",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2441700/header.jpg?t=1743500966",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.26 GB"
+  },
+  "2448020": {
+    "appid": 2448020,
+    "title": "Yooka-Replaylee",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448020/646586732091dcb5d4d35a4d5148d1c48536e065/header.jpg?t=1764538569",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.22 GB"
+  },
+  "2451320": {
+    "appid": 2451320,
+    "title": "Bulletstorm VR",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2451320/header.jpg?t=1733136435",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.24 GB"
+  },
+  "2453160": {
+    "appid": 2453160,
+    "title": "Sword of the Sea",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2453160/0970ad83a138f75b1e48e41780ff2eb5f1d21379/header.jpg?t=1764112618",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.3 GB"
+  },
+  "2455860": {
+    "appid": 2455860,
+    "title": "Strange Parallel：Sele",
+    "genre": "Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455860/header.jpg?t=1725299444",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.94 GB"
+  },
+  "2458250": {
+    "appid": 2458250,
+    "title": "Cry Babies Magic Tears: The Big Game",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2458250/header.jpg?t=1738065375",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.98 GB"
+  },
+  "2463800": {
+    "appid": 2463800,
+    "title": "Iron Saga VS",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2463800/7774331213eaa683d223a3cb36297d0c23297973/header.jpg?t=1761120344",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.43 GB"
+  },
+  "2475300": {
+    "appid": 2475300,
+    "title": "Carmen Sandiego",
+    "genre": "Adventure, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475300/f8437250f5feecbb16d36ef2b6024216be63f283/header.jpg?t=1758321783",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.44 GB"
+  },
+  "2486740": {
+    "appid": 2486740,
+    "title": "Sledders",
+    "genre": "Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2486740/b525dc8fa823715d0c3f18a82953c8b8a858689a/header.jpg?t=1764324524",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.59 GB"
+  },
+  "2496180": {
+    "appid": 2496180,
+    "title": "Ghost Town",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2496180/header.jpg?t=1764089384",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.64 GB"
+  },
+  "2509200": {
+    "appid": 2509200,
+    "title": "ERA ONE",
+    "genre": "Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2509200/45da35e5ff9fac78b3d2751a3af7688e23e26d15/header.jpg?t=1763417016",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.85 GB"
+  },
+  "2527450": {
+    "appid": 2527450,
+    "title": "Nie No Hakoniwa - Dollhouse of Offerings",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2527450/header.jpg?t=1710696532",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.81 GB"
+  },
+  "2534370": {
+    "appid": 2534370,
+    "title": "Yars Rising",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2534370/header.jpg?t=1742237665",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.32 GB"
+  },
+  "2574120": {
+    "appid": 2574120,
+    "title": "PPA Pickleball Tour 2025",
+    "genre": "Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2574120/header.jpg?t=1733340496",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.75 GB"
+  },
+  "2582530": {
+    "appid": 2582530,
+    "title": "Broadsword Warlord Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2582530/header.jpg?t=1704303426",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.06 GB"
+  },
+  "2586430": {
+    "appid": 2586430,
+    "title": "Undefined Survivors -アンディファインド サバイバーズ-",
+    "genre": "Action, Adventure, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586430/header.jpg?t=1741175315",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.62 GB"
+  },
+  "2597880": {
+    "appid": 2597880,
+    "title": "STRIDE: Fates",
+    "genre": "Action, Adventure, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2597880/header.jpg?t=1723138398",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "10.01 GB"
+  },
+  "2635030": {
+    "appid": 2635030,
+    "title": "Journey of the Forgotten",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2635030/header.jpg?t=1761905258",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.93 GB"
+  },
+  "2646460": {
+    "appid": 2646460,
+    "title": "Soulmask",
+    "genre": "Adventure, Indie, Massively Multiplayer, RPG, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646460/210bda0694570e74fb11e671a63726d762f83095/header_alt_assets_21.jpg?t=1764070273",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "25.95 GB"
+  },
+  "2647680": {
+    "appid": 2647680,
+    "title": "ICBM: Escalation",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2647680/header.jpg?t=1764256307",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.73 GB"
+  },
+  "2653880": {
+    "appid": 2653880,
+    "title": "Amber",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2653880/header.jpg?t=1710524708",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.33 GB"
+  },
+  "2659050": {
+    "appid": 2659050,
+    "title": "Movies Tycoon",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2659050/header.jpg?t=1750933418",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.27 GB"
+  },
+  "2664880": {
+    "appid": 2664880,
+    "title": "Dawn of Anarchy",
+    "genre": "Action, Casual, Indie, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2664880/header.jpg?t=1747861807",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.78 GB"
+  },
+  "2673080": {
+    "appid": 2673080,
+    "title": "Jurassic Park Classic Games Collection",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2673080/header.jpg?t=1751153827",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.03 GB"
+  },
+  "2685590": {
+    "appid": 2685590,
+    "title": "TriggerHeart EXELICA",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685590/header.jpg?t=1749607419",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.68 GB"
+  },
+  "2686630": {
+    "appid": 2686630,
+    "title": "Voyagers of Nera",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2686630/0c4806ac39e2008ed4ff0249bfb43d02f7e87e24/header.jpg?t=1763972954",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "50.04 GB"
+  },
+  "2689770": {
+    "appid": 2689770,
+    "title": "Robot Dragon Eagle",
+    "genre": "Action, Adventure, Indie, Game Development",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2689770/header.jpg?t=1723763386",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "15.73 GB"
+  },
+  "2695430": {
+    "appid": 2695430,
+    "title": "A.I.L.A",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2695430/header.jpg?t=1764089116",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.19 GB"
+  },
+  "2696780": {
+    "appid": 2696780,
+    "title": "Space Accident VR",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2696780/ca599aa0509349763e90af74618377a5b04eea0d/header.jpg?t=1748878578",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.25 GB"
+  },
+  "2710560": {
+    "appid": 2710560,
+    "title": "Umbra: The Last Summoner",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2710560/header.jpg?t=1736934126",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "35.31 GB"
+  },
+  "2738630": {
+    "appid": 2738630,
+    "title": "Dungeons & Dragons Neverwinter Nights 2: Enhanced Edition",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738630/333f2514318e892d1c2a383afc24c8f4485b23d1/header.jpg?t=1754941313",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "40.15 GB"
+  },
+  "2742940": {
+    "appid": 2742940,
+    "title": "Controware",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2742940/header.jpg?t=1704444752",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.06 GB"
+  },
+  "2764590": {
+    "appid": 2764590,
+    "title": "Monster: Titan's Playground",
+    "genre": "Action, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2764590/header.jpg?t=1753376178",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.45 GB"
+  },
+  "2765750": {
+    "appid": 2765750,
+    "title": "Pyrocast",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2765750/header.jpg?t=1706628525",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.1 GB"
+  },
+  "2765880": {
+    "appid": 2765880,
+    "title": "Starters Orders Touch Horse Racing",
+    "genre": "Indie, Racing, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2765880/header.jpg?t=1720782544",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.79 GB"
+  },
+  "2774980": {
+    "appid": 2774980,
+    "title": "仙途世界",
+    "genre": "Adventure, Casual, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774980/header.jpg?t=1710503102",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.73 GB"
+  },
+  "2786870": {
+    "appid": 2786870,
+    "title": "Ninjurate",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2786870/header.jpg?t=1707389363",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.91 GB"
+  },
+  "2789130": {
+    "appid": 2789130,
+    "title": "Highway Police Simulator",
+    "genre": "Action, Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2789130/a991ea61cdb6edb566d59053a2582250b0063aae/header_alt_assets_1.jpg?t=1764599302",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.49 GB"
+  },
+  "2795270": {
+    "appid": 2795270,
+    "title": "Everlasting Flowers - Where there is a will, there is a way",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2795270/header.jpg?t=1725020996",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.59 GB"
+  },
+  "2815960": {
+    "appid": 2815960,
+    "title": "Robzawar",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815960/header.jpg?t=1708425065",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.05 GB"
+  },
+  "2821760": {
+    "appid": 2821760,
+    "title": "Yaad",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821760/header.jpg?t=1727227690",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.78 GB"
+  },
+  "2828860": {
+    "appid": 2828860,
+    "title": "The Forever Winter",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2828860/b9b59036aeb4c57d604d141d2b84551221b50bbb/header.jpg?t=1764365331",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "60.55 GB"
+  },
+  "2842710": {
+    "appid": 2842710,
+    "title": "Raiden NOVA | 雷電NOVA | 雷電新星",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842710/header.jpg?t=1747636792",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.97 GB"
+  },
+  "2850310": {
+    "appid": 2850310,
+    "title": "Kanon",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850310/3f44251ad5ebf0edfda810c4e15bc88b4664eb14/header.jpg?t=1742196154",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.82 GB"
+  },
+  "2850820": {
+    "appid": 2850820,
+    "title": "Digital Diamond Baseball V12",
+    "genre": "Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2850820/header.jpg?t=1716560687",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "1.31 GB"
+  },
+  "2874310": {
+    "appid": 2874310,
+    "title": "GameSyndicates",
+    "genre": "Action, Adventure, Casual, Indie, Massively Multiplayer, Racing, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2874310/70727e4e709816b08f0fac8fd77f1e793af3c504/header.jpg?t=1762932569",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "7.71 GB"
+  },
+  "2878270": {
+    "appid": 2878270,
+    "title": "Metal: Hellsinger VR",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878270/header.jpg?t=1740649797",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "30.49 GB"
+  },
+  "2893820": {
+    "appid": 2893820,
+    "title": "Of Ash and Steel",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2893820/d2ca22c28269abbb882a81ea31a93e3b19fd24bf/header_alt_assets_1.jpg?t=1764104048",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "45.9 GB"
+  },
+  "2914390": {
+    "appid": 2914390,
+    "title": "House of Golf 2",
+    "genre": "Casual, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914390/04dbf92a45116a217574fba543d157b329162a2a/header.jpg?t=1761929813",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.63 GB"
+  },
+  "2915980": {
+    "appid": 2915980,
+    "title": "Haunted Space Hotel: Vacancy",
+    "genre": "Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915980/20a80d2f09d3dc00cbcd8be7462d5730c7107381/header.jpg?t=1750862694",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "2.61 GB"
+  },
+  "2918710": {
+    "appid": 2918710,
+    "title": "仙途",
+    "genre": "Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918710/header.jpg?t=1717203801",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.58 GB"
+  },
+  "2927430": {
+    "appid": 2927430,
+    "title": "Lady Godiva Naked Eye",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2927430/9f58981bd2343115cfab80e8b199d241a0b83978/header.jpg?t=1755974533",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.76 GB"
+  },
+  "2933130": {
+    "appid": 2933130,
+    "title": "The Lord of the Rings: Return to Moria™",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933130/header.jpg?t=1763485093",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "20.21 GB"
+  },
+  "2933940": {
+    "appid": 2933940,
+    "title": "HENTAI Audition!",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933940/header.jpg?t=1717573264",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.88 GB"
+  },
+  "2941710": {
+    "appid": 2941710,
+    "title": "Project Silverfish",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941710/80b1e0e691b4f9b372f27af8eef9173c9383289b/header.jpg?t=1750910382",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "12.26 GB"
+  },
+  "2948480": {
+    "appid": 2948480,
+    "title": "SGS Imjin War",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948480/header.jpg?t=1748598101",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "4.09 GB"
+  },
+  "2958970": {
+    "appid": 2958970,
+    "title": "The Thing: Remastered",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2958970/header.jpg?t=1764708954",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "5.94 GB"
+  },
+  "2962680": {
+    "appid": 2962680,
+    "title": "Far Horizon",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2962680/header.jpg?t=1727097942",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.92 GB"
+  },
+  "2967700": {
+    "appid": 2967700,
+    "title": "WarOfGods 2",
+    "genre": "Action, Racing, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2967700/header.jpg?t=1744771745",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.04 GB"
+  },
+  "2983250": {
+    "appid": 2983250,
+    "title": "AIR",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2983250/header.jpg?t=1742186875",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "3.38 GB"
+  },
+  "2996430": {
+    "appid": 2996430,
+    "title": "Urban",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2996430/header.jpg?t=1727889541",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "8.94 GB"
+  },
+  "3015100": {
+    "appid": 3015100,
+    "title": "Apocalyptic cat",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015100/header.jpg?t=1722268488",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.28 GB"
+  },
+  "3015110": {
+    "appid": 3015110,
+    "title": "Backrooms Cats and Lava",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015110/header.jpg?t=1722267639",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.88 GB"
+  },
+  "3015120": {
+    "appid": 3015120,
+    "title": "Cyber Assasin",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015120/header.jpg?t=1723083180",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.55 GB"
+  },
+  "3015130": {
+    "appid": 3015130,
+    "title": "Digital Meow",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015130/header.jpg?t=1722268516",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.69 GB"
+  },
+  "3015190": {
+    "appid": 3015190,
+    "title": "Rap Pop Jump Core",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3015190/header.jpg?t=1758463117",
+    "price_display": "Rp 245.999",
+    "size_disk_gb": "0.46 GB"
   }
 }

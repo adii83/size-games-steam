@@ -1894,5 +1894,101 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2435010/header.jpg?t=1743328390",
     "price_display": "Rp 99.999",
     "reason": "protected_not_in_fx"
+  },
+  "3333060": {
+    "appid": 3333060,
+    "title": "StarbaseSim",
+    "genre": "Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3333060/header.jpg?t=1763480540",
+    "price_display": "Rp 99.999",
+    "reason": "protected_not_in_fx"
+  },
+  "3381930": {
+    "appid": 3381930,
+    "title": "Klepto Sauria and the Crystal Knights",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3381930/header.jpg?t=1745537829",
+    "price_display": "Rp 99.999",
+    "reason": "protected_not_in_fx"
+  },
+  "33320": {
+    "appid": 33320,
+    "title": "Prince of Persia: The Forgotten Sands™",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33320/header.jpg?t=1720535241",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "33390": {
+    "appid": 33390,
+    "title": "Zeit²",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33390/header.jpg?t=1680018058",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "33460": {
+    "appid": 33460,
+    "title": "From Dust",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33460/header.jpg?t=1679996580",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "245730": {
+    "appid": 245730,
+    "title": "Flashback",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/245730/header.jpg?t=1679996337",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "470220": {
+    "appid": 470220,
+    "title": "UNO",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/470220/b8741c3f32ce4560f33d6a7af256ec8c9828f285/header.jpg?t=1761164227",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2820110": {
+    "appid": 2820110,
+    "title": "Anno 1503 History Edition",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820110/header.jpg?t=1713805153",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2820130": {
+    "appid": 2820130,
+    "title": "Anno 1602 History Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820130/header.jpg?t=1713805146",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2820140": {
+    "appid": 2820140,
+    "title": "Anno 1701 History Edition",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2820140/header.jpg?t=1713805175",
+    "price_display": "Rp 99.000",
+    "reason": "protected_not_in_fx"
+  },
+  "417430": {
+    "appid": 417430,
+    "title": "Moto Racer  4",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417430/header.jpg?t=1581349208",
+    "price_display": "Rp 95.999",
+    "reason": "protected_not_in_fx"
+  },
+  "458770": {
+    "appid": 458770,
+    "title": "WRC 6 FIA World Rally Championship",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/458770/header.jpg?t=1725354005",
+    "price_display": "Rp 95.999",
+    "reason": "protected_not_in_fx"
   }
 }

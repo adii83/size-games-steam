@@ -1190,5 +1190,165 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2363620/header.jpg?t=1724163980",
     "price_display": "Rp 245.999",
     "reason": "protected_not_in_fx"
+  },
+  "262280": {
+    "appid": 262280,
+    "title": "Dungeons 2",
+    "genre": "RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/262280/header.jpg?t=1730285111",
+    "price_display": "Rp 239.999",
+    "reason": "protected_not_in_fx"
+  },
+  "310470": {
+    "appid": 310470,
+    "title": "Grand Ages: Medieval",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310470/header.jpg?t=1730285787",
+    "price_display": "Rp 239.999",
+    "reason": "protected_not_in_fx"
+  },
+  "420560": {
+    "appid": 420560,
+    "title": "Firefighting Simulator - The Squad",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/420560/header.jpg?t=1741101935",
+    "price_display": "Rp 239.999",
+    "reason": "protected_not_in_fx"
+  },
+  "17330": {
+    "appid": 17330,
+    "title": "Crysis Warhead®",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/17330/header.jpg?t=1734377275",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1225580": {
+    "appid": 1225580,
+    "title": "Fe",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1225580/header.jpg?t=1721053648",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1237980": {
+    "appid": 1237980,
+    "title": "STAR WARS™ Battlefront",
+    "genre": "Action, Adventure, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1237980/header.jpg?t=1614940962",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1238060": {
+    "appid": 1238060,
+    "title": "Dead Space™ 3",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238060/header.jpg?t=1614938992",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1238080": {
+    "appid": 1238080,
+    "title": "Burnout™ Paradise Remastered",
+    "genre": "Action, Adventure, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238080/header.jpg?t=1625518920",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2669320": {
+    "appid": 2669320,
+    "title": "EA SPORTS FC™ 25",
+    "genre": "Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2669320/ec3fb7747fd8080ef53d7686e0d98c5abe1f51f1/header.jpg?t=1752681627",
+    "price_display": "Rp 239.000",
+    "reason": "protected_not_in_fx"
+  },
+  "268890": {
+    "appid": 268890,
+    "title": "Masters of the World - Geopolitical Simulator 3",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/268890/header.jpg?t=1517285197",
+    "price_display": "Rp 235.999",
+    "reason": "protected_not_in_fx"
+  },
+  "260210": {
+    "appid": 260210,
+    "title": "Assassin’s Creed® Liberation HD",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/260210/header.jpg?t=1747655342",
+    "price_display": "Rp 229.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1064070": {
+    "appid": 1064070,
+    "title": "OddBallers",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1064070/header.jpg?t=1723741218",
+    "price_display": "Rp 229.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2556990": {
+    "appid": 2556990,
+    "title": "Beyond Good & Evil - 20th Anniversary Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2556990/header.jpg?t=1727443317",
+    "price_display": "Rp 229.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1789480": {
+    "appid": 1789480,
+    "title": "Marauders",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1789480/header.jpg?t=1760719452",
+    "price_display": "Rp 225.999",
+    "reason": "protected_not_in_fx"
+  },
+  "312670": {
+    "appid": 312670,
+    "title": "Strange Brigade",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312670/header.jpg?t=1589878497",
+    "price_display": "Rp 209.999",
+    "reason": "protected_not_in_fx"
+  },
+  "627270": {
+    "appid": 627270,
+    "title": "Injustice™ 2",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/627270/header.jpg?t=1745536404",
+    "price_display": "Rp 209.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1029690": {
+    "appid": 1029690,
+    "title": "Sniper Elite 5",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1753950203",
+    "price_display": "Rp 209.999",
+    "reason": "protected_not_in_fx"
+  },
+  "7520": {
+    "appid": 7520,
+    "title": "Two Worlds II HD",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/7520/header.jpg?t=1666025333",
+    "price_display": "Rp 206.999",
+    "reason": "protected_not_in_fx"
+  },
+  "730390": {
+    "appid": 730390,
+    "title": "Raji: An Ancient Epic",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730390/763ed2196c07a1ed6348f0f4b97a5aff990b3d14/header.jpg?t=1763663874",
+    "price_display": "Rp 206.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1488310": {
+    "appid": 1488310,
+    "title": "Renown",
+    "genre": "Action, Adventure, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1488310/05f37c75657d70c8cda076c1e618b8b2b45e5af8/header.jpg?t=1758554573",
+    "price_display": "Rp 206.999",
+    "reason": "protected_not_in_fx"
   }
 }

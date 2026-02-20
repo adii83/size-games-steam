@@ -45707,5 +45707,2861 @@
     "genre": "Adventure, Indie, RPG, Strategy, Early Access",
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2439830/header.jpg?t=1729763753",
     "price_display": "Rp 114.999"
+  },
+  "2452810": {
+    "appid": 2452810,
+    "title": "Alien IQ Exam: Human Edition, Phase 1",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2452810/header.jpg?t=1688648563",
+    "price_display": "Rp 114.999"
+  },
+  "2455610": {
+    "appid": 2455610,
+    "title": "Voxel Zundamon Castle",
+    "genre": "Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2455610/header.jpg?t=1749127555",
+    "price_display": "Rp 114.999"
+  },
+  "2472790": {
+    "appid": 2472790,
+    "title": "Truth",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2472790/header.jpg?t=1693543396",
+    "price_display": "Rp 114.999"
+  },
+  "2479420": {
+    "appid": 2479420,
+    "title": "Lift: The Last Days of The Westwind",
+    "genre": "Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479420/header.jpg?t=1722446246",
+    "price_display": "Rp 114.999"
+  },
+  "2485870": {
+    "appid": 2485870,
+    "title": "lust hostel",
+    "genre": "Action, Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2485870/header.jpg?t=1702472778",
+    "price_display": "Rp 114.999"
+  },
+  "2492780": {
+    "appid": 2492780,
+    "title": "With Eyes Closed - Season 1",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492780/header.jpg?t=1758256315",
+    "price_display": "Rp 114.999"
+  },
+  "2497930": {
+    "appid": 2497930,
+    "title": "The Grey Dream - Season 1",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2497930/1bb836e6747bac76d687e2867baa0127d6444f42/header.jpg?t=1763575780",
+    "price_display": "Rp 114.999"
+  },
+  "2498070": {
+    "appid": 2498070,
+    "title": "How I Learned to Stop Worrying and Enjoy the End of the World",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2498070/header.jpg?t=1700657710",
+    "price_display": "Rp 114.999"
+  },
+  "2509070": {
+    "appid": 2509070,
+    "title": "말리온",
+    "genre": "Adventure, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2509070/header.jpg?t=1721986395",
+    "price_display": "Rp 114.999"
+  },
+  "2510490": {
+    "appid": 2510490,
+    "title": "The Crazy Hyper-Dungeon Chronicles",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510490/ef1a28920668dae8ca0f5498a98a69fe18960341/header.jpg?t=1762031248",
+    "price_display": "Rp 114.999"
+  },
+  "2510830": {
+    "appid": 2510830,
+    "title": "Blazing Priestess Shizune",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2510830/header.jpg?t=1733273337",
+    "price_display": "Rp 114.999"
+  },
+  "2515310": {
+    "appid": 2515310,
+    "title": "One Night: Burlesque",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2515310/header.jpg?t=1734603931",
+    "price_display": "Rp 114.999"
+  },
+  "2521630": {
+    "appid": 2521630,
+    "title": "Mini Settlers",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2521630/header.jpg?t=1758098064",
+    "price_display": "Rp 114.999"
+  },
+  "2531300": {
+    "appid": 2531300,
+    "title": "Sylvio: Black Waters",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531300/header.jpg?t=1730135544",
+    "price_display": "Rp 114.999"
+  },
+  "2536730": {
+    "appid": 2536730,
+    "title": "Butterfly again",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536730/header.jpg?t=1741239622",
+    "price_display": "Rp 114.999"
+  },
+  "2544280": {
+    "appid": 2544280,
+    "title": "Rebels - Under the Spell of Magic (Chapter 4)",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2544280/header.jpg?t=1716294536",
+    "price_display": "Rp 114.999"
+  },
+  "2552310": {
+    "appid": 2552310,
+    "title": "Dungeon Inn",
+    "genre": "Casual, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552310/header.jpg?t=1762842936",
+    "price_display": "Rp 114.999"
+  },
+  "2553080": {
+    "appid": 2553080,
+    "title": "Beneath the Bleeding Moon",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2553080/27367d8f8c6af4e6b43655da4c3d540c6eacdc9e/header.jpg?t=1750443721",
+    "price_display": "Rp 114.999"
+  },
+  "2580130": {
+    "appid": 2580130,
+    "title": "The Seven Realms: High Lathión",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2580130/header.jpg?t=1734604465",
+    "price_display": "Rp 114.999"
+  },
+  "2583620": {
+    "appid": 2583620,
+    "title": "I Hate You, Please Suffer - Complete",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2583620/header.jpg?t=1738607277",
+    "price_display": "Rp 114.999"
+  },
+  "2586150": {
+    "appid": 2586150,
+    "title": "The Builder - Season 1",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2586150/header.jpg?t=1741112039",
+    "price_display": "Rp 114.999"
+  },
+  "2599300": {
+    "appid": 2599300,
+    "title": "Dead Signal",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2599300/header.jpg?t=1726924697",
+    "price_display": "Rp 114.999"
+  },
+  "2605990": {
+    "appid": 2605990,
+    "title": "Tactics Below",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2605990/header.jpg?t=1700139638",
+    "price_display": "Rp 114.999"
+  },
+  "2617700": {
+    "appid": 2617700,
+    "title": "Tinkerlands",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2617700/d3c84c141c67e09a973663834465aa83bbbc9afc/header.jpg?t=1764070477",
+    "price_display": "Rp 114.999"
+  },
+  "2626860": {
+    "appid": 2626860,
+    "title": "Dragon Eclipse",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2626860/header.jpg?t=1733560418",
+    "price_display": "Rp 114.999"
+  },
+  "2645670": {
+    "appid": 2645670,
+    "title": "Eldritch Climb: A Cursed Ascent",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2645670/dedd75f93edf49e9d3e36d4be2617e18df7d2af3/header.jpg?t=1761321694",
+    "price_display": "Rp 114.999"
+  },
+  "2646480": {
+    "appid": 2646480,
+    "title": "One Bear Army",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2646480/header.jpg?t=1758536790",
+    "price_display": "Rp 114.999"
+  },
+  "2664300": {
+    "appid": 2664300,
+    "title": "Chaos Sisters",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2664300/header.jpg?t=1705503767",
+    "price_display": "Rp 114.999"
+  },
+  "2664930": {
+    "appid": 2664930,
+    "title": "The Adventures of The Black Hawk",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2664930/header.jpg?t=1761336641",
+    "price_display": "Rp 114.999"
+  },
+  "2670700": {
+    "appid": 2670700,
+    "title": "Whispers of the Citadel",
+    "genre": "Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670700/header.jpg?t=1730331353",
+    "price_display": "Rp 114.999"
+  },
+  "2672030": {
+    "appid": 2672030,
+    "title": "たんぽぽプラネット-Dandelion Planet-",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2672030/header.jpg?t=1762960104",
+    "price_display": "Rp 114.999"
+  },
+  "2674140": {
+    "appid": 2674140,
+    "title": "A Game´s Tale",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2674140/header.jpg?t=1736185099",
+    "price_display": "Rp 114.999"
+  },
+  "2680410": {
+    "appid": 2680410,
+    "title": "Taiko Frenzy",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680410/header.jpg?t=1732962341",
+    "price_display": "Rp 114.999"
+  },
+  "2683250": {
+    "appid": 2683250,
+    "title": "Falnarion Tactics III",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2683250/header.jpg?t=1703535770",
+    "price_display": "Rp 114.999"
+  },
+  "2685370": {
+    "appid": 2685370,
+    "title": "Meowmunitions",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2685370/44d79a7686e3a54bbbfd0079eb3cf9c1fc5ccd28/header.jpg?t=1756307320",
+    "price_display": "Rp 114.999"
+  },
+  "2687600": {
+    "appid": 2687600,
+    "title": "Doppelgänger",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687600/header.jpg?t=1709183210",
+    "price_display": "Rp 114.999"
+  },
+  "2692280": {
+    "appid": 2692280,
+    "title": "My Ex-Future Family Season 2",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2692280/951c4cb7122645732f84b0d83686c393abb50ddb/header.jpg?t=1764677010",
+    "price_display": "Rp 114.999"
+  },
+  "2693930": {
+    "appid": 2693930,
+    "title": "Dice & Fold",
+    "genre": "Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2693930/7fcbaff6b075af81fb43272f89ba2edf71c68902/header.jpg?t=1764295564",
+    "price_display": "Rp 114.999"
+  },
+  "2696390": {
+    "appid": 2696390,
+    "title": "Guns And Draguns",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2696390/header.jpg?t=1737999076",
+    "price_display": "Rp 114.999"
+  },
+  "2696760": {
+    "appid": 2696760,
+    "title": "Starlight Legacy",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2696760/926661105119b5923f4469da97998162de7b82c1/header.jpg?t=1760661626",
+    "price_display": "Rp 114.999"
+  },
+  "2704140": {
+    "appid": 2704140,
+    "title": "Fresh Story 2",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2704140/header.jpg?t=1761378969",
+    "price_display": "Rp 114.999"
+  },
+  "2713690": {
+    "appid": 2713690,
+    "title": "Shattered Minds",
+    "genre": "Adventure, Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2713690/631a7bdf68b9812a080d493bd413faa3d06dbcad/header.jpg?t=1763771091",
+    "price_display": "Rp 114.999"
+  },
+  "2720950": {
+    "appid": 2720950,
+    "title": "Grunn",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2720950/header.jpg?t=1759217856",
+    "price_display": "Rp 114.999"
+  },
+  "2722160": {
+    "appid": 2722160,
+    "title": "Astrosphere",
+    "genre": "Action, Adventure, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2722160/header.jpg?t=1754330793",
+    "price_display": "Rp 114.999"
+  },
+  "2722210": {
+    "appid": 2722210,
+    "title": "Dungeon of Erotic Master Plus",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2722210/header.jpg?t=1754445006",
+    "price_display": "Rp 114.999"
+  },
+  "2724540": {
+    "appid": 2724540,
+    "title": "Cybernetic Seduction - Season 1",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2724540/e91a197a265401e5d1c239c7a5d61890ade27516/header.jpg?t=1761290587",
+    "price_display": "Rp 114.999"
+  },
+  "2727670": {
+    "appid": 2727670,
+    "title": "Chronicles Of Sagrea",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2727670/header.jpg?t=1762854729",
+    "price_display": "Rp 114.999"
+  },
+  "2729540": {
+    "appid": 2729540,
+    "title": "Infinite Inside",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2729540/header.jpg?t=1755853981",
+    "price_display": "Rp 114.999"
+  },
+  "2736600": {
+    "appid": 2736600,
+    "title": "Help Santa In Christmas Xmas Game",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2736600/header.jpg?t=1734183216",
+    "price_display": "Rp 114.999"
+  },
+  "2738180": {
+    "appid": 2738180,
+    "title": "Gangs of the street",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738180/header.jpg?t=1734297374",
+    "price_display": "Rp 114.999"
+  },
+  "2738870": {
+    "appid": 2738870,
+    "title": "Hotel Business Simulator",
+    "genre": "RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738870/header.jpg?t=1734946617",
+    "price_display": "Rp 114.999"
+  },
+  "2738890": {
+    "appid": 2738890,
+    "title": "CANDYLAND: Sweet Survival",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2738890/header.jpg?t=1732529130",
+    "price_display": "Rp 114.999"
+  },
+  "2755980": {
+    "appid": 2755980,
+    "title": "the head well lost",
+    "genre": "Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2755980/header.jpg?t=1710435924",
+    "price_display": "Rp 114.999"
+  },
+  "2774940": {
+    "appid": 2774940,
+    "title": "Onyx",
+    "genre": "Indie, RPG, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2774940/4face4e079060098be18566182e4442222eb0c89/header.jpg?t=1762326339",
+    "price_display": "Rp 114.999"
+  },
+  "2782460": {
+    "appid": 2782460,
+    "title": "Tale of the Seas",
+    "genre": "Casual, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2782460/header.jpg?t=1706274570",
+    "price_display": "Rp 114.999"
+  },
+  "2785200": {
+    "appid": 2785200,
+    "title": "Unknown Tapes",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2785200/header.jpg?t=1734617246",
+    "price_display": "Rp 114.999"
+  },
+  "2792400": {
+    "appid": 2792400,
+    "title": "I commissioned some cats 11",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2792400/header.jpg?t=1761713810",
+    "price_display": "Rp 114.999"
+  },
+  "2798880": {
+    "appid": 2798880,
+    "title": "DJ SIMULATOR",
+    "genre": "Casual, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2798880/header.jpg?t=1759829240",
+    "price_display": "Rp 114.999"
+  },
+  "2806480": {
+    "appid": 2806480,
+    "title": "Marie's Travel",
+    "genre": "Adventure, Casual, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2806480/header.jpg?t=1711686002",
+    "price_display": "Rp 114.999"
+  },
+  "2814790": {
+    "appid": 2814790,
+    "title": "The Darkness Below",
+    "genre": "Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2814790/header.jpg?t=1745472093",
+    "price_display": "Rp 114.999"
+  },
+  "2821290": {
+    "appid": 2821290,
+    "title": "SUNSOFT is Back! レトロゲームセレクション",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2821290/header.jpg?t=1731404428",
+    "price_display": "Rp 114.999"
+  },
+  "2832450": {
+    "appid": 2832450,
+    "title": "Ario",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2832450/header.jpg?t=1763474156",
+    "price_display": "Rp 114.999"
+  },
+  "2836820": {
+    "appid": 2836820,
+    "title": "Baby Blues Nightmares - Toddler Horror Game",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2836820/header.jpg?t=1756561926",
+    "price_display": "Rp 114.999"
+  },
+  "2837350": {
+    "appid": 2837350,
+    "title": "Block Tower TD 2",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2837350/header.jpg?t=1721411082",
+    "price_display": "Rp 114.999"
+  },
+  "2840890": {
+    "appid": 2840890,
+    "title": "Nekokami - The Human Restoration Project",
+    "genre": "Adventure, Casual, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2840890/c587ac8f79f3d594b5fd1f6907b4b1788f602ef8/header.jpg?t=1762865718",
+    "price_display": "Rp 114.999"
+  },
+  "2842860": {
+    "appid": 2842860,
+    "title": "COLLEGE SEX FEST 2024",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2842860/header.jpg?t=1764614631",
+    "price_display": "Rp 114.999"
+  },
+  "2845070": {
+    "appid": 2845070,
+    "title": "CYBER INTERNET CLUB SIMULATOR",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2845070/header.jpg?t=1732528907",
+    "price_display": "Rp 114.999"
+  },
+  "2848800": {
+    "appid": 2848800,
+    "title": "Pup Champs",
+    "genre": "Casual, Indie, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2848800/header.jpg?t=1762941517",
+    "price_display": "Rp 114.999"
+  },
+  "2860450": {
+    "appid": 2860450,
+    "title": "Happy Sheepies",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860450/1a5f54592265dde0df576619c399c184351eadd2/header.jpg?t=1763664005",
+    "price_display": "Rp 114.999"
+  },
+  "2862620": {
+    "appid": 2862620,
+    "title": "Dark Umbra",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2862620/header.jpg?t=1738557538",
+    "price_display": "Rp 114.999"
+  },
+  "2874550": {
+    "appid": 2874550,
+    "title": "Bones Beneath",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2874550/header.jpg?t=1744022281",
+    "price_display": "Rp 114.999"
+  },
+  "2878890": {
+    "appid": 2878890,
+    "title": "soul Interface",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2878890/header.jpg?t=1755771754",
+    "price_display": "Rp 114.999"
+  },
+  "2884070": {
+    "appid": 2884070,
+    "title": "Elleria - Book 1",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2884070/header.jpg?t=1757845806",
+    "price_display": "Rp 114.999"
+  },
+  "2906660": {
+    "appid": 2906660,
+    "title": "Conquer Lands",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2906660/header.jpg?t=1762617992",
+    "price_display": "Rp 114.999"
+  },
+  "2915290": {
+    "appid": 2915290,
+    "title": "Last Mech Standing",
+    "genre": "Action, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915290/header.jpg?t=1734078590",
+    "price_display": "Rp 114.999"
+  },
+  "2916360": {
+    "appid": 2916360,
+    "title": "Plastic Trick",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2916360/header.jpg?t=1753977183",
+    "price_display": "Rp 114.999"
+  },
+  "2922410": {
+    "appid": 2922410,
+    "title": "Achilles: Survivor",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922410/1ce861234db4b7c543533d2d9a77d82dcb7c6746/header.jpg?t=1763998195",
+    "price_display": "Rp 114.999"
+  },
+  "2923640": {
+    "appid": 2923640,
+    "title": "Dragenas",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923640/header.jpg?t=1755552313",
+    "price_display": "Rp 114.999"
+  },
+  "2925010": {
+    "appid": 2925010,
+    "title": "Cryptic Route",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2925010/header.jpg?t=1722169431",
+    "price_display": "Rp 114.999"
+  },
+  "2947050": {
+    "appid": 2947050,
+    "title": "Motus Paintball VR",
+    "genre": "Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947050/header.jpg?t=1733960075",
+    "price_display": "Rp 114.999"
+  },
+  "2947150": {
+    "appid": 2947150,
+    "title": "Gavis Arenarium",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947150/header.jpg?t=1740675351",
+    "price_display": "Rp 114.999"
+  },
+  "2963230": {
+    "appid": 2963230,
+    "title": "Joyville 2",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2963230/header.jpg?t=1736975909",
+    "price_display": "Rp 114.999"
+  },
+  "2986450": {
+    "appid": 2986450,
+    "title": "Metro Gravity",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2986450/header.jpg?t=1759693100",
+    "price_display": "Rp 114.999"
+  },
+  "2987330": {
+    "appid": 2987330,
+    "title": "アカイロマンション完全版",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2987330/header.jpg?t=1726266545",
+    "price_display": "Rp 114.999"
+  },
+  "2993720": {
+    "appid": 2993720,
+    "title": "Cage of Roses",
+    "genre": "Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993720/header.jpg?t=1742834415",
+    "price_display": "Rp 114.999"
+  },
+  "3000020": {
+    "appid": 3000020,
+    "title": "The South Island",
+    "genre": "Action, Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3000020/header.jpg?t=1764718022",
+    "price_display": "Rp 114.999"
+  },
+  "3012470": {
+    "appid": 3012470,
+    "title": "SickWay VR",
+    "genre": "Adventure, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3012470/header.jpg?t=1736947155",
+    "price_display": "Rp 114.999"
+  },
+  "3016500": {
+    "appid": 3016500,
+    "title": "Rain and the Wolf",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3016500/header.jpg?t=1727483791",
+    "price_display": "Rp 114.999"
+  },
+  "3069120": {
+    "appid": 3069120,
+    "title": "Love Curse: Find Your Soulmate",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3069120/header.jpg?t=1764407288",
+    "price_display": "Rp 114.999"
+  },
+  "3071380": {
+    "appid": 3071380,
+    "title": "The Villainess Quits",
+    "genre": "Casual, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071380/header.jpg?t=1763979271",
+    "price_display": "Rp 114.999"
+  },
+  "3071950": {
+    "appid": 3071950,
+    "title": "Our Home",
+    "genre": "Adventure, Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3071950/header.jpg?t=1750989876",
+    "price_display": "Rp 114.999"
+  },
+  "3079770": {
+    "appid": 3079770,
+    "title": "Kokoro Kitchen",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3079770/428b37b10acac362467cbefbf3897909681e69cf/header.jpg?t=1763656048",
+    "price_display": "Rp 114.999"
+  },
+  "3085800": {
+    "appid": 3085800,
+    "title": "Fate of Fire: Kyvedy Guardiah",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3085800/0fd8dee92c82e82d9704818cc3924c4a87403d2c/header.jpg?t=1763756241",
+    "price_display": "Rp 114.999"
+  },
+  "3088250": {
+    "appid": 3088250,
+    "title": "Nitro Express",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088250/5061f0f9a87572252f6da1b0ba0912ddd172a74e/header.jpg?t=1751591534",
+    "price_display": "Rp 114.999"
+  },
+  "3088670": {
+    "appid": 3088670,
+    "title": "Fragile Reflection",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3088670/b638891f33937cca4e0d3f82e13aad11ca2646a3/header.jpg?t=1761584270",
+    "price_display": "Rp 114.999"
+  },
+  "3090950": {
+    "appid": 3090950,
+    "title": "G-MODEアーカイブス+ 牧場物語モバイル みのりの島",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3090950/4498f9bf5ab33f3eb3a365cfbdc1e2e0769b25c1/header.jpg?t=1743173761",
+    "price_display": "Rp 114.999"
+  },
+  "3094480": {
+    "appid": 3094480,
+    "title": "Bad Cheese",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3094480/cce358435d5c7eb0bee539d936f347901ffd5373/header.jpg?t=1763605345",
+    "price_display": "Rp 114.999"
+  },
+  "3101230": {
+    "appid": 3101230,
+    "title": "Montezuma's Revenge - The 40th Anniversary Edition",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3101230/header.jpg?t=1738808497",
+    "price_display": "Rp 114.999"
+  },
+  "3108580": {
+    "appid": 3108580,
+    "title": "Grand Piano Simulator",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3108580/header.jpg?t=1758790394",
+    "price_display": "Rp 114.999"
+  },
+  "3132170": {
+    "appid": 3132170,
+    "title": "PORN VIDEO  SHOOTING SIMULATOR",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3132170/header.jpg?t=1756399582",
+    "price_display": "Rp 114.999"
+  },
+  "3159920": {
+    "appid": 3159920,
+    "title": "Goolee",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159920/header.jpg?t=1727234415",
+    "price_display": "Rp 114.999"
+  },
+  "3174540": {
+    "appid": 3174540,
+    "title": "Night Hacking",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3174540/header.jpg?t=1730373575",
+    "price_display": "Rp 114.999"
+  },
+  "3175670": {
+    "appid": 3175670,
+    "title": "Defense Builder",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175670/626d732f1e8b0649a16bad9951bf535799b77292/header.jpg?t=1757884511",
+    "price_display": "Rp 114.999"
+  },
+  "3177890": {
+    "appid": 3177890,
+    "title": "Rana Card",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3177890/header.jpg?t=1762420869",
+    "price_display": "Rp 114.999"
+  },
+  "3183220": {
+    "appid": 3183220,
+    "title": "Aurora Defense",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3183220/d05bae7c51b2851d31a65a9082150c98ab5652e8/header.jpg?t=1752209873",
+    "price_display": "Rp 114.999"
+  },
+  "3186220": {
+    "appid": 3186220,
+    "title": "CYBERSLOT",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3186220/header.jpg?t=1727612983",
+    "price_display": "Rp 114.999"
+  },
+  "3188050": {
+    "appid": 3188050,
+    "title": "Mini Mini Golf Golf",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3188050/header.jpg?t=1750935238",
+    "price_display": "Rp 114.999"
+  },
+  "3193270": {
+    "appid": 3193270,
+    "title": "CAMP Z: THE AWAKENING",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3193270/header.jpg?t=1745942770",
+    "price_display": "Rp 114.999"
+  },
+  "3198960": {
+    "appid": 3198960,
+    "title": "SorcerialBladeCannon",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3198960/header.jpg?t=1726556506",
+    "price_display": "Rp 114.999"
+  },
+  "3201010": {
+    "appid": 3201010,
+    "title": "Starlight Revolver",
+    "genre": "Action, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3201010/9107bbf5e4577e51d79a98912926ca1238f8fde4/header.jpg?t=1764445576",
+    "price_display": "Rp 114.999"
+  },
+  "3205600": {
+    "appid": 3205600,
+    "title": "The Libido Enigma",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3205600/header.jpg?t=1744588389",
+    "price_display": "Rp 114.999"
+  },
+  "3208730": {
+    "appid": 3208730,
+    "title": "Akizora Memories - Horizon of Fate -",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3208730/header.jpg?t=1753684747",
+    "price_display": "Rp 114.999"
+  },
+  "3213410": {
+    "appid": 3213410,
+    "title": "Mythos, Book One",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3213410/header.jpg?t=1753553724",
+    "price_display": "Rp 114.999"
+  },
+  "3216640": {
+    "appid": 3216640,
+    "title": "The Beast and the Princess",
+    "genre": "Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3216640/358db526c95a40ffc6b85324e951bf62d20999e1/header.jpg?t=1751282658",
+    "price_display": "Rp 114.999"
+  },
+  "3220830": {
+    "appid": 3220830,
+    "title": "Dusk Pub",
+    "genre": "Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3220830/header.jpg?t=1736355988",
+    "price_display": "Rp 114.999"
+  },
+  "3223470": {
+    "appid": 3223470,
+    "title": "Conquero",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3223470/header.jpg?t=1759217264",
+    "price_display": "Rp 114.999"
+  },
+  "3226140": {
+    "appid": 3226140,
+    "title": "Coffee Please",
+    "genre": "Casual, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3226140/header.jpg?t=1741126292",
+    "price_display": "Rp 114.999"
+  },
+  "3232520": {
+    "appid": 3232520,
+    "title": "Blasted Dice",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3232520/f5f66559bdd1ca34936ad98af3c121e3229b77ad/header.jpg?t=1763311823",
+    "price_display": "Rp 114.999"
+  },
+  "3246900": {
+    "appid": 3246900,
+    "title": "Coloring Game: Girls 2",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3246900/header.jpg?t=1740311583",
+    "price_display": "Rp 114.999"
+  },
+  "3262720": {
+    "appid": 3262720,
+    "title": "Fantasy Valley - Season 2",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3262720/header.jpg?t=1731835823",
+    "price_display": "Rp 114.999"
+  },
+  "3272250": {
+    "appid": 3272250,
+    "title": "Reap and Sow",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3272250/5c78f2e3072eb55ec2e57a60f28f6a1ed4b464eb/header.jpg?t=1760286699",
+    "price_display": "Rp 114.999"
+  },
+  "3285960": {
+    "appid": 3285960,
+    "title": "The Victor Initiative",
+    "genre": "Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3285960/6a2ec3f4dc0a2ef8f020ee46f40a38ba8177c35b/header.jpg?t=1763083041",
+    "price_display": "Rp 114.999"
+  },
+  "3290610": {
+    "appid": 3290610,
+    "title": "Pick My Heart Chapter 1",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290610/header.jpg?t=1741005869",
+    "price_display": "Rp 114.999"
+  },
+  "3290620": {
+    "appid": 3290620,
+    "title": "Pick My Heart Chapter 2",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3290620/header.jpg?t=1741005867",
+    "price_display": "Rp 114.999"
+  },
+  "3291310": {
+    "appid": 3291310,
+    "title": "Mutant College",
+    "genre": "Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3291310/header.jpg?t=1747147724",
+    "price_display": "Rp 114.999"
+  },
+  "3296260": {
+    "appid": 3296260,
+    "title": "Cafe DReAMLAND",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3296260/header.jpg?t=1747218917",
+    "price_display": "Rp 114.999"
+  },
+  "3314240": {
+    "appid": 3314240,
+    "title": "Lustful Apocalypse",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3314240/header.jpg?t=1750424795",
+    "price_display": "Rp 114.999"
+  },
+  "3315800": {
+    "appid": 3315800,
+    "title": "Honey Trap Amnesia",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3315800/header.jpg?t=1764215204",
+    "price_display": "Rp 114.999"
+  },
+  "3319180": {
+    "appid": 3319180,
+    "title": "53X Homecoming",
+    "genre": "Adventure, Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3319180/header.jpg?t=1736143336",
+    "price_display": "Rp 114.999"
+  },
+  "3331210": {
+    "appid": 3331210,
+    "title": "Manic Magic Ciena's Desire",
+    "genre": "Action, Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3331210/header.jpg?t=1759845615",
+    "price_display": "Rp 114.999"
+  },
+  "3350940": {
+    "appid": 3350940,
+    "title": "Extermination",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350940/header.jpg?t=1735778204",
+    "price_display": "Rp 114.999"
+  },
+  "3355020": {
+    "appid": 3355020,
+    "title": "Reverse Problem",
+    "genre": "Casual, Indie, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3355020/header.jpg?t=1739966420",
+    "price_display": "Rp 114.999"
+  },
+  "3357680": {
+    "appid": 3357680,
+    "title": "Deadwalker Chronicles",
+    "genre": "Casual, Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3357680/header.jpg?t=1748515380",
+    "price_display": "Rp 114.999"
+  },
+  "3369070": {
+    "appid": 3369070,
+    "title": "Law School - Season 1",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3369070/a0d4c171eccd31757283f1e3a1c4589bbf3fe3e5/header.jpg?t=1760418910",
+    "price_display": "Rp 114.999"
+  },
+  "3370460": {
+    "appid": 3370460,
+    "title": "Lovely Sex with Childhood Friend -An innocent girl becomes addicted to lewd play-",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3370460/header.jpg?t=1741260336",
+    "price_display": "Rp 114.999"
+  },
+  "3391200": {
+    "appid": 3391200,
+    "title": "Snowman Mo",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3391200/9352abf2fae270b90089e6550c872d5605ac7fec/header.jpg?t=1764634287",
+    "price_display": "Rp 114.999"
+  },
+  "3396670": {
+    "appid": 3396670,
+    "title": "I Write Games Not Tragedies",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396670/header.jpg?t=1764026329",
+    "price_display": "Rp 114.999"
+  },
+  "3396900": {
+    "appid": 3396900,
+    "title": "DevTycoon",
+    "genre": "Adventure, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3396900/header.jpg?t=1738407740",
+    "price_display": "Rp 114.999"
+  },
+  "3402300": {
+    "appid": 3402300,
+    "title": "Smith & Dungeon: Crafting the Legendary Weapons",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3402300/header.jpg?t=1755737036",
+    "price_display": "Rp 114.999"
+  },
+  "3417470": {
+    "appid": 3417470,
+    "title": "Jurnal Risa: Dark Destiny",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3417470/df4bc0b1aebbab8df0d5fa36f575a661ec58ef03/header.jpg?t=1761607940",
+    "price_display": "Rp 114.999"
+  },
+  "3433700": {
+    "appid": 3433700,
+    "title": "A Happy Place",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3433700/header.jpg?t=1760747901",
+    "price_display": "Rp 114.999"
+  },
+  "3443380": {
+    "appid": 3443380,
+    "title": "Kindaichi Mystery Series: The Honjin Murders",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3443380/header.jpg?t=1751604082",
+    "price_display": "Rp 114.999"
+  },
+  "3446550": {
+    "appid": 3446550,
+    "title": "ツクールシリーズ　アルティエクエスト [RTA QUEST]",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3446550/header.jpg?t=1739979266",
+    "price_display": "Rp 114.999"
+  },
+  "3465740": {
+    "appid": 3465740,
+    "title": "V2 Cucumber Scam",
+    "genre": "Adventure, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3465740/9a24c76a95de73b78176d01d28d8c5a74c29f5cf/header.jpg?t=1763406302",
+    "price_display": "Rp 114.999"
+  },
+  "3477030": {
+    "appid": 3477030,
+    "title": "Record Rewind Repeat",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3477030/header.jpg?t=1750779876",
+    "price_display": "Rp 114.999"
+  },
+  "3496940": {
+    "appid": 3496940,
+    "title": "Loot Line - Season 1",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3496940/header.jpg?t=1758715702",
+    "price_display": "Rp 114.999"
+  },
+  "3538780": {
+    "appid": 3538780,
+    "title": "Lovely Sex with Tsundere Girl -She is too much into pleasure and loves your cock-",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538780/header.jpg?t=1756820938",
+    "price_display": "Rp 114.999"
+  },
+  "3538880": {
+    "appid": 3538880,
+    "title": "Leann sins",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3538880/header.jpg?t=1764650176",
+    "price_display": "Rp 114.999"
+  },
+  "3562340": {
+    "appid": 3562340,
+    "title": "Castle Crumble",
+    "genre": "Action, Casual, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3562340/c1ab635ce609ab40b5668adbe774ba7611dc465c/header.jpg?t=1750402081",
+    "price_display": "Rp 114.999"
+  },
+  "3585860": {
+    "appid": 3585860,
+    "title": "Timber Wars",
+    "genre": "Action, Casual, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3585860/ceb399b2f268d49301e333fb5b928f5928efe553/header.jpg?t=1744820079",
+    "price_display": "Rp 114.999"
+  },
+  "3599850": {
+    "appid": 3599850,
+    "title": "Divergence: Beyond the Singularity (Part 1)",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3599850/2050bd42f4d9c4149cf0200c00809bae89807e0f/header.jpg?t=1748268828",
+    "price_display": "Rp 114.999"
+  },
+  "3606830": {
+    "appid": 3606830,
+    "title": "Life in The Janitor's Room with A JK Girl",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3606830/2a2bd4dbabf068e0053f12c432a5aebddaea65d2/header.jpg?t=1762767097",
+    "price_display": "Rp 114.999"
+  },
+  "3609640": {
+    "appid": 3609640,
+    "title": "Breeding City Welcomes you",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3609640/d6e261a17f7880e963a9aa194bbfdbc3f806f255/header.jpg?t=1762767099",
+    "price_display": "Rp 114.999"
+  },
+  "3609980": {
+    "appid": 3609980,
+    "title": "Yes, My Queen",
+    "genre": "Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3609980/56bec8a19601351cdcd5eab0adf38e597505a067/header.jpg?t=1763545765",
+    "price_display": "Rp 114.999"
+  },
+  "3632910": {
+    "appid": 3632910,
+    "title": "Gumshoe Detective Agency: The First Case",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3632910/bd3b41c42f7515a833b8d163d5afcc95b81109e0/header.jpg?t=1759985371",
+    "price_display": "Rp 114.999"
+  },
+  "3656400": {
+    "appid": 3656400,
+    "title": "Dragon's Chronicles~暗黒大魔王と北斗の剣(つるぎ)~",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3656400/767d1c82f65ddcb0b6ccc0714b73c6c9bfdee073/header.jpg?t=1758444289",
+    "price_display": "Rp 114.999"
+  },
+  "3677860": {
+    "appid": 3677860,
+    "title": "Entering Host",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3677860/dd924e9b61f6f9d2c9533b65eeac2b5eac2f5205/header.jpg?t=1763082676",
+    "price_display": "Rp 114.999"
+  },
+  "3679070": {
+    "appid": 3679070,
+    "title": "Unsealed Pact",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3679070/72d1144cdae7f3a356893de9c9fb9c6bdad03460/header.jpg?t=1763380132",
+    "price_display": "Rp 114.999"
+  },
+  "3686580": {
+    "appid": 3686580,
+    "title": "Repel The Rifts",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3686580/98b3cff1e908a698ea055bc8f86632248e2fd60f/header.jpg?t=1764324515",
+    "price_display": "Rp 114.999"
+  },
+  "3690760": {
+    "appid": 3690760,
+    "title": "Wild West Supermarket Simulator",
+    "genre": "Casual, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3690760/5ae8186ca7c9f77fcc85fe9ea1e08ca6e6c9e0d4/header.jpg?t=1764595360",
+    "price_display": "Rp 114.999"
+  },
+  "3732040": {
+    "appid": 3732040,
+    "title": "Spacefighter Rukia 2",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3732040/65203aff44e3222ca9344f345bb6ceaf818d9514/header.jpg?t=1749536375",
+    "price_display": "Rp 114.999"
+  },
+  "3756260": {
+    "appid": 3756260,
+    "title": "Kingdom of Velvet Сhains",
+    "genre": "Adventure, Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3756260/e321940a3fb00c42cdcd7d8cc628727a61b69c77/header.jpg?t=1758166862",
+    "price_display": "Rp 114.999"
+  },
+  "3762510": {
+    "appid": 3762510,
+    "title": "Lusty Chapters",
+    "genre": "Adventure, Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3762510/9c2be6889a816fc1de022aff224ec6f2b451ec2b/header.jpg?t=1753770216",
+    "price_display": "Rp 114.999"
+  },
+  "3765540": {
+    "appid": 3765540,
+    "title": "DAY OF THE RISING DEAD",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3765540/a3c1e04535f927a3fa640f3f5847f2f9846bd008/header.jpg?t=1749625460",
+    "price_display": "Rp 114.999"
+  },
+  "3796000": {
+    "appid": 3796000,
+    "title": "ONLY DEAD",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3796000/5c73036335ea73d2d6f6c0e5ac3324281ec7ec5f/header.jpg?t=1760133505",
+    "price_display": "Rp 114.999"
+  },
+  "3848560": {
+    "appid": 3848560,
+    "title": "Broken Defense",
+    "genre": "Action, Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3848560/8569d3d7e02200d53ac7d5e9e3639df6a5ce1c85/header.jpg?t=1759428351",
+    "price_display": "Rp 114.999"
+  },
+  "3879760": {
+    "appid": 3879760,
+    "title": "Gamer Girl Adventure",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3879760/8ee4fc3b686b5d8c5bc928a81b83659844be7f50/header.jpg?t=1764668684",
+    "price_display": "Rp 114.999"
+  },
+  "3895700": {
+    "appid": 3895700,
+    "title": "Summer Reunion",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3895700/8f240278f6b06b6d048f259fdaa4f5f03dc03970/header.jpg?t=1757602883",
+    "price_display": "Rp 114.999"
+  },
+  "3902390": {
+    "appid": 3902390,
+    "title": "Tokyo Hotel",
+    "genre": "Adventure, Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3902390/c57015e7080f6f9e7af510ace824260f86dbebf5/header.jpg?t=1760719177",
+    "price_display": "Rp 114.999"
+  },
+  "3951210": {
+    "appid": 3951210,
+    "title": "Fast Food Girlfriend",
+    "genre": "Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3951210/e67e5fc348726e24babf9a79b481cb3cb21efe85/header.jpg?t=1759971341",
+    "price_display": "Rp 114.999"
+  },
+  "3957340": {
+    "appid": 3957340,
+    "title": "Claire Darksage and the Accursed Objects Collector's Edition",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3957340/20aa765dc4af7c0a90871941ef40d4b6fa81d8c7/header.jpg?t=1760989696",
+    "price_display": "Rp 114.999"
+  },
+  "3959710": {
+    "appid": 3959710,
+    "title": "Samurai by Reiner Knizia",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3959710/5c0984eddd399d4419d1baea72cd4d5af24bbc67/header.jpg?t=1762527854",
+    "price_display": "Rp 114.999"
+  },
+  "3974050": {
+    "appid": 3974050,
+    "title": "HeroField: Game Craft",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3974050/13694c9511911cccc8db1ce8e1b2bfe34f7bbdd5/header.jpg?t=1758219898",
+    "price_display": "Rp 114.999"
+  },
+  "4007340": {
+    "appid": 4007340,
+    "title": "Skinfreak",
+    "genre": "Action, Adventure, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4007340/6ffb188109aa536ec17df7fd684a8762077370bc/header.jpg?t=1760619751",
+    "price_display": "Rp 114.999"
+  },
+  "4086240": {
+    "appid": 4086240,
+    "title": "WRITHING",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4086240/454771c3b58660b4d439674bda9d0be3570acc3f/header.jpg?t=1764926666",
+    "price_display": "Rp 114.999"
+  },
+  "4096640": {
+    "appid": 4096640,
+    "title": "DELTARIS",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4096640/3b3bc5163821569f7699d9b300a2cef5c20c26c3/header.jpg?t=1764860480",
+    "price_display": "Rp 114.999"
+  },
+  "4110170": {
+    "appid": 4110170,
+    "title": "Atlas Obscura VR",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4110170/8e3df5529dac1b8530d6c6ca455ccfd688afc3ba/header.jpg?t=1764806353",
+    "price_display": "Rp 114.999"
+  },
+  "4132780": {
+    "appid": 4132780,
+    "title": "on Titan",
+    "genre": "Action, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4132780/3085befb39672b9ac7a50cd8ceed6de1abf55573/header.jpg?t=1764859827",
+    "price_display": "Rp 114.999"
+  },
+  "4134120": {
+    "appid": 4134120,
+    "title": "エスケープゴート ～吾妻衛士の冤罪～",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4134120/d45a81179ab4f5d9616a61eeec0aa44ab5071562/header.jpg?t=1763564431",
+    "price_display": "Rp 114.999"
+  },
+  "1886830": {
+    "appid": 1886830,
+    "title": "The Legend of The Sacred Stone EX",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1886830/header.jpg?t=1743409110",
+    "price_display": "Rp 114.789"
+  },
+  "1074070": {
+    "appid": 1074070,
+    "title": "Dust to the End",
+    "genre": "Adventure, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1074070/header.jpg?t=1750920320",
+    "price_display": "Rp 114.380"
+  },
+  "2268550": {
+    "appid": 2268550,
+    "title": "Trans Theft Horso",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2268550/header.jpg?t=1755540271",
+    "price_display": "Rp 114.295"
+  },
+  "633440": {
+    "appid": 633440,
+    "title": "Unit 4",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/633440/header.jpg?t=1738595500",
+    "price_display": "Rp 114.000"
+  },
+  "1631330": {
+    "appid": 1631330,
+    "title": "Equestrian Training ",
+    "genre": "Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631330/header.jpg?t=1624538226",
+    "price_display": "Rp 114.000"
+  },
+  "1085510": {
+    "appid": 1085510,
+    "title": "Garfield Kart - Furious Racing",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1085510/b124a0dbf4fdc5b984268f92921f246ecba04c9c/header.jpg?t=1750323385",
+    "price_display": "Rp 113.999"
+  },
+  "1109840": {
+    "appid": 1109840,
+    "title": "Réussir : Code de la Route - Nouvelle Édition (French Highway Code)",
+    "genre": "Adventure, Casual, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1109840/header.jpg?t=1708699646",
+    "price_display": "Rp 113.999"
+  },
+  "1407190": {
+    "appid": 1407190,
+    "title": "My Universe - Cooking Star Restaurant",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1407190/header.jpg?t=1605297520",
+    "price_display": "Rp 113.999"
+  },
+  "1591900": {
+    "appid": 1591900,
+    "title": "My Universe - Interior Designer",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1591900/header.jpg?t=1670336302",
+    "price_display": "Rp 113.999"
+  },
+  "1805650": {
+    "appid": 1805650,
+    "title": "My Universe - Doctors & Nurses",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1805650/header.jpg?t=1678357134",
+    "price_display": "Rp 113.999"
+  },
+  "1903170": {
+    "appid": 1903170,
+    "title": "The Quest For Excalibur - Puy Du Fou",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1903170/header.jpg?t=1694591004",
+    "price_display": "Rp 113.999"
+  },
+  "1769470": {
+    "appid": 1769470,
+    "title": "Non-Euclidean Chess",
+    "genre": "Casual, Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1769470/header.jpg?t=1634935062",
+    "price_display": "Rp 113.890"
+  },
+  "2993810": {
+    "appid": 2993810,
+    "title": "Seekers of Darkness",
+    "genre": "Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2993810/header.jpg?t=1719477175",
+    "price_display": "Rp 113.494"
+  },
+  "3920770": {
+    "appid": 3920770,
+    "title": "Girls' Dorm Wars",
+    "genre": "Casual, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3920770/bd0e3123319c783083c978d1091552914d45a6eb/header.jpg?t=1764829276",
+    "price_display": "Rp 113.306"
+  },
+  "218700": {
+    "appid": 218700,
+    "title": "Angelica Weaver: Catch Me When You Can",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/218700/header.jpg?t=1688474032",
+    "price_display": "Rp 112.999"
+  },
+  "332810": {
+    "appid": 332810,
+    "title": "Midnight Mysteries: Witches of Abraham - Collector's Edition",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/332810/header.jpg?t=1447364952",
+    "price_display": "Rp 112.999"
+  },
+  "508650": {
+    "appid": 508650,
+    "title": "Signal Decay",
+    "genre": "Action, Adventure, Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/508650/header.jpg?t=1745569086",
+    "price_display": "Rp 112.999"
+  },
+  "564160": {
+    "appid": 564160,
+    "title": "Rosenkreuzstilette Freudenstachel",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/564160/header.jpg?t=1572932743",
+    "price_display": "Rp 112.999"
+  },
+  "577640": {
+    "appid": 577640,
+    "title": "Space Station Loma: OPERATIONS",
+    "genre": "Action, Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/577640/header.jpg?t=1726266114",
+    "price_display": "Rp 112.999"
+  },
+  "595690": {
+    "appid": 595690,
+    "title": "One Hour One Life",
+    "genre": "Indie, Massively Multiplayer, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595690/header.jpg?t=1759778729",
+    "price_display": "Rp 112.999"
+  },
+  "619230": {
+    "appid": 619230,
+    "title": "VEmpire - The Kings of Darkness",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/619230/header.jpg?t=1757233264",
+    "price_display": "Rp 112.999"
+  },
+  "636430": {
+    "appid": 636430,
+    "title": "Zombie Kill",
+    "genre": "Violent, Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/636430/header.jpg?t=1495422899",
+    "price_display": "Rp 112.999"
+  },
+  "690710": {
+    "appid": 690710,
+    "title": "HEIANKYO ALIEN / 平安京エイリアン",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690710/header.jpg?t=1740436301",
+    "price_display": "Rp 112.999"
+  },
+  "1325310": {
+    "appid": 1325310,
+    "title": "Endless Voyage / 无尽航线",
+    "genre": "Adventure, Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325310/header.jpg?t=1669113646",
+    "price_display": "Rp 112.999"
+  },
+  "1111650": {
+    "appid": 1111650,
+    "title": "Never BreakUp",
+    "genre": "Action, Adventure, Casual, Indie, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1111650/header.jpg?t=1657939536",
+    "price_display": "Rp 112.500"
+  },
+  "1717090": {
+    "appid": 1717090,
+    "title": "Into the Necrovale",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1717090/header.jpg?t=1759889582",
+    "price_display": "Rp 111.999"
+  },
+  "2449390": {
+    "appid": 2449390,
+    "title": "Vegangsters",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2449390/282010a58887fc5f1b26bc3b6861fac410a4d6c6/header.jpg?t=1754586857",
+    "price_display": "Rp 111.999"
+  },
+  "3375950": {
+    "appid": 3375950,
+    "title": "巅峰之路",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375950/header.jpg?t=1750995879",
+    "price_display": "Rp 111.500"
+  },
+  "1388530": {
+    "appid": 1388530,
+    "title": "背徳シレネ",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1388530/header.jpg?t=1624378548",
+    "price_display": "Rp 111.464"
+  },
+  "610210": {
+    "appid": 610210,
+    "title": "Planetes",
+    "genre": "Action, Casual, Indie, RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/610210/header.jpg?t=1545464826",
+    "price_display": "Rp 111.333"
+  },
+  "10270": {
+    "appid": 10270,
+    "title": "Disciples III: Reincarnation",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/10270/header.jpg?t=1754573015",
+    "price_display": "Rp 110.999"
+  },
+  "23400": {
+    "appid": 23400,
+    "title": "Imperium Romanum Gold Edition",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/23400/header.jpg?t=1730292613",
+    "price_display": "Rp 110.999"
+  },
+  "23490": {
+    "appid": 23490,
+    "title": "Tropico 3",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/23490/header.jpg?t=1755702268",
+    "price_display": "Rp 110.999"
+  },
+  "33670": {
+    "appid": 33670,
+    "title": "Disciples III - Renaissance Steam Special Edition",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33670/header.jpg?t=1754573019",
+    "price_display": "Rp 110.999"
+  },
+  "43500": {
+    "appid": 43500,
+    "title": "M.U.D. TV",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/43500/header.jpg?t=1730292935",
+    "price_display": "Rp 110.999"
+  },
+  "57680": {
+    "appid": 57680,
+    "title": "The First Templar - Steam Special Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57680/header.jpg?t=1730811936",
+    "price_display": "Rp 110.999"
+  },
+  "200670": {
+    "appid": 200670,
+    "title": "Disciples III - Resurrection",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200670/header.jpg?t=1754573025",
+    "price_display": "Rp 110.999"
+  },
+  "215630": {
+    "appid": 215630,
+    "title": "Demonicon",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/215630/header.jpg?t=1730811751",
+    "price_display": "Rp 110.999"
+  },
+  "225360": {
+    "appid": 225360,
+    "title": "DARK",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225360/header.jpg?t=1730283377",
+    "price_display": "Rp 110.999"
+  },
+  "2472770": {
+    "appid": 2472770,
+    "title": "Automate It: Factory Puzzle",
+    "genre": "Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2472770/header.jpg?t=1757620973",
+    "price_display": "Rp 110.999"
+  },
+  "2865260": {
+    "appid": 2865260,
+    "title": "The Zombland: Enter at Your Peril",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2865260/header.jpg?t=1711770202",
+    "price_display": "Rp 110.999"
+  },
+  "893050": {
+    "appid": 893050,
+    "title": "Hasbro's BATTLESHIP",
+    "genre": "Action, Adventure, Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/893050/header.jpg?t=1752167994",
+    "price_display": "Rp 110.600"
+  },
+  "2556750": {
+    "appid": 2556750,
+    "title": "Taking Root",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2556750/header.jpg?t=1719261293",
+    "price_display": "Rp 110.573"
+  },
+  "2790330": {
+    "appid": 2790330,
+    "title": "Blood Typers",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2790330/ea79b87c0042ee39b446e42cdcacabc79187b0d1/header.jpg?t=1761504759",
+    "price_display": "Rp 110.573"
+  },
+  "3066360": {
+    "appid": 3066360,
+    "title": "AmaZoo",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3066360/header.jpg?t=1745228866",
+    "price_display": "Rp 110.573"
+  },
+  "3328730": {
+    "appid": 3328730,
+    "title": "Autogun Heroes: Supercharged",
+    "genre": "Action, Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3328730/f2772552fa522294bb165e29c2b775c1cdbd220f/header.jpg?t=1759825682",
+    "price_display": "Rp 110.573"
+  },
+  "1455630": {
+    "appid": 1455630,
+    "title": "THE GAME OF LIFE 2",
+    "genre": "Casual, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1455630/7e459241dc9cdd601baa81e8d576bc563cd5765b/header.jpg?t=1758628712",
+    "price_display": "Rp 110.500"
+  },
+  "2999030": {
+    "appid": 2999030,
+    "title": "Exploding Kittens® 2",
+    "genre": "Action, Casual, Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2999030/header.jpg?t=1764252994",
+    "price_display": "Rp 110.500"
+  },
+  "495990": {
+    "appid": 495990,
+    "title": "True Love ～Confide to the Maple～",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/495990/header.jpg?t=1657076614",
+    "price_display": "Rp 110.000"
+  },
+  "1596820": {
+    "appid": 1596820,
+    "title": "Monstrous Lovers",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1596820/header.jpg?t=1669407427",
+    "price_display": "Rp 110.000"
+  },
+  "1951410": {
+    "appid": 1951410,
+    "title": "WE ARE FOOTBALL 2024",
+    "genre": "Casual, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1951410/header.jpg?t=1762937541",
+    "price_display": "Rp 110.000"
+  },
+  "2658720": {
+    "appid": 2658720,
+    "title": "Vampire: The Masquerade - Reckoning of New York",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2658720/header.jpg?t=1733324123",
+    "price_display": "Rp 110.000"
+  },
+  "3412270": {
+    "appid": 3412270,
+    "title": "Encounter: The Lost Cards",
+    "genre": "Adventure, Indie, RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3412270/c328befa6ffb15e0afe829a78eb1609d50b62e73/header.jpg?t=1764792548",
+    "price_display": "Rp 110.000"
+  },
+  "9350": {
+    "appid": 9350,
+    "title": "Supreme Commander",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9350/header.jpg?t=1709632244",
+    "price_display": "Rp 109.999"
+  },
+  "9420": {
+    "appid": 9420,
+    "title": "Supreme Commander: Forged Alliance",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/9420/header.jpg?t=1592488757",
+    "price_display": "Rp 109.999"
+  },
+  "33980": {
+    "appid": 33980,
+    "title": "Pound of Ground",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/33980/header.jpg?t=1748943937",
+    "price_display": "Rp 109.999"
+  },
+  "40100": {
+    "appid": 40100,
+    "title": "Supreme Commander 2",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/40100/header.jpg?t=1636731871",
+    "price_display": "Rp 109.999"
+  },
+  "44680": {
+    "appid": 44680,
+    "title": "RACE Injection",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/44680/header.jpg?t=1478078216",
+    "price_display": "Rp 109.999"
+  },
+  "46500": {
+    "appid": 46500,
+    "title": "Syberia",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/46500/header.jpg?t=1743167577",
+    "price_display": "Rp 109.999"
+  },
+  "46510": {
+    "appid": 46510,
+    "title": "Syberia II",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/46510/header.jpg?t=1743167581",
+    "price_display": "Rp 109.999"
+  },
+  "65780": {
+    "appid": 65780,
+    "title": "ARMA: Gold Edition",
+    "genre": "Action, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/65780/header.jpg?t=1748873330",
+    "price_display": "Rp 109.999"
+  },
+  "225280": {
+    "appid": 225280,
+    "title": "Full Mojo Rampage",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/225280/header.jpg?t=1667058295",
+    "price_display": "Rp 109.999"
+  },
+  "233980": {
+    "appid": 233980,
+    "title": "UnEpic",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233980/header.jpg?t=1706997556",
+    "price_display": "Rp 109.999"
+  },
+  "253150": {
+    "appid": 253150,
+    "title": "Halfway",
+    "genre": "Action, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/253150/9d4d3e2cd6dc4b20a32edb5ff7cf1487f956ca43/header.jpg?t=1753370983",
+    "price_display": "Rp 109.999"
+  },
+  "254200": {
+    "appid": 254200,
+    "title": "FortressCraft Evolved!",
+    "genre": "Adventure, Casual, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/254200/header.jpg?t=1730217000",
+    "price_display": "Rp 109.999"
+  },
+  "265610": {
+    "appid": 265610,
+    "title": "Epic Battle Fantasy 4",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/265610/header.jpg?t=1722446987",
+    "price_display": "Rp 109.999"
+  },
+  "287370": {
+    "appid": 287370,
+    "title": "COH 2 - The Western Front Armies: US Forces",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287370/header.jpg?t=1741136873",
+    "price_display": "Rp 109.999"
+  },
+  "287371": {
+    "appid": 287371,
+    "title": "CoH 2 - The Western Front Armies: Oberkommando West",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/287371/header.jpg?t=1741137223",
+    "price_display": "Rp 109.999"
+  },
+  "297740": {
+    "appid": 297740,
+    "title": "Overruled!",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/297740/header.jpg?t=1762782966",
+    "price_display": "Rp 109.999"
+  },
+  "318860": {
+    "appid": 318860,
+    "title": "Malebolgia",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/318860/header.jpg?t=1589788307",
+    "price_display": "Rp 109.999"
+  },
+  "327510": {
+    "appid": 327510,
+    "title": "WASTED",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/327510/header.jpg?t=1721335621",
+    "price_display": "Rp 109.999"
+  },
+  "336930": {
+    "appid": 336930,
+    "title": "Redux: Dark Matters",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/336930/header.jpg?t=1673875139",
+    "price_display": "Rp 109.999"
+  },
+  "343280": {
+    "appid": 343280,
+    "title": "Zotrix",
+    "genre": "Action, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/343280/header.jpg?t=1501943268",
+    "price_display": "Rp 109.999"
+  },
+  "362860": {
+    "appid": 362860,
+    "title": "Sylvio",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/362860/header.jpg?t=1729759027",
+    "price_display": "Rp 109.999"
+  },
+  "365820": {
+    "appid": 365820,
+    "title": "Company of Heroes 2 - The British Forces",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/365820/header.jpg?t=1574775248",
+    "price_display": "Rp 109.999"
+  },
+  "377250": {
+    "appid": 377250,
+    "title": "Subaeria",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377250/header.jpg?t=1710777917",
+    "price_display": "Rp 109.999"
+  },
+  "378530": {
+    "appid": 378530,
+    "title": "Nature's Zombie Apocalypse",
+    "genre": "Action, Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/378530/header.jpg?t=1572544302",
+    "price_display": "Rp 109.999"
+  },
+  "394430": {
+    "appid": 394430,
+    "title": "Dimension Drive",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394430/header.jpg?t=1682982853",
+    "price_display": "Rp 109.999"
+  },
+  "402880": {
+    "appid": 402880,
+    "title": "Age of Barbarian Extended Cut",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/402880/header.jpg?t=1738166381",
+    "price_display": "Rp 109.999"
+  },
+  "412670": {
+    "appid": 412670,
+    "title": "Bullet Heaven 2",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412670/header.jpg?t=1720824433",
+    "price_display": "Rp 109.999"
+  },
+  "417400": {
+    "appid": 417400,
+    "title": "LeftWay",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/417400/header.jpg?t=1667062653",
+    "price_display": "Rp 109.999"
+  },
+  "425870": {
+    "appid": 425870,
+    "title": "Gyrodisc Super League",
+    "genre": "Action, Indie, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/425870/header.jpg?t=1509186440",
+    "price_display": "Rp 109.999"
+  },
+  "427860": {
+    "appid": 427860,
+    "title": "The Next World",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427860/header.jpg?t=1582745024",
+    "price_display": "Rp 109.999"
+  },
+  "443330": {
+    "appid": 443330,
+    "title": "Malus Code",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/443330/header.jpg?t=1667190585",
+    "price_display": "Rp 109.999"
+  },
+  "445670": {
+    "appid": 445670,
+    "title": "The Stargazers",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445670/header.jpg?t=1513926178",
+    "price_display": "Rp 109.999"
+  },
+  "454170": {
+    "appid": 454170,
+    "title": "XorceD - Sashiro's Laedrum",
+    "genre": "Adventure, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/454170/header.jpg?t=1492798522",
+    "price_display": "Rp 109.999"
+  },
+  "463270": {
+    "appid": 463270,
+    "title": "Ghost 1.0",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/463270/header.jpg?t=1706997523",
+    "price_display": "Rp 109.999"
+  },
+  "492220": {
+    "appid": 492220,
+    "title": "Bohemian Killing",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/492220/header.jpg?t=1546511259",
+    "price_display": "Rp 109.999"
+  },
+  "528260": {
+    "appid": 528260,
+    "title": "TITAN SLAYER",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528260/header.jpg?t=1493520338",
+    "price_display": "Rp 109.999"
+  },
+  "547340": {
+    "appid": 547340,
+    "title": "LoveKami -Divinity Stage-",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547340/header.jpg?t=1573642394",
+    "price_display": "Rp 109.999"
+  },
+  "580570": {
+    "appid": 580570,
+    "title": "Lethis - Daring Discoverers",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/580570/header.jpg?t=1572361673",
+    "price_display": "Rp 109.999"
+  },
+  "590600": {
+    "appid": 590600,
+    "title": "LifeBase",
+    "genre": "Action, Casual, Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/590600/header.jpg?t=1490304092",
+    "price_display": "Rp 109.999"
+  },
+  "593240": {
+    "appid": 593240,
+    "title": "VR SUPER SPORTS",
+    "genre": "Action, Casual, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593240/header.jpg?t=1519264002",
+    "price_display": "Rp 109.999"
+  },
+  "593250": {
+    "appid": 593250,
+    "title": "Voxel Shot VR",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/593250/header.jpg?t=1519209338",
+    "price_display": "Rp 109.999"
+  },
+  "614560": {
+    "appid": 614560,
+    "title": "Battleship Bishojo",
+    "genre": "Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614560/header.jpg?t=1490795998",
+    "price_display": "Rp 109.999"
+  },
+  "626510": {
+    "appid": 626510,
+    "title": "LoveKami -Useless Goddess-",
+    "genre": "Adventure, Casual, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/626510/header.jpg?t=1728282991",
+    "price_display": "Rp 109.999"
+  },
+  "673840": {
+    "appid": 673840,
+    "title": "VR Formula",
+    "genre": "Action, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673840/header.jpg?t=1519889729",
+    "price_display": "Rp 109.999"
+  },
+  "677080": {
+    "appid": 677080,
+    "title": "Dungeon Manager ZV: Resurrection",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677080/header.jpg?t=1625638363",
+    "price_display": "Rp 109.999"
+  },
+  "680480": {
+    "appid": 680480,
+    "title": "ICY: Frostbite Edition",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/680480/header.jpg?t=1747421445",
+    "price_display": "Rp 109.999"
+  },
+  "710990": {
+    "appid": 710990,
+    "title": "KENDAMVR - Virtual Reality Kendama",
+    "genre": "Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/710990/header.jpg?t=1520182518",
+    "price_display": "Rp 109.999"
+  },
+  "834280": {
+    "appid": 834280,
+    "title": "Fishing Sim World®: Pro Tour",
+    "genre": "Casual, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/834280/header.jpg?t=1751544674",
+    "price_display": "Rp 109.999"
+  },
+  "1181610": {
+    "appid": 1181610,
+    "title": "Roto Force",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1181610/header.jpg?t=1748596332",
+    "price_display": "Rp 109.999"
+  },
+  "1631230": {
+    "appid": 1631230,
+    "title": "Grimstar: Crystals are the New Oil!",
+    "genre": "Action, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1631230/b386f0fab71c44dc19d798bc6a7ac04feab99939/header.jpg?t=1755202630",
+    "price_display": "Rp 109.999"
+  },
+  "1781010": {
+    "appid": 1781010,
+    "title": "Pine Hearts",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1781010/bd2b7cf6d35b773f69a660f49add6f7841bd4aa0/header.jpg?t=1763465088",
+    "price_display": "Rp 109.999"
+  },
+  "1970750": {
+    "appid": 1970750,
+    "title": "SpearFrog",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1970750/header.jpg?t=1653548572",
+    "price_display": "Rp 109.999"
+  },
+  "2002470": {
+    "appid": 2002470,
+    "title": "Easy Poetry",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2002470/header.jpg?t=1693096122",
+    "price_display": "Rp 109.999"
+  },
+  "2172470": {
+    "appid": 2172470,
+    "title": "姬恋~缚羽的欠片 纯净中文版",
+    "genre": "Casual, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2172470/header.jpg?t=1675854314",
+    "price_display": "Rp 109.999"
+  },
+  "2358620": {
+    "appid": 2358620,
+    "title": "Spectator 2",
+    "genre": "Action, Casual, Indie, Massively Multiplayer, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358620/a35ce69f100fb15579dd4e7e7327dca08530b5f5/header.jpg?t=1763913217",
+    "price_display": "Rp 109.999"
+  },
+  "2476860": {
+    "appid": 2476860,
+    "title": "Alice in Dinerland",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2476860/header.jpg?t=1754771450",
+    "price_display": "Rp 109.999"
+  },
+  "2591070": {
+    "appid": 2591070,
+    "title": "Piczle Cross: Story of Seasons",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2591070/header.jpg?t=1729559986",
+    "price_display": "Rp 109.999"
+  },
+  "2815080": {
+    "appid": 2815080,
+    "title": "Forgotten 23",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2815080/header.jpg?t=1756952501",
+    "price_display": "Rp 109.999"
+  },
+  "3769380": {
+    "appid": 3769380,
+    "title": "Spectator 3",
+    "genre": "Action, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3769380/1f970c40cb1b7fb8f8ebceff9e5582bd8a446adf/header.jpg?t=1763507075",
+    "price_display": "Rp 109.999"
+  },
+  "2058140": {
+    "appid": 2058140,
+    "title": "Henry Halfhead",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2058140/436f05cccd38f9133b0bcd1d3a8d34e47106582c/header.jpg?t=1758563288",
+    "price_display": "Rp 109.900"
+  },
+  "337490": {
+    "appid": 337490,
+    "title": "Four Sided Fantasy",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/337490/header.jpg?t=1626375840",
+    "price_display": "Rp 109.155"
+  },
+  "22100": {
+    "appid": 22100,
+    "title": "Mount & Blade",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/22100/header.jpg?t=1750146932",
+    "price_display": "Rp 109.000"
+  },
+  "48720": {
+    "appid": 48720,
+    "title": "Mount & Blade: With Fire & Sword",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/48720/header.jpg?t=1750147223",
+    "price_display": "Rp 109.000"
+  },
+  "1539750": {
+    "appid": 1539750,
+    "title": "Realms of Antiquity: The Shattered Crown",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1539750/header.jpg?t=1712102199",
+    "price_display": "Rp 109.000"
+  },
+  "1853830": {
+    "appid": 1853830,
+    "title": "A Shot in the Dark - Part 1",
+    "genre": "Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1853830/header.jpg?t=1761244826",
+    "price_display": "Rp 109.000"
+  },
+  "2304640": {
+    "appid": 2304640,
+    "title": "Hidden Through Time 2: Myths & Magic",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2304640/header.jpg?t=1725609229",
+    "price_display": "Rp 109.000"
+  },
+  "2511340": {
+    "appid": 2511340,
+    "title": "Storybook of Tactics",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2511340/header.jpg?t=1742578631",
+    "price_display": "Rp 109.000"
+  },
+  "41900": {
+    "appid": 41900,
+    "title": "The Bard's Tale ARPG: Remastered and Resnarkled",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/41900/header.jpg?t=1689781985",
+    "price_display": "Rp 108.999"
+  },
+  "210230": {
+    "appid": 210230,
+    "title": "Nancy Drew®: Tomb of the Lost Queen",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/210230/header.jpg?t=1734469111",
+    "price_display": "Rp 108.999"
+  },
+  "220420": {
+    "appid": 220420,
+    "title": "Nancy Drew®: The Deadly Device",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/220420/header.jpg?t=1734465302",
+    "price_display": "Rp 108.999"
+  },
+  "226820": {
+    "appid": 226820,
+    "title": "Nancy Drew®: Ghost of Thornton Hall",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/226820/header.jpg?t=1759990396",
+    "price_display": "Rp 108.999"
+  },
+  "240440": {
+    "appid": 240440,
+    "title": "Quadrilateral Cowboy",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/240440/header.jpg?t=1603302631",
+    "price_display": "Rp 108.999"
+  },
+  "243970": {
+    "appid": 243970,
+    "title": "Invisible, Inc.",
+    "genre": "Action, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243970/header.jpg?t=1738778734",
+    "price_display": "Rp 108.999"
+  },
+  "251650": {
+    "appid": 251650,
+    "title": "Ray's The Dead",
+    "genre": "Action, Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/251650/header.jpg?t=1604425317",
+    "price_display": "Rp 108.999"
+  },
+  "256190": {
+    "appid": 256190,
+    "title": "Enemy Front",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256190/header.jpg?t=1692601016",
+    "price_display": "Rp 108.999"
+  },
+  "270230": {
+    "appid": 270230,
+    "title": "Prominence",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/270230/header.jpg?t=1570083454",
+    "price_display": "Rp 108.999"
+  },
+  "283680": {
+    "appid": 283680,
+    "title": "Astebreed: Definitive Edition",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/283680/header.jpg?t=1592542994",
+    "price_display": "Rp 108.999"
+  },
+  "293960": {
+    "appid": 293960,
+    "title": "Spice Road",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/293960/header.jpg?t=1667039145",
+    "price_display": "Rp 108.999"
+  },
+  "300580": {
+    "appid": 300580,
+    "title": "GALAK-Z",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/300580/header.jpg?t=1638440093",
+    "price_display": "Rp 108.999"
+  },
+  "312200": {
+    "appid": 312200,
+    "title": "Chasm",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312200/header.jpg?t=1747086375",
+    "price_display": "Rp 108.999"
+  },
+  "340150": {
+    "appid": 340150,
+    "title": "Basement",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/340150/header.jpg?t=1584560370",
+    "price_display": "Rp 108.999"
+  },
+  "355820": {
+    "appid": 355820,
+    "title": "FutureGrind",
+    "genre": "Action, Indie, Racing, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/355820/header.jpg?t=1745509061",
+    "price_display": "Rp 108.999"
+  },
+  "361230": {
+    "appid": 361230,
+    "title": "Super Daryl Deluxe",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/361230/header.jpg?t=1572319516",
+    "price_display": "Rp 108.999"
+  },
+  "369700": {
+    "appid": 369700,
+    "title": "Tanzia",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/369700/header.jpg?t=1575061473",
+    "price_display": "Rp 108.999"
+  },
+  "375810": {
+    "appid": 375810,
+    "title": "The Forgettable Dungeon",
+    "genre": "Action, Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375810/header.jpg?t=1593074009",
+    "price_display": "Rp 108.999"
+  },
+  "377320": {
+    "appid": 377320,
+    "title": "Hexters",
+    "genre": "Action, Adventure, Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/377320/header.jpg?t=1704502526",
+    "price_display": "Rp 108.999"
+  },
+  "399720": {
+    "appid": 399720,
+    "title": "XO",
+    "genre": "Action, Indie, RPG, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/399720/header.jpg?t=1708711051",
+    "price_display": "Rp 108.999"
+  },
+  "406090": {
+    "appid": 406090,
+    "title": "Enigmoon",
+    "genre": "Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/406090/header.jpg?t=1727577022",
+    "price_display": "Rp 108.999"
+  },
+  "412640": {
+    "appid": 412640,
+    "title": "Immerse Creator",
+    "genre": "Casual, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/412640/header.jpg?t=1513892220",
+    "price_display": "Rp 108.999"
+  },
+  "418520": {
+    "appid": 418520,
+    "title": "SculptrVR",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418520/header.jpg?t=1607702666",
+    "price_display": "Rp 108.999"
+  },
+  "418530": {
+    "appid": 418530,
+    "title": "Spelunky 2",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418530/header.jpg?t=1663719294",
+    "price_display": "Rp 108.999"
+  },
+  "418620": {
+    "appid": 418620,
+    "title": "The TakeOver",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/418620/header.jpg?t=1576924056",
+    "price_display": "Rp 108.999"
+  },
+  "422810": {
+    "appid": 422810,
+    "title": "River City Ransom: Underground",
+    "genre": "Action, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/422810/header.jpg?t=1573536636",
+    "price_display": "Rp 108.999"
+  },
+  "426310": {
+    "appid": 426310,
+    "title": "Perception",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/426310/header.jpg?t=1601655486",
+    "price_display": "Rp 108.999"
+  },
+  "427700": {
+    "appid": 427700,
+    "title": "Zwei: The Ilvard Insurrection",
+    "genre": "Action, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427700/header.jpg?t=1732150962",
+    "price_display": "Rp 108.999"
+  },
+  "436690": {
+    "appid": 436690,
+    "title": "Tempest Citadel",
+    "genre": "Indie, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/436690/header.jpg?t=1667039683",
+    "price_display": "Rp 108.999"
+  },
+  "445800": {
+    "appid": 445800,
+    "title": "Love Language Japanese",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/445800/header.jpg?t=1556598822",
+    "price_display": "Rp 108.999"
+  },
+  "447020": {
+    "appid": 447020,
+    "title": "Farming Simulator 17",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447020/header.jpg?t=1658488796",
+    "price_display": "Rp 108.999"
+  },
+  "447700": {
+    "appid": 447700,
+    "title": "Crystal Crisis",
+    "genre": "Action, Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/447700/header.jpg?t=1589887050",
+    "price_display": "Rp 108.999"
+  },
+  "452440": {
+    "appid": 452440,
+    "title": "Flowers -Le volume sur printemps-",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452440/header.jpg?t=1759495908",
+    "price_display": "Rp 108.999"
+  },
+  "452570": {
+    "appid": 452570,
+    "title": "Battle Chef Brigade Deluxe",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/452570/header.jpg?t=1763397067",
+    "price_display": "Rp 108.999"
+  },
+  "453340": {
+    "appid": 453340,
+    "title": "Hustle Cat",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/453340/header.jpg?t=1584463902",
+    "price_display": "Rp 108.999"
+  },
+  "455310": {
+    "appid": 455310,
+    "title": "Bloody Chronicles - New Cycle of Death Visual Novel",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/455310/header.jpg?t=1585658724",
+    "price_display": "Rp 108.999"
+  },
+  "459080": {
+    "appid": 459080,
+    "title": "YIIK: A Postmodern RPG",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459080/header.jpg?t=1733116766",
+    "price_display": "Rp 108.999"
+  },
+  "459090": {
+    "appid": 459090,
+    "title": "Masquerada: Songs and Shadows",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/459090/header.jpg?t=1730740424",
+    "price_display": "Rp 108.999"
+  },
+  "464260": {
+    "appid": 464260,
+    "title": "Xeno Crisis",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/464260/header.jpg?t=1592932356",
+    "price_display": "Rp 108.999"
+  },
+  "467440": {
+    "appid": 467440,
+    "title": "Insignificant",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/467440/header.jpg?t=1571116625",
+    "price_display": "Rp 108.999"
+  },
+  "490450": {
+    "appid": 490450,
+    "title": "Tokyo 42",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/490450/header.jpg?t=1573493424",
+    "price_display": "Rp 108.999"
+  },
+  "503770": {
+    "appid": 503770,
+    "title": "Elven Assassin",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/503770/header.jpg?t=1737032857",
+    "price_display": "Rp 108.999"
+  },
+  "509250": {
+    "appid": 509250,
+    "title": "TO THE TOP",
+    "genre": "Action, Indie, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/509250/header.jpg?t=1569022917",
+    "price_display": "Rp 108.999"
+  },
+  "516030": {
+    "appid": 516030,
+    "title": "Insane Robots",
+    "genre": "Adventure, Casual, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/516030/header.jpg?t=1560507853",
+    "price_display": "Rp 108.999"
+  },
+  "516580": {
+    "appid": 516580,
+    "title": "DYSTORIA",
+    "genre": "Action, Casual, Indie, Racing, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/516580/header.jpg?t=1561725139",
+    "price_display": "Rp 108.999"
+  },
+  "528980": {
+    "appid": 528980,
+    "title": "Arakion: Book One",
+    "genre": "Adventure, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/528980/header.jpg?t=1667095594",
+    "price_display": "Rp 108.999"
+  },
+  "536960": {
+    "appid": 536960,
+    "title": "No Way Out - A Dead Realm Tale",
+    "genre": "Action, Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/536960/header.jpg?t=1549410332",
+    "price_display": "Rp 108.999"
+  },
+  "545620": {
+    "appid": 545620,
+    "title": "Anamorphine",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/545620/header.jpg?t=1646159035",
+    "price_display": "Rp 108.999"
+  },
+  "547480": {
+    "appid": 547480,
+    "title": "Carly and the Reaperman - Escape from the Underworld",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/547480/header.jpg?t=1698244314",
+    "price_display": "Rp 108.999"
+  },
+  "548470": {
+    "appid": 548470,
+    "title": "First Impact: Rise of a Hero",
+    "genre": "Action, Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548470/header.jpg?t=1628602962",
+    "price_display": "Rp 108.999"
+  },
+  "553480": {
+    "appid": 553480,
+    "title": "The Pirate's Fate",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553480/header.jpg?t=1572320597",
+    "price_display": "Rp 108.999"
+  },
+  "556530": {
+    "appid": 556530,
+    "title": "Faerie Solitaire Dire",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/556530/header.jpg?t=1727950890",
+    "price_display": "Rp 108.999"
+  },
+  "559630": {
+    "appid": 559630,
+    "title": "Kid Baby: Starchild",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/559630/header.jpg?t=1556121546",
+    "price_display": "Rp 108.999"
+  },
+  "565170": {
+    "appid": 565170,
+    "title": "Blade Strangers",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/565170/header.jpg?t=1574734755",
+    "price_display": "Rp 108.999"
+  },
+  "571310": {
+    "appid": 571310,
+    "title": "SteamWorld Dig 2",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/571310/header.jpg?t=1726132098",
+    "price_display": "Rp 108.999"
+  },
+  "572700": {
+    "appid": 572700,
+    "title": "Nancy Drew®: Sea of Darkness",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572700/header.jpg?t=1734463423",
+    "price_display": "Rp 108.999"
+  },
+  "572710": {
+    "appid": 572710,
+    "title": "Nancy Drew®: Labyrinth of Lies",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572710/header.jpg?t=1734461546",
+    "price_display": "Rp 108.999"
+  },
+  "572720": {
+    "appid": 572720,
+    "title": "Nancy Drew®: The Shattered Medallion",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572720/header.jpg?t=1734468049",
+    "price_display": "Rp 108.999"
+  },
+  "572730": {
+    "appid": 572730,
+    "title": "Nancy Drew®: The Silent Spy",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/572730/header.jpg?t=1734468268",
+    "price_display": "Rp 108.999"
+  },
+  "585900": {
+    "appid": 585900,
+    "title": "Harvest Moon: Light of Hope Special Edition",
+    "genre": "Adventure, Casual, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/585900/header.jpg?t=1670001474",
+    "price_display": "Rp 108.999"
+  },
+  "587920": {
+    "appid": 587920,
+    "title": "Phantom Halls",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/587920/header.jpg?t=1541009090",
+    "price_display": "Rp 108.999"
+  },
+  "589940": {
+    "appid": 589940,
+    "title": "Eye of the Temple",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/589940/header.jpg?t=1755248983",
+    "price_display": "Rp 108.999"
+  },
+  "591930": {
+    "appid": 591930,
+    "title": "Genesia Legacy: Ultimate Domain",
+    "genre": "Indie, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/591930/header.jpg?t=1494354438",
+    "price_display": "Rp 108.999"
+  },
+  "595420": {
+    "appid": 595420,
+    "title": "Franchise Hockey Manager 4",
+    "genre": "Indie, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/595420/header.jpg?t=1633690569",
+    "price_display": "Rp 108.999"
+  },
+  "597170": {
+    "appid": 597170,
+    "title": "Clone Drone in the Danger Zone",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/597170/header.jpg?t=1742317750",
+    "price_display": "Rp 108.999"
+  },
+  "603660": {
+    "appid": 603660,
+    "title": "Women of Xal",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/603660/header.jpg?t=1649002790",
+    "price_display": "Rp 108.999"
+  },
+  "606500": {
+    "appid": 606500,
+    "title": "HellSign",
+    "genre": "Action, Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/606500/header.jpg?t=1671402329",
+    "price_display": "Rp 108.999"
+  },
+  "614150": {
+    "appid": 614150,
+    "title": "Train Harder",
+    "genre": "Action, Casual, Indie, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614150/header.jpg?t=1570476463",
+    "price_display": "Rp 108.999"
+  },
+  "614450": {
+    "appid": 614450,
+    "title": "Bellatia",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/614450/header.jpg?t=1667805911",
+    "price_display": "Rp 108.999"
+  },
+  "624970": {
+    "appid": 624970,
+    "title": "Battlezone: Combat Commander",
+    "genre": "Action, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/624970/header.jpg?t=1623071344",
+    "price_display": "Rp 108.999"
+  },
+  "626660": {
+    "appid": 626660,
+    "title": "Flipping Death",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/626660/header.jpg?t=1587728311",
+    "price_display": "Rp 108.999"
+  },
+  "628800": {
+    "appid": 628800,
+    "title": "Super Hydorah",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/628800/header.jpg?t=1745488070",
+    "price_display": "Rp 108.999"
+  },
+  "630550": {
+    "appid": 630550,
+    "title": "Faulty Apprentice",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/630550/header.jpg?t=1699503694",
+    "price_display": "Rp 108.999"
+  },
+  "638650": {
+    "appid": 638650,
+    "title": "Sword Art Online Re: Hollow Fragment",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/638650/header.jpg?t=1750782341",
+    "price_display": "Rp 108.999"
+  },
+  "643950": {
+    "appid": 643950,
+    "title": "A Handful of Keflings",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/643950/header.jpg?t=1516907024",
+    "price_display": "Rp 108.999"
+  },
+  "648070": {
+    "appid": 648070,
+    "title": "CrisisActionVR",
+    "genre": "Violent, Gore, Action, Adventure, Indie, Massively Multiplayer",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648070/header.jpg?t=1505122782",
+    "price_display": "Rp 108.999"
+  },
+  "650440": {
+    "appid": 650440,
+    "title": "Warbanners",
+    "genre": "Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/650440/header.jpg?t=1760518777",
+    "price_display": "Rp 108.999"
+  },
+  "656700": {
+    "appid": 656700,
+    "title": "RICO",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/656700/header.jpg?t=1721300854",
+    "price_display": "Rp 108.999"
+  },
+  "657240": {
+    "appid": 657240,
+    "title": "Tracks - The Train Set Game",
+    "genre": "Indie, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/657240/header.jpg?t=1740751088",
+    "price_display": "Rp 108.999"
+  },
+  "666100": {
+    "appid": 666100,
+    "title": "Shooty Fruity",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/666100/header.jpg?t=1667464400",
+    "price_display": "Rp 108.999"
+  },
+  "673970": {
+    "appid": 673970,
+    "title": "MuX",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/673970/header.jpg?t=1531774510",
+    "price_display": "Rp 108.999"
+  },
+  "676500": {
+    "appid": 676500,
+    "title": "Time Warpers",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/676500/header.jpg?t=1684692230",
+    "price_display": "Rp 108.999"
+  },
+  "677610": {
+    "appid": 677610,
+    "title": "Penn & Teller VR: Frankly Unfair, Unkind, Unnecessary, & Underhanded",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/677610/header.jpg?t=1573062026",
+    "price_display": "Rp 108.999"
+  },
+  "681530": {
+    "appid": 681530,
+    "title": "NOISZ",
+    "genre": "Action, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/681530/header.jpg?t=1753122964",
+    "price_display": "Rp 108.999"
+  },
+  "682990": {
+    "appid": 682990,
+    "title": "Drug Dealer Simulator",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/682990/header.jpg?t=1762946545",
+    "price_display": "Rp 108.999"
+  },
+  "688140": {
+    "appid": 688140,
+    "title": "Tempest 4000",
+    "genre": "Casual",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/688140/header.jpg?t=1668118846",
+    "price_display": "Rp 108.999"
+  },
+  "690810": {
+    "appid": 690810,
+    "title": "Killing Floor: Incursion",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/690810/header.jpg?t=1726865803",
+    "price_display": "Rp 108.999"
+  },
+  "692100": {
+    "appid": 692100,
+    "title": "Infliction",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/692100/header.jpg?t=1753968848",
+    "price_display": "Rp 108.999"
+  },
+  "694770": {
+    "appid": 694770,
+    "title": "Vestaria Saga I: War of the Scions",
+    "genre": "RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/694770/header.jpg?t=1745568235",
+    "price_display": "Rp 108.999"
+  },
+  "698260": {
+    "appid": 698260,
+    "title": "Star Shelter",
+    "genre": "Action, Adventure, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/698260/header.jpg?t=1593873292",
+    "price_display": "Rp 108.999"
+  },
+  "700520": {
+    "appid": 700520,
+    "title": "Shift Quantum - A Cyber Noir Puzzle Platformer",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/700520/header.jpg?t=1667388557",
+    "price_display": "Rp 108.999"
+  },
+  "705340": {
+    "appid": 705340,
+    "title": "Kofi Quest",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/705340/header.jpg?t=1685730414",
+    "price_display": "Rp 108.999"
+  },
+  "707060": {
+    "appid": 707060,
+    "title": "Beast Quest",
+    "genre": "Action, Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707060/header.jpg?t=1574364570",
+    "price_display": "Rp 108.999"
+  },
+  "707350": {
+    "appid": 707350,
+    "title": "Damascus Gear Operation Osaka HD Edition",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/707350/header.jpg?t=1671433131",
+    "price_display": "Rp 108.999"
+  },
+  "708820": {
+    "appid": 708820,
+    "title": "Baby Hands",
+    "genre": "Action, Adventure, Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708820/header.jpg?t=1666992733",
+    "price_display": "Rp 108.999"
+  },
+  "714120": {
+    "appid": 714120,
+    "title": "Little Misfortune",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/714120/header.jpg?t=1667210698",
+    "price_display": "Rp 108.999"
+  },
+  "718670": {
+    "appid": 718670,
+    "title": "Cultist Simulator",
+    "genre": "Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/718670/header.jpg?t=1761059623",
+    "price_display": "Rp 108.999"
+  },
+  "726250": {
+    "appid": 726250,
+    "title": "Unknightly",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726250/header.jpg?t=1603807702",
+    "price_display": "Rp 108.999"
+  },
+  "726490": {
+    "appid": 726490,
+    "title": "Projection: First Light",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/726490/header.jpg?t=1678330288",
+    "price_display": "Rp 108.999"
+  },
+  "729000": {
+    "appid": 729000,
+    "title": "Wytchwood",
+    "genre": "Adventure, Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/729000/header.jpg?t=1705693631",
+    "price_display": "Rp 108.999"
+  },
+  "733110": {
+    "appid": 733110,
+    "title": "8-Bit Adventures 2",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/733110/0a986ee779d642bbd3e424c9536d861e6b11289d/header.jpg?t=1753934817",
+    "price_display": "Rp 108.999"
+  },
+  "733500": {
+    "appid": 733500,
+    "title": "LOGistICAL: Russia",
+    "genre": "Casual, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/733500/header.jpg?t=1531397320",
+    "price_display": "Rp 108.999"
+  },
+  "737520": {
+    "appid": 737520,
+    "title": "Flynn: Son of Crimson",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/737520/header.jpg?t=1657279781",
+    "price_display": "Rp 108.999"
+  },
+  "742700": {
+    "appid": 742700,
+    "title": "Empire Deluxe Combined Edition",
+    "genre": "Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/742700/header.jpg?t=1528518694",
+    "price_display": "Rp 108.999"
+  },
+  "744460": {
+    "appid": 744460,
+    "title": "BE THE HERO",
+    "genre": "Action, Adventure, RPG, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/744460/header.jpg?t=1572412679",
+    "price_display": "Rp 108.999"
+  },
+  "747650": {
+    "appid": 747650,
+    "title": "The Padre",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/747650/header.jpg?t=1662417359",
+    "price_display": "Rp 108.999"
+  },
+  "750070": {
+    "appid": 750070,
+    "title": "Motorbike Garage Mechanic Simulator",
+    "genre": "Indie, Racing, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750070/header.jpg?t=1716895084",
+    "price_display": "Rp 108.999"
+  },
+  "751780": {
+    "appid": 751780,
+    "title": "Forager",
+    "genre": "Action, Adventure, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/751780/header.jpg?t=1699372258",
+    "price_display": "Rp 108.999"
+  },
+  "753900": {
+    "appid": 753900,
+    "title": "End Space",
+    "genre": "Action, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753900/header.jpg?t=1652460734",
+    "price_display": "Rp 108.999"
   }
 }

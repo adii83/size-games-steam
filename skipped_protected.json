@@ -1798,5 +1798,69 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259340/header.jpg?t=1735034368",
     "price_display": "Rp 114.999",
     "reason": "protected_not_in_fx"
+  },
+  "2608600": {
+    "appid": 2608600,
+    "title": "The Ape Tales: An Epic Adventure Game",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2608600/header.jpg?t=1759614579",
+    "price_display": "Rp 114.999",
+    "reason": "protected_not_in_fx"
+  },
+  "57650": {
+    "appid": 57650,
+    "title": "Dungeons",
+    "genre": "RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/57650/header.jpg?t=1730284800",
+    "price_display": "Rp 110.999",
+    "reason": "protected_not_in_fx"
+  },
+  "200550": {
+    "appid": 200550,
+    "title": "Dungeons - The Dark Lord",
+    "genre": "RPG, Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/200550/header.jpg?t=1730284914",
+    "price_display": "Rp 110.999",
+    "reason": "protected_not_in_fx"
+  },
+  "201490": {
+    "appid": 201490,
+    "title": "Airline Tycoon 2",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/201490/header.jpg?t=1730279688",
+    "price_display": "Rp 110.999",
+    "reason": "protected_not_in_fx"
+  },
+  "217690": {
+    "appid": 217690,
+    "title": "Anna - Extended Edition",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/217690/header.jpg?t=1730280995",
+    "price_display": "Rp 110.999",
+    "reason": "protected_not_in_fx"
+  },
+  "310490": {
+    "appid": 310490,
+    "title": "Crookz - The Big Heist",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/310490/header.jpg?t=1730283161",
+    "price_display": "Rp 110.999",
+    "reason": "protected_not_in_fx"
+  },
+  "708760": {
+    "appid": 708760,
+    "title": "Social Club VR : Casino Nights",
+    "genre": "Casual, Indie, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/708760/header.jpg?t=1568771036",
+    "price_display": "Rp 108.999",
+    "reason": "protected_not_in_fx"
+  },
+  "719890": {
+    "appid": 719890,
+    "title": "Beasts of Bermuda",
+    "genre": "Adventure, Indie, Massively Multiplayer, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/719890/header.jpg?t=1733151438",
+    "price_display": "Rp 108.999",
+    "reason": "protected_not_in_fx"
   }
 }

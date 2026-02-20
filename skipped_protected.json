@@ -1574,5 +1574,69 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312650/header.jpg?t=1589876364",
     "price_display": "Rp 159.999",
     "reason": "protected_not_in_fx"
+  },
+  "1795190": {
+    "appid": 1795190,
+    "title": "Speedball",
+    "genre": "Action, Sports, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1795190/fb66611effd67ec2f4d944169d3972534c7d9e8c/header.jpg?t=1758098648",
+    "price_display": "Rp 152.999",
+    "reason": "protected_not_in_fx"
+  },
+  "233270": {
+    "appid": 233270,
+    "title": "Far Cry 3 - Blood Dragon",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/233270/header.jpg?t=1752169303",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "256290": {
+    "appid": 256290,
+    "title": "Child of Light",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/256290/header.jpg?t=1694554365",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "260230": {
+    "appid": 260230,
+    "title": "Valiant Hearts: The Great War™ / Soldats Inconnus : Mémoires de la Grande Guerre™",
+    "genre": "Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/260230/header.jpg?t=1744638595",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "435480": {
+    "appid": 435480,
+    "title": "Trials of the Blood Dragon",
+    "genre": "Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/435480/header.jpg?t=1680017366",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "965320": {
+    "appid": 965320,
+    "title": "The Settlers® 7 : History Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965320/header.jpg?t=1680007191",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "1281630": {
+    "appid": 1281630,
+    "title": "Anno 1404 - History Edition",
+    "genre": "Simulation, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1281630/header.jpg?t=1690900415",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
+  },
+  "2215260": {
+    "appid": 2215260,
+    "title": "Scott Pilgrim vs. The World™: The Game – Complete Edition",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215260/header.jpg?t=1747662040",
+    "price_display": "Rp 149.000",
+    "reason": "protected_not_in_fx"
   }
 }

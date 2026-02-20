@@ -1782,5 +1782,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/965310/header.jpg?t=1680007478",
     "price_display": "Rp 119.000",
     "reason": "protected_not_in_fx"
+  },
+  "3929740": {
+    "appid": 3929740,
+    "title": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3929740/fd782a203ee11a3a61f1b2398fc439aa6d1f8640/header.jpg?t=1764699227",
+    "price_display": "Rp 119.000",
+    "reason": "protected_not_in_fx"
+  },
+  "259340": {
+    "appid": 259340,
+    "title": "Chicken Shoot Gold",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/259340/header.jpg?t=1735034368",
+    "price_display": "Rp 114.999",
+    "reason": "protected_not_in_fx"
   }
 }

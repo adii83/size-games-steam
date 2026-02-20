@@ -1550,5 +1550,29 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2321940/header.jpg?t=1683649228",
     "price_display": "Rp 165.999",
     "reason": "protected_not_in_fx"
+  },
+  "2687970": {
+    "appid": 2687970,
+    "title": "TRIBES 3: Rivals",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2687970/header.jpg?t=1731076036",
+    "price_display": "Rp 165.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2719160": {
+    "appid": 2719160,
+    "title": "Contractors Showdown : ExfilZone",
+    "genre": "Action, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2719160/d9b8073df71fed5f90348cb9aac7cc5c74b936d4/header.jpg?t=1761899795",
+    "price_display": "Rp 165.999",
+    "reason": "protected_not_in_fx"
+  },
+  "312650": {
+    "appid": 312650,
+    "title": "Battlezone Gold Edition",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312650/header.jpg?t=1589876364",
+    "price_display": "Rp 159.999",
+    "reason": "protected_not_in_fx"
   }
 }

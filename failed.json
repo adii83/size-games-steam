@@ -81005,5 +81005,264 @@
     "genre": "Action, Indie",
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2908120/header.jpg?t=1732819313",
     "price_display": "Rp 90.999"
+  },
+  "2909100": {
+    "appid": 2909100,
+    "title": "Street Race Kings",
+    "genre": "Action, Adventure, Indie, Racing",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909100/header.jpg?t=1741560653",
+    "price_display": "Rp 90.999"
+  },
+  "2909720": {
+    "appid": 2909720,
+    "title": "Mirage: A Biplane Adventure",
+    "genre": "Action, Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909720/header.jpg?t=1739487694",
+    "price_display": "Rp 90.999"
+  },
+  "2913020": {
+    "appid": 2913020,
+    "title": "GuardFortressVR",
+    "genre": "Casual, RPG, Simulation, Sports, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2913020/header.jpg?t=1714880435",
+    "price_display": "Rp 90.999"
+  },
+  "2914440": {
+    "appid": 2914440,
+    "title": "Game of Gods",
+    "genre": "Indie, Simulation, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2914440/header.jpg?t=1721059277",
+    "price_display": "Rp 90.999"
+  },
+  "2915020": {
+    "appid": 2915020,
+    "title": "Hanaja's Body 2 in One",
+    "genre": "RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915020/header.jpg?t=1714672673",
+    "price_display": "Rp 90.999"
+  },
+  "2915460": {
+    "appid": 2915460,
+    "title": "OneShot: World Machine Edition",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2915460/header.jpg?t=1747673376",
+    "price_display": "Rp 90.999"
+  },
+  "2917040": {
+    "appid": 2917040,
+    "title": "Garten of Banban 8: Anti Devil",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2917040/5f30d70c65e02130f1bdd2cd372702a005ce665c/header.jpg?t=1756390705",
+    "price_display": "Rp 90.999"
+  },
+  "2917850": {
+    "appid": 2917850,
+    "title": "Photochemistry",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2917850/header.jpg?t=1731254008",
+    "price_display": "Rp 90.999"
+  },
+  "2918570": {
+    "appid": 2918570,
+    "title": "RISKY CHRONICLES and the curse of destiny",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2918570/header.jpg?t=1714130766",
+    "price_display": "Rp 90.999"
+  },
+  "2922580": {
+    "appid": 2922580,
+    "title": "Wrong Number",
+    "genre": "Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922580/81b7d5be0b923b58f5094c103d2d16aea1ae020a/header.jpg?t=1760347020",
+    "price_display": "Rp 90.999"
+  },
+  "2922690": {
+    "appid": 2922690,
+    "title": "Catale",
+    "genre": "Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2922690/header.jpg?t=1755404881",
+    "price_display": "Rp 90.999"
+  },
+  "2923120": {
+    "appid": 2923120,
+    "title": "Star's Peaces: Memorial Edition",
+    "genre": "Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2923120/header.jpg?t=1753992962",
+    "price_display": "Rp 90.999"
+  },
+  "2926220": {
+    "appid": 2926220,
+    "title": "Kindvixens",
+    "genre": "Casual, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2926220/c8d7c6c3a6a71f46ebce181322daf0936c738cde/header.jpg?t=1759944522",
+    "price_display": "Rp 90.999"
+  },
+  "2932430": {
+    "appid": 2932430,
+    "title": "Level UP! Factory",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932430/header.jpg?t=1715157327",
+    "price_display": "Rp 90.999"
+  },
+  "2932940": {
+    "appid": 2932940,
+    "title": "BattleHeights",
+    "genre": "Action, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932940/header.jpg?t=1737037564",
+    "price_display": "Rp 90.999"
+  },
+  "2932960": {
+    "appid": 2932960,
+    "title": "A Merchant's Promise",
+    "genre": "Indie, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2932960/50602a4b67f83bc1dc0a5151d9fe0fc0a9ba8c53/header.jpg?t=1763939876",
+    "price_display": "Rp 90.999"
+  },
+  "2933910": {
+    "appid": 2933910,
+    "title": "CatboyZOOM",
+    "genre": "Action, Casual, Indie, Racing, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2933910/header.jpg?t=1737085632",
+    "price_display": "Rp 90.999"
+  },
+  "2934610": {
+    "appid": 2934610,
+    "title": "Bober Constructions",
+    "genre": "Action, Adventure, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934610/ded11104a473075abd4641f46033d9d4b3ca9ca2/header.jpg?t=1751270282",
+    "price_display": "Rp 90.999"
+  },
+  "2934630": {
+    "appid": 2934630,
+    "title": "Harvest Hustlers",
+    "genre": "Casual, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2934630/header.jpg?t=1723707314",
+    "price_display": "Rp 90.999"
+  },
+  "2936260": {
+    "appid": 2936260,
+    "title": "Lust Mansion 🔞",
+    "genre": "Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2936260/header.jpg?t=1728471693",
+    "price_display": "Rp 90.999"
+  },
+  "2940630": {
+    "appid": 2940630,
+    "title": "Onslaught on the Solar Frontier",
+    "genre": "Action",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2940630/header.jpg?t=1728674526",
+    "price_display": "Rp 90.999"
+  },
+  "2941000": {
+    "appid": 2941000,
+    "title": "虚灯のセレスティア",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2941000/header.jpg?t=1715074879",
+    "price_display": "Rp 90.999"
+  },
+  "2942350": {
+    "appid": 2942350,
+    "title": "Jiggly Strike",
+    "genre": "Action, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2942350/b6cd50c3f5c4dc67f23cb6ea9a55cb437c0441e7/header.jpg?t=1762801303",
+    "price_display": "Rp 90.999"
+  },
+  "2943920": {
+    "appid": 2943920,
+    "title": "Timeless",
+    "genre": "Action, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2943920/header.jpg?t=1744820337",
+    "price_display": "Rp 90.999"
+  },
+  "2946420": {
+    "appid": 2946420,
+    "title": "Mass Rapid",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2946420/header.jpg?t=1736619898",
+    "price_display": "Rp 90.999"
+  },
+  "2947140": {
+    "appid": 2947140,
+    "title": "IRIDESCENT",
+    "genre": "Action, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947140/7deb35c6ededde13824dfe8936ec6d277423be59/header.jpg?t=1761787447",
+    "price_display": "Rp 90.999"
+  },
+  "2947340": {
+    "appid": 2947340,
+    "title": "Whistling Waters",
+    "genre": "Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2947340/header.jpg?t=1734403749",
+    "price_display": "Rp 90.999"
+  },
+  "2948370": {
+    "appid": 2948370,
+    "title": "Dive Into The Survival",
+    "genre": "Adventure, Indie, RPG, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948370/header.jpg?t=1725637771",
+    "price_display": "Rp 90.999"
+  },
+  "2948550": {
+    "appid": 2948550,
+    "title": "Mischief Castle (Original NES Game)",
+    "genre": "Action, Adventure",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2948550/header.jpg?t=1724077635",
+    "price_display": "Rp 90.999"
+  },
+  "2949850": {
+    "appid": 2949850,
+    "title": "Ultrakanoid",
+    "genre": "Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2949850/header.jpg?t=1715791399",
+    "price_display": "Rp 90.999"
+  },
+  "2951340": {
+    "appid": 2951340,
+    "title": "Moonless Moon",
+    "genre": "Adventure, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951340/header.jpg?t=1756177529",
+    "price_display": "Rp 90.999"
+  },
+  "2951790": {
+    "appid": 2951790,
+    "title": "BMX Wild Run",
+    "genre": "Indie, Racing, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2951790/header.jpg?t=1715280564",
+    "price_display": "Rp 90.999"
+  },
+  "2952190": {
+    "appid": 2952190,
+    "title": "YVY",
+    "genre": "Adventure, Indie, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952190/3126ff31b17cabee5255d4ee6b67d0d6a5b94e07/header.jpg?t=1764525723",
+    "price_display": "Rp 90.999"
+  },
+  "2954360": {
+    "appid": 2954360,
+    "title": "Ad SHOOt（アドシュー）",
+    "genre": "Action, Casual, Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954360/header.jpg?t=1750926992",
+    "price_display": "Rp 90.999"
+  },
+  "2954440": {
+    "appid": 2954440,
+    "title": "Berry Bash",
+    "genre": "Action, Adventure, Indie, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2954440/header.jpg?t=1715843158",
+    "price_display": "Rp 90.999"
+  },
+  "2955150": {
+    "appid": 2955150,
+    "title": "Deals With Witch",
+    "genre": "Casual, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955150/header.jpg?t=1717514434",
+    "price_display": "Rp 90.999"
+  },
+  "2955820": {
+    "appid": 2955820,
+    "title": "Sex, Camera, Action! 🔞",
+    "genre": "Casual, Indie, RPG, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2955820/header.jpg?t=1760985691",
+    "price_display": "Rp 90.999"
   }
 }

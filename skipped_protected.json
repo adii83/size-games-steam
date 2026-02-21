@@ -2078,5 +2078,13 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/58550/header.jpg?t=1562029606",
     "price_display": "Rp 89.999",
     "reason": "protected_not_in_fx"
+  },
+  "1289670": {
+    "appid": 1289670,
+    "title": "EA Play",
+    "genre": "Action, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1289670/49e5a469fef9e70e4f49e518986c07a5ae054212/header.jpg?t=1763550777",
+    "price_display": "Rp 87.000",
+    "reason": "protected_not_in_fx"
   }
 }

@@ -2030,5 +2030,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1328400/header.jpg?t=1758418486",
     "price_display": "Rp 90.999",
     "reason": "protected_not_in_fx"
+  },
+  "2218780": {
+    "appid": 2218780,
+    "title": "The Epic FishHead Adventure",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2218780/header.jpg?t=1672351661",
+    "price_display": "Rp 90.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2235750": {
+    "appid": 2235750,
+    "title": "Ghost Killers The Revenge of the Sucker-Fun",
+    "genre": "Action, Adventure, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235750/header.jpg?t=1734646876",
+    "price_display": "Rp 90.999",
+    "reason": "protected_not_in_fx"
   }
 }

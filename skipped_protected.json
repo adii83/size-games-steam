@@ -2046,5 +2046,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2235750/header.jpg?t=1734646876",
     "price_display": "Rp 90.999",
     "reason": "protected_not_in_fx"
+  },
+  "2808290": {
+    "appid": 2808290,
+    "title": "AI Fightclub",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2808290/header.jpg?t=1719251090",
+    "price_display": "Rp 90.999",
+    "reason": "protected_not_in_fx"
+  },
+  "2844320": {
+    "appid": 2844320,
+    "title": "SUPER BATTLE POLYCARS",
+    "genre": "Action, Adventure, Indie, Massively Multiplayer, Simulation, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2844320/header.jpg?t=1734655899",
+    "price_display": "Rp 90.999",
+    "reason": "protected_not_in_fx"
   }
 }

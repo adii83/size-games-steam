@@ -2286,5 +2286,13 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952970/35fbe3e07b399917aea31df812803459a0963ecd/header.jpg?t=1761878257",
     "price_display": "Rp 56.499",
     "reason": "protected_not_in_fx"
+  },
+  "3588260": {
+    "appid": 3588260,
+    "title": "Georgie-Yolkie 64 - The Furry Tale",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588260/791b16c888115112935aafdcaf850bbd1cd795ab/header.jpg?t=1750902216",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
   }
 }

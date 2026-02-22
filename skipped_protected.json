@@ -2246,5 +2246,45 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1629150/header.jpg?t=1758139967",
     "price_display": "Rp 59.999",
     "reason": "protected_not_in_fx"
+  },
+  "2329790": {
+    "appid": 2329790,
+    "title": "Steal It",
+    "genre": "Action, Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2329790/header.jpg?t=1754068175",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
+  },
+  "2538910": {
+    "appid": 2538910,
+    "title": "夏末白夜",
+    "genre": "Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2538910/header.jpg?t=1763043403",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
+  },
+  "2766880": {
+    "appid": 2766880,
+    "title": "Meowingtons Simulator",
+    "genre": "Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2766880/038888ce312dc94141abd84d3c994ee44ec4fc9d/header.jpg?t=1746590644",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
+  },
+  "2877480": {
+    "appid": 2877480,
+    "title": "StarArc Echo",
+    "genre": "Action, Adventure, Casual, Indie, Massively Multiplayer, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2877480/8acba141bf2c421a158380bf89270ad6bb9e83e3/header.jpg?t=1762697312",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
+  },
+  "2952970": {
+    "appid": 2952970,
+    "title": "The Rule Of SHE",
+    "genre": "Adventure, Indie, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2952970/35fbe3e07b399917aea31df812803459a0963ecd/header.jpg?t=1761878257",
+    "price_display": "Rp 56.499",
+    "reason": "protected_not_in_fx"
   }
 }

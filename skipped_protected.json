@@ -2318,5 +2318,13 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325080/header.jpg?t=1644686460",
     "price_display": "Rp 48.999",
     "reason": "protected_not_in_fx"
+  },
+  "1428140": {
+    "appid": 1428140,
+    "title": "Riding Seas",
+    "genre": "Action, Indie, Racing, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1428140/header.jpg?t=1746570326",
+    "price_display": "Rp 47.499",
+    "reason": "protected_not_in_fx"
   }
 }

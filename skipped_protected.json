@@ -2366,5 +2366,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240350/header.jpg?t=1732560320",
     "price_display": "Rp 47.499",
     "reason": "protected_not_in_fx"
+  },
+  "3623380": {
+    "appid": 3623380,
+    "title": "Toilet Toss",
+    "genre": "Action, Casual, Indie, Simulation, Sports",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3623380/87d407232eb24345ea48fe0c9838eff2fbc9dd1e/header.jpg?t=1747131897",
+    "price_display": "Rp 47.499",
+    "reason": "protected_not_in_fx"
+  },
+  "3774530": {
+    "appid": 3774530,
+    "title": "YATTY - Dice Card Battle -",
+    "genre": "Indie",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774530/0d5468b003e5f38a4f0eda884b5993557fb13f1c/header.jpg?t=1763719489",
+    "price_display": "Rp 47.499",
+    "reason": "protected_not_in_fx"
   }
 }

@@ -2294,5 +2294,29 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3588260/791b16c888115112935aafdcaf850bbd1cd795ab/header.jpg?t=1750902216",
     "price_display": "Rp 56.499",
     "reason": "protected_not_in_fx"
+  },
+  "375620": {
+    "appid": 375620,
+    "title": "CortexGear: AngryDroids",
+    "genre": "Action, Adventure, Indie, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/375620/header.jpg?t=1741144412",
+    "price_display": "Rp 48.999",
+    "reason": "protected_not_in_fx"
+  },
+  "582660": {
+    "appid": 582660,
+    "title": "Black Desert",
+    "genre": "Action, Adventure, Massively Multiplayer, RPG, Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582660/header.jpg?t=1758315448",
+    "price_display": "Rp 48.999",
+    "reason": "protected_not_in_fx"
+  },
+  "1325080": {
+    "appid": 1325080,
+    "title": "CyberBorn",
+    "genre": "Action, Indie, Massively Multiplayer",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1325080/header.jpg?t=1644686460",
+    "price_display": "Rp 48.999",
+    "reason": "protected_not_in_fx"
   }
 }

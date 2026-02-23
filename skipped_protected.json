@@ -2382,5 +2382,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3774530/0d5468b003e5f38a4f0eda884b5993557fb13f1c/header.jpg?t=1763719489",
     "price_display": "Rp 47.499",
     "reason": "protected_not_in_fx"
+  },
+  "4137970": {
+    "appid": 4137970,
+    "title": "Mission Whilkas",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4137970/9e55e3eba184f48cd994afb394f199022e1bccf4/header.jpg?t=1764184173",
+    "price_display": "Rp 47.499",
+    "reason": "protected_not_in_fx"
+  },
+  "3590": {
+    "appid": 3590,
+    "title": "Plants vs. Zombies GOTY Edition",
+    "genre": "Strategy",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3590/header.jpg?t=1738970324",
+    "price_display": "Rp 45.999",
+    "reason": "protected_not_in_fx"
   }
 }

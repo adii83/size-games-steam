@@ -2454,5 +2454,13 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2008820/header.jpg?t=1726599838",
     "price_display": "Rp 37.999",
     "reason": "protected_not_in_fx"
+  },
+  "3153140": {
+    "appid": 3153140,
+    "title": "Mush Dash",
+    "genre": "Adventure, Casual, Indie, Racing, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3153140/59a9e6e12de116d0e616c4d2b8cb37e8d40b65c3/header.jpg?t=1763139206",
+    "price_display": "Rp 37.999",
+    "reason": "protected_not_in_fx"
   }
 }

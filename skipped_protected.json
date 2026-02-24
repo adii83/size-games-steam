@@ -2470,5 +2470,21 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3560520/7b026bccd68e3d04225301935113316b2fb3e4af/header.jpg?t=1743809121",
     "price_display": "Rp 37.999",
     "reason": "protected_not_in_fx"
+  },
+  "3114360": {
+    "appid": 3114360,
+    "title": "ViruStream",
+    "genre": "Adventure, Casual, Indie, Simulation",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3114360/header.jpg?t=1743088860",
+    "price_display": "Rp 28.999",
+    "reason": "protected_not_in_fx"
+  },
+  "3148430": {
+    "appid": 3148430,
+    "title": "SPEAR AND ARMOR",
+    "genre": "Adventure, RPG",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3148430/header.jpg?t=1726856853",
+    "price_display": "Rp 28.999",
+    "reason": "protected_not_in_fx"
   }
 }

@@ -2502,5 +2502,13 @@
     "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1285130/header.jpg?t=1588971498",
     "price_display": "Rp 24.999",
     "reason": "protected_not_in_fx"
+  },
+  "2607230": {
+    "appid": 2607230,
+    "title": "Planeticus",
+    "genre": "Indie, Massively Multiplayer, Strategy, Early Access",
+    "header": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2607230/header.jpg?t=1705278702",
+    "price_display": "Rp 19.499",
+    "reason": "protected_not_in_fx"
   }
 }
